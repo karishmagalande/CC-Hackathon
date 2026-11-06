@@ -1,0 +1,3456 @@
+session_id,t,verb,object,target
+REF-SC01,1.69,communicate,team,patient hand-off (nursing packet)
+REF-SC01,5.29,view,epic,"check orders, meds, labs"
+REF-SC01,9.08,touch,patient,forehead
+REF-SC01,10.36,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+REF-SC01,43.82,view,comet,COMET risk score: severity of condition
+REF-SC01,44.66,touch,patient,chest
+REF-SC01,45.28,check,monitor,read vitals
+REF-SC01,52.94,use,phone,speed_dial_help
+REF-SC01,58.46,manipulate,patient,head_tilt
+REF-SC01,63.28,communicate,team,discuss concerns with provider
+REF-SC01,63.75,grab,bvm,hand
+REF-SC01,65.82,attach,bvm,patient_face
+REF-SC01,73.18,set,o2_flow,flow_knob
+REF-SC01,88.61,check,monitor,watch vitals trend
+REF-SC01,102.05,grab,penlight,hand
+REF-SC01,104.46,use,penlight,patient_eyes
+REF-SC01,112.48,view,epic,chart vitals and head-to-toe
+REF-SC01,166.97,touch,patient,get blood for iSTAT
+REF-SC01,197.79,touch,suction,surface
+REF-SC01,205.8,check,monitor,recheck vitals after intervention
+REF-SC01,209.37,touch,med_cart,surface
+REF-SC01,244.25,communicate,team,listen to care plan from provider
+REF-SC01,275.74,view,epic,update charts
+REF-SC01,281.89,touch,sink,surface
+REF-SC02,1.52,communicate,team,patient hand-off (nursing packet)
+REF-SC02,5.6,touch,door,surface
+REF-SC02,6.22,view,epic,"check orders, meds, labs"
+REF-SC02,9.57,touch,patient,forehead
+REF-SC02,13.95,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+REF-SC02,36.34,touch,patient,chest
+REF-SC02,39.45,check,monitor,read vitals
+REF-SC02,39.52,view,comet,COMET risk score: severity of condition
+REF-SC02,40.02,look_confirm,clock,clock_face
+REF-SC02,43.7,use,phone,speed_dial_help
+REF-SC02,50.24,communicate,team,discuss concerns with provider
+REF-SC02,54.74,set,o2_flow,flow_knob
+REF-SC02,69.46,set,suction,on_switch
+REF-SC02,79.12,touch,med_cart,surface
+REF-SC02,81.87,check,monitor,watch vitals trend
+REF-SC02,98.49,grab,med_cart,hand
+REF-SC02,101.66,administer,med_cart,drawer_3
+REF-SC02,115.05,view,epic,chart vitals and head-to-toe
+REF-SC02,147.82,touch,patient,get blood for iSTAT
+REF-SC02,198.87,check,monitor,recheck vitals after intervention
+REF-SC02,237.38,communicate,team,listen to care plan from provider
+REF-SC02,242.63,touch,sink,surface
+REF-SC02,279.99,view,epic,update charts
+REF-SC03,2.33,communicate,team,patient hand-off (nursing packet)
+REF-SC03,5.65,view,epic,"check orders, meds, labs"
+REF-SC03,10.23,touch,patient,forehead
+REF-SC03,10.77,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+REF-SC03,35.98,view,comet,COMET risk score: severity of condition
+REF-SC03,38.7,touch,patient,chest
+REF-SC03,40.88,check,monitor,read vitals
+REF-SC03,44.22,touch,patient,nail_bed
+REF-SC03,49.74,use,phone,speed_dial_help
+REF-SC03,51.55,communicate,team,discuss concerns with provider
+REF-SC03,74.58,set,iv_pump,start_button
+REF-SC03,78.58,check,monitor,watch vitals trend
+REF-SC03,81.68,grab,iv_pump,hand
+REF-SC03,83.78,administer,iv_pump,bolus_line
+REF-SC03,88.69,view,epic,chart vitals and head-to-toe
+REF-SC03,128.47,touch,patient,get blood for iSTAT
+REF-SC03,134.38,touch,patient,nail_bed_recheck
+REF-SC03,168.81,touch,door,surface
+REF-SC03,174.09,check,monitor,recheck vitals after intervention
+REF-SC03,242.3,touch,door,surface
+REF-SC03,265.8,communicate,team,listen to care plan from provider
+REF-SC03,308.39,view,epic,update charts
+REF-SC04,2.06,communicate,team,patient hand-off (nursing packet)
+REF-SC04,5.16,view,epic,"check orders, meds, labs"
+REF-SC04,11.58,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+REF-SC04,11.69,touch,patient,forehead
+REF-SC04,29.12,check,monitor,read vitals
+REF-SC04,29.75,touch,patient,chest
+REF-SC04,34.35,set,iv_pump,channel_select
+REF-SC04,34.54,view,comet,COMET risk score: severity of condition
+REF-SC04,39.87,use,phone,speed_dial_help
+REF-SC04,50.09,communicate,team,discuss concerns with provider
+REF-SC04,50.84,grab,med_cart,hand
+REF-SC04,53.67,administer,med_cart,drawer_2
+REF-SC04,62.87,set,o2_flow,flow_knob
+REF-SC04,68.06,check,monitor,watch vitals trend
+REF-SC04,72.07,manipulate,patient,supine_legs_up
+REF-SC04,96.17,view,epic,chart vitals and head-to-toe
+REF-SC04,128.59,touch,sink,surface
+REF-SC04,152.95,touch,patient,get blood for iSTAT
+REF-SC04,165.54,touch,door,surface
+REF-SC04,169.55,check,monitor,recheck vitals after intervention
+REF-SC04,209.84,touch,suction,surface
+REF-SC04,229.49,communicate,team,listen to care plan from provider
+REF-SC04,262.42,view,epic,update charts
+REF-SC05,2.71,communicate,team,patient hand-off (nursing packet)
+REF-SC05,3.0,view,epic,"check orders, meds, labs"
+REF-SC05,10.07,touch,patient,forehead
+REF-SC05,13.32,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+REF-SC05,35.55,touch,monitor,surface
+REF-SC05,48.26,touch,patient,chest
+REF-SC05,49.41,view,comet,COMET risk score: severity of condition
+REF-SC05,50.43,check,monitor,read vitals
+REF-SC05,50.6,grab,penlight,hand
+REF-SC05,53.78,use,penlight,patient_eyes
+REF-SC05,57.46,use,phone,speed_dial_help
+REF-SC05,61.21,communicate,team,discuss concerns with provider
+REF-SC05,62.98,set,iv_pump,channel_select
+REF-SC05,74.94,set,vent,start_button
+REF-SC05,88.66,check,monitor,watch vitals trend
+REF-SC05,95.64,grab,med_cart,hand
+REF-SC05,97.94,administer,med_cart,drawer_4
+REF-SC05,105.75,touch,monitor,surface
+REF-SC05,108.5,view,epic,chart vitals and head-to-toe
+REF-SC05,167.38,touch,patient,get blood for iSTAT
+REF-SC05,209.0,check,monitor,recheck vitals after intervention
+REF-SC05,224.27,touch,sink,surface
+REF-SC05,248.8,communicate,team,listen to care plan from provider
+REF-SC05,280.18,view,epic,update charts
+S0001,1.1,communicate,team,patient hand-off (nursing packet)
+S0001,4.58,view,epic,"check orders, meds, labs"
+S0001,7.35,touch,patient,forehead
+S0001,48.82,check,monitor,read vitals
+S0001,59.41,touch,patient,chest
+S0001,69.71,communicate,team,discuss concerns with provider
+S0001,86.97,check,monitor,watch vitals trend
+S0001,108.16,set,o2_flow,flow_knob
+S0001,131.47,grab,bvm,hand
+S0001,134.47,attach,bvm,patient_face
+S0001,170.46,touch,suction,surface
+S0001,171.01,touch,patient,get blood for iSTAT
+S0001,202.57,check,monitor,recheck vitals after intervention
+S0001,211.23,grab,penlight,hand
+S0001,214.3,use,penlight,patient_eyes
+S0001,243.54,communicate,team,listen to care plan from provider
+S0002,1.02,communicate,team,patient hand-off (nursing packet)
+S0002,6.75,view,epic,"check orders, meds, labs"
+S0002,8.19,touch,patient,forehead
+S0002,10.46,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0002,39.24,check,monitor,read vitals
+S0002,47.97,touch,patient,chest
+S0002,59.9,communicate,team,discuss concerns with provider
+S0002,62.75,use,phone,speed_dial_help
+S0002,77.18,manipulate,patient,head_tilt
+S0002,78.53,check,monitor,watch vitals trend
+S0002,92.94,touch,sink,surface
+S0002,93.71,view,epic,chart vitals and head-to-toe
+S0002,103.52,grab,bvm,hand
+S0002,105.88,attach,bvm,patient_face
+S0002,135.42,set,o2_flow,flow_knob
+S0002,212.79,touch,door,surface
+S0002,227.1,grab,penlight,hand
+S0002,230.97,use,penlight,patient_eyes
+S0002,232.52,communicate,team,listen to care plan from provider
+S0003,1.97,communicate,team,patient hand-off (nursing packet)
+S0003,4.92,view,epic,"check orders, meds, labs"
+S0003,7.85,touch,patient,forehead
+S0003,11.75,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0003,37.12,view,comet,COMET risk score: severity of condition
+S0003,37.18,check,monitor,read vitals
+S0003,40.83,touch,patient,chest
+S0003,45.17,use,phone,speed_dial_help
+S0003,46.65,communicate,team,discuss concerns with provider
+S0003,67.03,check,monitor,watch vitals trend
+S0003,69.97,set,o2_flow,flow_knob
+S0003,71.33,touch,suction,surface
+S0003,72.36,manipulate,patient,head_tilt
+S0003,73.26,grab,bvm,hand
+S0003,75.16,attach,bvm,patient_face
+S0003,108.52,view,epic,chart vitals and head-to-toe
+S0003,134.62,touch,patient,get blood for iSTAT
+S0003,139.8,touch,sink,surface
+S0003,149.14,grab,penlight,hand
+S0003,151.08,use,penlight,patient_eyes
+S0003,197.84,check,monitor,recheck vitals after intervention
+S0003,254.81,communicate,team,listen to care plan from provider
+S0004,10.31,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0004,11.55,touch,patient,forehead
+S0004,40.07,check,monitor,read vitals
+S0004,45.66,touch,patient,chest
+S0004,51.06,set,iv_pump,channel_select
+S0004,58.92,communicate,team,discuss concerns with provider
+S0004,71.55,use,phone,speed_dial_help
+S0004,80.61,check,monitor,watch vitals trend
+S0004,91.15,grab,med_cart,hand
+S0004,94.78,administer,med_cart,drawer_2
+S0004,116.83,view,epic,chart vitals and head-to-toe
+S0004,132.27,touch,suction,surface
+S0004,152.35,touch,patient,get blood for iSTAT
+S0004,229.03,communicate,team,listen to care plan from provider
+S0004,269.51,view,epic,update charts
+S0005,1.44,communicate,team,patient hand-off (nursing packet)
+S0005,9.64,touch,patient,forehead
+S0005,13.59,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0005,18.08,touch,sink,surface
+S0005,28.3,check,monitor,read vitals
+S0005,28.75,touch,patient,chest
+S0005,42.16,look_confirm,clock,clock_face
+S0005,45.62,communicate,team,discuss concerns with provider
+S0005,48.06,use,phone,speed_dial_help
+S0005,60.03,check,monitor,watch vitals trend
+S0005,93.86,touch,sink,surface
+S0005,94.86,view,epic,chart vitals and head-to-toe
+S0005,146.05,touch,patient,get blood for iSTAT
+S0005,150.4,touch,med_cart,surface
+S0005,175.67,check,monitor,recheck vitals after intervention
+S0005,252.56,grab,med_cart,hand
+S0005,254.62,administer,med_cart,drawer_3
+S0005,287.31,view,epic,update charts
+S0006,2.35,communicate,team,respiratory hand-off
+S0006,6.17,touch,patient,forehead
+S0006,6.47,inspect,vent,check respiratory equipment
+S0006,52.29,check,monitor,SpO2 and respiratory rate
+S0006,54.88,view,comet,COMET risk score: severity of condition
+S0006,62.04,touch,monitor,surface
+S0006,67.65,check,monitor,re-read vitals
+S0006,71.98,touch,patient,chest
+S0006,103.45,view,epic,check respiratory orders
+S0006,103.52,touch,sink,surface
+S0006,104.42,use,phone,speed_dial_help
+S0006,114.1,grab,penlight,hand
+S0006,115.28,set,iv_pump,channel_select
+S0006,117.43,use,penlight,patient_eyes
+S0006,143.69,touch,sink,surface
+S0006,149.04,communicate,team,discuss settings with provider
+S0006,156.65,check,monitor,re-read vitals
+S0006,172.23,touch,patient,reassess breath sounds
+S0006,278.49,communicate,team,hand back to bedside team
+S0007,1.08,communicate,team,respiratory hand-off
+S0007,8.93,inspect,vent,check respiratory equipment
+S0007,8.97,touch,patient,forehead
+S0007,44.57,check,monitor,SpO2 and respiratory rate
+S0007,48.08,check,monitor,re-read vitals
+S0007,58.28,touch,patient,chest
+S0007,63.16,communicate,team,update team on airway
+S0007,68.16,grab,penlight,hand
+S0007,71.39,use,penlight,patient_eyes
+S0007,74.11,use,phone,speed_dial_help
+S0007,85.06,set,iv_pump,channel_select
+S0007,102.1,view,epic,check respiratory orders
+S0007,112.61,set,vent,start_button
+S0007,131.03,check,monitor,re-read vitals
+S0007,141.06,check,monitor,re-read vitals
+S0007,144.45,communicate,team,discuss settings with provider
+S0007,160.45,touch,patient,reassess breath sounds
+S0007,176.42,grab,med_cart,hand
+S0007,180.36,administer,med_cart,drawer_4
+S0007,205.54,touch,monitor,surface
+S0007,263.37,touch,door,surface
+S0007,272.68,communicate,team,hand back to bedside team
+S0008,1.75,communicate,team,respiratory hand-off
+S0008,6.45,touch,patient,forehead
+S0008,9.59,inspect,vent,check respiratory equipment
+S0008,38.94,check,monitor,re-read vitals
+S0008,40.86,check,monitor,SpO2 and respiratory rate
+S0008,42.32,view,comet,COMET risk score: severity of condition
+S0008,49.89,communicate,team,update team on airway
+S0008,50.4,touch,patient,chest
+S0008,56.14,touch,patient,nail_bed
+S0008,71.62,use,phone,speed_dial_help
+S0008,84.4,check,monitor,re-read vitals
+S0008,90.99,touch,monitor,surface
+S0008,102.42,view,epic,check respiratory orders
+S0008,128.41,grab,iv_pump,hand
+S0008,130.13,administer,iv_pump,bolus_line
+S0008,131.35,check,monitor,re-read vitals
+S0008,132.18,communicate,team,discuss settings with provider
+S0008,141.78,set,iv_pump,start_button
+S0008,169.37,touch,patient,nail_bed_recheck
+S0008,240.27,touch,med_cart,surface
+S0008,297.81,touch,sink,surface
+S0008,311.24,communicate,team,hand back to bedside team
+S0009,2.69,communicate,team,respiratory hand-off
+S0009,6.9,touch,patient,forehead
+S0009,8.85,inspect,vent,check respiratory equipment
+S0009,38.29,check,monitor,SpO2 and respiratory rate
+S0009,44.84,touch,patient,chest
+S0009,44.87,check,monitor,re-read vitals
+S0009,49.45,touch,suction,surface
+S0009,52.41,check,monitor,re-read vitals
+S0009,52.87,communicate,team,update team on airway
+S0009,59.51,set,iv_pump,channel_select
+S0009,63.48,use,phone,speed_dial_help
+S0009,72.8,touch,door,surface
+S0009,106.08,view,epic,check respiratory orders
+S0009,108.76,set,o2_flow,flow_knob
+S0009,136.98,communicate,team,discuss settings with provider
+S0009,150.75,touch,suction,surface
+S0009,161.49,touch,patient,reassess breath sounds
+S0009,255.65,communicate,team,hand back to bedside team
+S0010,6.27,inspect,vent,check respiratory equipment
+S0010,7.32,touch,patient,forehead
+S0010,31.66,touch,monitor,surface
+S0010,41.7,view,comet,COMET risk score: severity of condition
+S0010,43.89,check,monitor,SpO2 and respiratory rate
+S0010,48.05,touch,patient,chest
+S0010,55.16,grab,penlight,hand
+S0010,55.5,communicate,team,update team on airway
+S0010,58.21,use,penlight,patient_eyes
+S0010,62.99,use,phone,speed_dial_help
+S0010,66.9,set,iv_pump,channel_select
+S0010,70.6,check,monitor,re-read vitals
+S0010,95.15,set,vent,start_button
+S0010,103.84,view,epic,check respiratory orders
+S0010,111.12,touch,sink,surface
+S0010,136.74,communicate,team,discuss settings with provider
+S0010,138.1,touch,med_cart,surface
+S0010,151.45,check,monitor,re-read vitals
+S0010,153.61,touch,patient,reassess breath sounds
+S0010,155.17,check,monitor,re-read vitals
+S0010,172.1,grab,med_cart,hand
+S0010,175.74,administer,med_cart,drawer_4
+S0010,282.33,communicate,team,hand back to bedside team
+S0011,8.54,view,epic,"check orders, meds, labs"
+S0011,12.7,view,epic,review trends and notes
+S0011,17.7,touch,patient,forehead
+S0011,19.9,touch,patient,physical exam
+S0011,36.04,touch,patient,chest
+S0011,40.84,check,monitor,review vitals trend
+S0011,52.12,communicate,team,discuss concerns with team
+S0011,53.55,use,phone,speed_dial_help
+S0011,112.9,touch,patient,reassess response
+S0011,129.84,manipulate,patient,supine_legs_up
+S0011,132.42,set,o2_flow,flow_knob
+S0011,142.84,view,epic,new orders and labs
+S0011,238.08,touch,suction,surface
+S0011,247.58,communicate,team,share care plan
+S0012,1.98,communicate,team,patient hand-off
+S0012,5.44,view,epic,"check orders, meds, labs"
+S0012,13.99,view,epic,review trends and notes
+S0012,16.52,touch,patient,forehead
+S0012,20.37,touch,patient,physical exam
+S0012,39.85,view,comet,COMET risk score: severity of condition
+S0012,42.82,touch,patient,chest
+S0012,46.06,check,monitor,review vitals trend
+S0012,56.28,set,iv_pump,channel_select
+S0012,60.21,use,phone,speed_dial_help
+S0012,61.15,communicate,team,discuss concerns with team
+S0012,67.44,grab,med_cart,hand
+S0012,67.98,touch,suction,surface
+S0012,70.7,administer,med_cart,drawer_2
+S0012,85.31,set,o2_flow,flow_knob
+S0012,102.86,manipulate,patient,supine_legs_up
+S0012,119.16,touch,patient,reassess response
+S0012,153.13,view,epic,new orders and labs
+S0012,249.99,communicate,team,share care plan
+S0013,2.98,communicate,team,patient hand-off
+S0013,5.81,view,epic,"check orders, meds, labs"
+S0013,13.06,view,epic,review trends and notes
+S0013,16.41,touch,patient,forehead
+S0013,23.24,touch,patient,physical exam
+S0013,37.99,touch,sink,surface
+S0013,38.88,view,comet,COMET risk score: severity of condition
+S0013,41.93,touch,patient,chest
+S0013,47.73,look_confirm,clock,clock_face
+S0013,48.07,check,monitor,review vitals trend
+S0013,51.02,use,phone,speed_dial_help
+S0013,55.58,communicate,team,discuss concerns with team
+S0013,70.4,set,o2_flow,flow_knob
+S0013,98.01,set,suction,on_switch
+S0013,107.43,touch,patient,reassess response
+S0013,126.89,touch,door,surface
+S0013,169.26,view,epic,new orders and labs
+S0013,180.83,grab,med_cart,hand
+S0013,184.81,administer,med_cart,drawer_3
+S0013,202.85,touch,sink,surface
+S0013,279.25,communicate,team,share care plan
+S0014,2.27,communicate,team,patient hand-off
+S0014,4.98,view,epic,"check orders, meds, labs"
+S0014,13.81,view,epic,review trends and notes
+S0014,15.63,touch,patient,forehead
+S0014,18.42,touch,patient,physical exam
+S0014,30.16,touch,patient,chest
+S0014,41.87,look_confirm,clock,clock_face
+S0014,45.01,use,phone,speed_dial_help
+S0014,51.72,communicate,team,discuss concerns with team
+S0014,71.36,set,o2_flow,flow_knob
+S0014,77.02,touch,med_cart,surface
+S0014,103.38,touch,patient,reassess response
+S0014,145.83,touch,suction,surface
+S0014,150.38,view,epic,new orders and labs
+S0014,163.99,grab,med_cart,hand
+S0014,166.28,administer,med_cart,drawer_3
+S0014,197.28,touch,med_cart,surface
+S0014,277.91,communicate,team,share care plan
+S0015,2.61,communicate,team,patient hand-off
+S0015,6.31,view,epic,"check orders, meds, labs"
+S0015,11.2,view,epic,review trends and notes
+S0015,14.25,touch,patient,forehead
+S0015,22.81,touch,patient,physical exam
+S0015,28.65,view,comet,COMET risk score: severity of condition
+S0015,29.6,touch,med_cart,surface
+S0015,32.23,touch,patient,chest
+S0015,33.09,check,monitor,review vitals trend
+S0015,34.87,look_confirm,clock,clock_face
+S0015,42.76,use,phone,speed_dial_help
+S0015,43.9,communicate,team,discuss concerns with team
+S0015,63.04,set,o2_flow,flow_knob
+S0015,79.31,set,suction,on_switch
+S0015,84.72,grab,med_cart,hand
+S0015,87.56,administer,med_cart,drawer_3
+S0015,107.83,touch,patient,reassess response
+S0015,166.03,view,epic,new orders and labs
+S0015,166.07,touch,door,surface
+S0015,273.17,communicate,team,share care plan
+S0016,2.24,communicate,team,patient hand-off
+S0016,8.09,view,epic,"check orders, meds, labs"
+S0016,13.07,view,epic,review trends and notes
+S0016,15.08,touch,patient,forehead
+S0016,19.85,touch,patient,physical exam
+S0016,31.96,view,comet,COMET risk score: severity of condition
+S0016,32.35,touch,patient,chest
+S0016,40.47,check,monitor,review vitals trend
+S0016,42.78,set,iv_pump,channel_select
+S0016,45.22,use,phone,speed_dial_help
+S0016,46.29,communicate,team,discuss concerns with team
+S0016,57.23,set,o2_flow,flow_knob
+S0016,71.05,grab,med_cart,hand
+S0016,73.41,administer,med_cart,drawer_2
+S0016,95.26,manipulate,patient,supine_legs_up
+S0016,123.15,touch,monitor,surface
+S0016,143.78,view,epic,new orders and labs
+S0016,252.36,communicate,team,share care plan
+S0016,253.82,touch,sink,surface
+S0017,8.62,view,epic,"check orders, meds, labs"
+S0017,14.64,touch,patient,forehead
+S0017,28.7,touch,patient,chest
+S0017,38.26,check,monitor,review vitals trend
+S0017,39.67,set,iv_pump,channel_select
+S0017,43.66,communicate,team,discuss concerns with team
+S0017,77.13,grab,med_cart,hand
+S0017,79.08,administer,med_cart,drawer_2
+S0017,91.04,use,phone,speed_dial_help
+S0017,105.86,set,o2_flow,flow_knob
+S0017,111.81,manipulate,patient,supine_legs_up
+S0017,115.01,touch,med_cart,surface
+S0017,130.73,touch,patient,reassess response
+S0017,151.93,view,epic,new orders and labs
+S0017,256.26,communicate,team,share care plan
+S0018,2.37,communicate,team,patient hand-off
+S0018,6.92,view,epic,"check orders, meds, labs"
+S0018,15.35,touch,patient,forehead
+S0018,15.65,view,epic,review trends and notes
+S0018,21.04,touch,patient,physical exam
+S0018,44.38,touch,patient,chest
+S0018,49.54,check,monitor,review vitals trend
+S0018,57.41,set,iv_pump,channel_select
+S0018,103.17,use,phone,speed_dial_help
+S0018,110.85,touch,door,surface
+S0018,130.42,grab,med_cart,hand
+S0018,133.81,administer,med_cart,drawer_2
+S0018,136.96,manipulate,patient,supine_legs_up
+S0018,138.31,touch,patient,reassess response
+S0018,139.78,set,o2_flow,flow_knob
+S0018,152.6,view,epic,new orders and labs
+S0018,227.85,touch,door,surface
+S0018,260.8,communicate,team,share care plan
+S0019,1.91,communicate,team,patient hand-off
+S0019,6.17,view,epic,"check orders, meds, labs"
+S0019,17.41,touch,patient,forehead
+S0019,18.2,touch,patient,physical exam
+S0019,36.49,view,comet,COMET risk score: severity of condition
+S0019,41.99,touch,patient,chest
+S0019,45.83,check,monitor,review vitals trend
+S0019,59.33,manipulate,patient,head_tilt
+S0019,66.45,grab,bvm,hand
+S0019,68.22,attach,bvm,patient_face
+S0019,73.33,touch,sink,surface
+S0019,73.74,set,o2_flow,flow_knob
+S0019,86.39,use,phone,speed_dial_help
+S0019,105.56,grab,penlight,hand
+S0019,108.45,use,penlight,patient_eyes
+S0019,113.64,touch,patient,reassess response
+S0019,169.19,view,epic,new orders and labs
+S0019,212.7,touch,sink,surface
+S0020,7.13,view,epic,"check orders, meds, labs"
+S0020,12.74,view,epic,review trends and notes
+S0020,16.0,touch,patient,forehead
+S0020,19.89,touch,patient,physical exam
+S0020,44.15,touch,patient,chest
+S0020,47.04,view,comet,COMET risk score: severity of condition
+S0020,47.78,check,monitor,review vitals trend
+S0020,53.45,set,iv_pump,channel_select
+S0020,64.44,use,phone,speed_dial_help
+S0020,66.0,grab,med_cart,hand
+S0020,69.77,administer,med_cart,drawer_2
+S0020,69.86,communicate,team,discuss concerns with team
+S0020,88.89,set,o2_flow,flow_knob
+S0020,98.19,touch,monitor,surface
+S0020,99.87,manipulate,patient,supine_legs_up
+S0020,135.21,touch,patient,reassess response
+S0020,187.26,touch,suction,surface
+S0021,8.24,inspect,vent,check respiratory equipment
+S0021,12.0,touch,patient,forehead
+S0021,31.03,touch,patient,chest
+S0021,40.76,communicate,team,update team on airway
+S0021,49.09,look_confirm,clock,clock_face
+S0021,64.23,use,phone,speed_dial_help
+S0021,66.82,set,o2_flow,flow_knob
+S0021,78.22,view,epic,check respiratory orders
+S0021,111.08,communicate,team,discuss settings with provider
+S0021,112.66,set,suction,on_switch
+S0021,115.53,touch,med_cart,surface
+S0021,143.64,touch,patient,reassess breath sounds
+S0021,145.04,grab,med_cart,hand
+S0021,146.69,administer,med_cart,drawer_3
+S0022,6.28,touch,patient,forehead
+S0022,30.84,check,monitor,SpO2 and respiratory rate
+S0022,31.88,touch,patient,chest
+S0022,51.98,communicate,team,update team on airway
+S0022,61.77,look_confirm,clock,clock_face
+S0022,80.07,set,o2_flow,flow_knob
+S0022,81.06,view,epic,check respiratory orders
+S0022,113.31,communicate,team,discuss settings with provider
+S0022,113.84,set,suction,on_switch
+S0022,122.99,touch,monitor,surface
+S0022,145.89,touch,patient,reassess breath sounds
+S0022,186.34,grab,med_cart,hand
+S0022,189.53,administer,med_cart,drawer_3
+S0022,284.9,communicate,team,hand back to bedside team
+S0023,7.26,touch,patient,forehead
+S0023,7.8,inspect,vent,check respiratory equipment
+S0023,35.44,check,monitor,SpO2 and respiratory rate
+S0023,36.78,touch,patient,chest
+S0023,43.93,communicate,team,update team on airway
+S0023,57.75,set,iv_pump,channel_select
+S0023,91.71,grab,med_cart,hand
+S0023,93.34,administer,med_cart,drawer_2
+S0023,97.98,view,epic,check respiratory orders
+S0023,101.42,touch,door,surface
+S0023,112.19,use,phone,speed_dial_help
+S0023,115.53,communicate,team,discuss settings with provider
+S0023,159.8,set,o2_flow,flow_knob
+S0023,198.91,manipulate,patient,supine_legs_up
+S0023,223.41,touch,sink,surface
+S0024,1.34,communicate,team,respiratory hand-off
+S0024,9.46,inspect,vent,check respiratory equipment
+S0024,11.22,touch,patient,forehead
+S0024,28.3,check,monitor,SpO2 and respiratory rate
+S0024,31.01,view,comet,COMET risk score: severity of condition
+S0024,31.33,touch,patient,chest
+S0024,45.43,use,phone,speed_dial_help
+S0024,46.25,communicate,team,update team on airway
+S0024,48.64,look_confirm,clock,clock_face
+S0024,53.46,set,o2_flow,flow_knob
+S0024,54.05,touch,monitor,surface
+S0024,66.58,set,suction,on_switch
+S0024,77.98,touch,monitor,surface
+S0024,96.0,grab,med_cart,hand
+S0024,98.27,administer,med_cart,drawer_3
+S0024,98.34,view,epic,check respiratory orders
+S0024,156.84,touch,patient,reassess breath sounds
+S0024,184.3,touch,door,surface
+S0024,283.21,communicate,team,hand back to bedside team
+S0025,2.84,communicate,team,patient hand-off
+S0025,4.98,view,epic,"check orders, meds, labs"
+S0025,11.48,view,epic,review trends and notes
+S0025,17.89,touch,patient,forehead
+S0025,34.55,touch,monitor,surface
+S0025,40.39,view,comet,COMET risk score: severity of condition
+S0025,42.15,touch,patient,chest
+S0025,49.11,check,monitor,review vitals trend
+S0025,60.21,communicate,team,discuss concerns with team
+S0025,62.18,set,iv_pump,channel_select
+S0025,68.09,use,phone,speed_dial_help
+S0025,111.73,manipulate,patient,supine_legs_up
+S0025,115.75,set,o2_flow,flow_knob
+S0025,133.0,touch,patient,reassess response
+S0025,144.4,touch,monitor,surface
+S0025,163.54,view,epic,new orders and labs
+S0025,254.75,communicate,team,share care plan
+S0026,4.78,view,epic,"check orders, meds, labs"
+S0026,14.26,view,epic,review trends and notes
+S0026,15.34,touch,patient,forehead
+S0026,19.08,touch,patient,physical exam
+S0026,45.64,touch,suction,surface
+S0026,45.89,touch,patient,chest
+S0026,47.86,check,monitor,review vitals trend
+S0026,57.07,communicate,team,discuss concerns with team
+S0026,59.33,set,iv_pump,channel_select
+S0026,63.31,use,phone,speed_dial_help
+S0026,122.17,manipulate,patient,supine_legs_up
+S0026,176.12,view,epic,new orders and labs
+S0026,260.66,communicate,team,share care plan
+S0027,2.81,communicate,team,patient hand-off
+S0027,7.88,view,epic,"check orders, meds, labs"
+S0027,10.83,view,epic,review trends and notes
+S0027,16.55,touch,patient,forehead
+S0027,38.63,view,comet,COMET risk score: severity of condition
+S0027,45.43,touch,patient,chest
+S0027,47.27,check,monitor,review vitals trend
+S0027,51.91,touch,patient,nail_bed
+S0027,54.01,communicate,team,discuss concerns with team
+S0027,79.75,grab,iv_pump,hand
+S0027,82.35,administer,iv_pump,bolus_line
+S0027,85.5,use,phone,speed_dial_help
+S0027,140.79,touch,patient,reassess response
+S0027,164.27,view,epic,new orders and labs
+S0027,184.23,touch,patient,nail_bed_recheck
+S0027,261.02,touch,sink,surface
+S0027,313.98,communicate,team,share care plan
+S0028,1.79,communicate,team,patient hand-off (nursing packet)
+S0028,4.47,view,epic,"check orders, meds, labs"
+S0028,9.63,touch,patient,forehead
+S0028,10.15,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0028,50.86,view,comet,COMET risk score: severity of condition
+S0028,54.14,check,monitor,read vitals
+S0028,56.8,check,monitor,re-read vitals
+S0028,62.08,touch,sink,surface
+S0028,67.5,touch,patient,nail_bed
+S0028,76.08,communicate,team,discuss concerns with provider
+S0028,81.08,use,phone,speed_dial_help
+S0028,84.83,check,monitor,re-read vitals
+S0028,86.7,check,monitor,re-read vitals
+S0028,92.78,check,monitor,watch vitals trend
+S0028,105.58,touch,sink,surface
+S0028,130.86,set,iv_pump,start_button
+S0028,131.26,grab,iv_pump,hand
+S0028,133.5,administer,iv_pump,bolus_line
+S0028,194.28,touch,door,surface
+S0028,201.29,check,monitor,recheck vitals after intervention
+S0028,243.39,touch,patient,nail_bed_recheck
+S0028,280.58,communicate,team,listen to care plan from provider
+S0028,305.85,view,epic,update charts
+S0029,2.92,communicate,team,patient hand-off (nursing packet)
+S0029,3.68,view,epic,"check orders, meds, labs"
+S0029,9.01,touch,patient,forehead
+S0029,9.27,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0029,36.95,view,comet,COMET risk score: severity of condition
+S0029,38.97,check,monitor,read vitals
+S0029,40.32,touch,med_cart,surface
+S0029,45.73,touch,patient,chest
+S0029,49.54,check,monitor,re-read vitals
+S0029,53.19,communicate,team,discuss concerns with provider
+S0029,55.06,touch,patient,nail_bed
+S0029,73.24,use,phone,speed_dial_help
+S0029,79.66,check,monitor,watch vitals trend
+S0029,92.86,check,monitor,re-read vitals
+S0029,93.74,view,epic,chart vitals and head-to-toe
+S0029,112.95,grab,iv_pump,hand
+S0029,116.42,administer,iv_pump,bolus_line
+S0029,133.42,touch,patient,get blood for iSTAT
+S0029,151.72,touch,door,surface
+S0029,157.88,set,iv_pump,start_button
+S0029,184.53,check,monitor,recheck vitals after intervention
+S0029,191.89,touch,monitor,surface
+S0029,252.96,touch,patient,nail_bed_recheck
+S0029,279.21,communicate,team,listen to care plan from provider
+S0029,318.14,view,epic,update charts
+S0030,2.0,communicate,team,patient hand-off (nursing packet)
+S0030,10.96,touch,patient,forehead
+S0030,11.76,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0030,38.21,view,comet,COMET risk score: severity of condition
+S0030,47.6,check,monitor,re-read vitals
+S0030,49.23,touch,patient,chest
+S0030,54.52,check,monitor,re-read vitals
+S0030,61.88,use,phone,speed_dial_help
+S0030,78.27,touch,suction,surface
+S0030,81.27,manipulate,patient,head_tilt
+S0030,82.93,check,monitor,watch vitals trend
+S0030,91.08,view,epic,chart vitals and head-to-toe
+S0030,93.45,touch,sink,surface
+S0030,100.18,set,o2_flow,flow_knob
+S0030,100.31,grab,bvm,hand
+S0030,103.32,attach,bvm,patient_face
+S0030,126.24,touch,patient,get blood for iSTAT
+S0030,158.52,touch,suction,surface
+S0030,170.26,grab,penlight,hand
+S0030,173.71,use,penlight,patient_eyes
+S0030,195.93,check,monitor,recheck vitals after intervention
+S0030,254.82,communicate,team,listen to care plan from provider
+S0030,280.74,view,epic,update charts
+S0031,1.22,communicate,team,patient hand-off (nursing packet)
+S0031,4.33,view,epic,"check orders, meds, labs"
+S0031,7.61,touch,patient,forehead
+S0031,13.52,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0031,42.13,touch,patient,chest
+S0031,56.07,use,phone,speed_dial_help
+S0031,58.13,communicate,team,discuss concerns with provider
+S0031,75.54,check,monitor,watch vitals trend
+S0031,75.55,manipulate,patient,head_tilt
+S0031,83.74,check,monitor,re-read vitals
+S0031,92.15,check,monitor,re-read vitals
+S0031,92.82,grab,bvm,hand
+S0031,94.45,attach,bvm,patient_face
+S0031,97.4,set,o2_flow,flow_knob
+S0031,102.39,view,epic,chart vitals and head-to-toe
+S0031,141.02,check,monitor,re-read vitals
+S0031,180.51,check,monitor,recheck vitals after intervention
+S0031,193.38,grab,penlight,hand
+S0031,194.93,use,penlight,patient_eyes
+S0031,228.52,touch,suction,surface
+S0031,232.18,communicate,team,listen to care plan from provider
+S0031,282.67,view,epic,update charts
+S0032,2.83,communicate,team,patient hand-off (nursing packet)
+S0032,5.19,view,epic,"check orders, meds, labs"
+S0032,7.98,touch,patient,forehead
+S0032,10.17,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0032,39.47,check,monitor,re-read vitals
+S0032,40.18,check,monitor,read vitals
+S0032,40.49,touch,patient,chest
+S0032,52.34,set,iv_pump,channel_select
+S0032,55.62,check,monitor,re-read vitals
+S0032,55.92,touch,sink,surface
+S0032,60.67,communicate,team,discuss concerns with provider
+S0032,77.17,check,monitor,watch vitals trend
+S0032,97.93,view,epic,chart vitals and head-to-toe
+S0032,143.06,set,o2_flow,flow_knob
+S0032,161.12,touch,patient,get blood for iSTAT
+S0032,172.36,touch,sink,surface
+S0032,196.0,check,monitor,recheck vitals after intervention
+S0032,199.9,manipulate,patient,supine_legs_up
+S0032,212.02,communicate,team,listen to care plan from provider
+S0032,255.32,view,epic,update charts
+S0033,2.19,communicate,team,patient hand-off (nursing packet)
+S0033,4.1,view,epic,"check orders, meds, labs"
+S0033,9.14,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0033,10.64,touch,patient,forehead
+S0033,29.91,view,comet,COMET risk score: severity of condition
+S0033,30.09,check,monitor,read vitals
+S0033,32.62,check,monitor,re-read vitals
+S0033,32.97,touch,patient,chest
+S0033,41.9,communicate,team,discuss concerns with provider
+S0033,42.97,look_confirm,clock,clock_face
+S0033,57.46,use,phone,speed_dial_help
+S0033,59.59,check,monitor,re-read vitals
+S0033,70.88,check,monitor,watch vitals trend
+S0033,97.85,view,epic,chart vitals and head-to-toe
+S0033,107.37,touch,suction,surface
+S0033,111.24,check,monitor,re-read vitals
+S0033,126.04,touch,patient,get blood for iSTAT
+S0033,169.56,grab,med_cart,hand
+S0033,171.86,administer,med_cart,drawer_3
+S0033,176.52,check,monitor,recheck vitals after intervention
+S0033,241.6,communicate,team,listen to care plan from provider
+S0034,2.08,communicate,team,patient hand-off (nursing packet)
+S0034,6.46,touch,patient,forehead
+S0034,6.55,view,epic,"check orders, meds, labs"
+S0034,52.62,view,comet,COMET risk score: severity of condition
+S0034,56.06,check,monitor,read vitals
+S0034,61.32,touch,patient,chest
+S0034,65.16,communicate,team,discuss concerns with provider
+S0034,70.17,touch,suction,surface
+S0034,87.49,use,phone,speed_dial_help
+S0034,104.97,view,epic,chart vitals and head-to-toe
+S0034,117.26,touch,sink,surface
+S0034,158.65,set,iv_pump,start_button
+S0034,163.45,touch,patient,get blood for iSTAT
+S0034,184.39,grab,iv_pump,hand
+S0034,187.56,administer,iv_pump,bolus_line
+S0034,205.67,check,monitor,recheck vitals after intervention
+S0034,272.88,communicate,team,listen to care plan from provider
+S0034,306.99,view,epic,update charts
+S0034,310.42,touch,suction,surface
+S0034,323.43,touch,patient,nail_bed_recheck
+S0035,2.41,communicate,team,patient hand-off (nursing packet)
+S0035,11.71,touch,patient,forehead
+S0035,12.54,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0035,43.21,view,comet,COMET risk score: severity of condition
+S0035,43.54,check,monitor,read vitals
+S0035,48.31,touch,patient,chest
+S0035,60.32,communicate,team,discuss concerns with provider
+S0035,61.69,use,phone,speed_dial_help
+S0035,65.24,touch,patient,nail_bed
+S0035,88.71,set,iv_pump,start_button
+S0035,101.23,view,epic,chart vitals and head-to-toe
+S0035,136.64,grab,iv_pump,hand
+S0035,136.92,touch,patient,get blood for iSTAT
+S0035,140.39,administer,iv_pump,bolus_line
+S0035,173.98,check,monitor,recheck vitals after intervention
+S0035,192.1,touch,med_cart,surface
+S0035,210.03,touch,monitor,surface
+S0035,261.19,communicate,team,listen to care plan from provider
+S0035,307.58,view,epic,update charts
+S0036,2.11,communicate,team,patient hand-off (nursing packet)
+S0036,6.5,view,epic,"check orders, meds, labs"
+S0036,7.0,touch,patient,forehead
+S0036,26.13,check,monitor,read vitals
+S0036,26.16,view,comet,COMET risk score: severity of condition
+S0036,42.34,communicate,team,discuss concerns with provider
+S0036,68.04,check,monitor,watch vitals trend
+S0036,89.28,view,epic,chart vitals and head-to-toe
+S0036,114.66,set,o2_flow,flow_knob
+S0036,120.69,grab,med_cart,hand
+S0036,123.31,touch,patient,get blood for iSTAT
+S0036,124.11,administer,med_cart,drawer_2
+S0036,146.89,manipulate,patient,supine_legs_up
+S0036,154.19,touch,suction,surface
+S0036,175.64,check,monitor,recheck vitals after intervention
+S0036,176.62,touch,suction,surface
+S0036,230.9,communicate,team,listen to care plan from provider
+S0036,258.62,view,epic,update charts
+S0037,2.02,communicate,team,patient hand-off (nursing packet)
+S0037,4.76,view,epic,"check orders, meds, labs"
+S0037,7.33,touch,patient,forehead
+S0037,12.56,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0037,56.52,touch,patient,chest
+S0037,64.44,communicate,team,discuss concerns with provider
+S0037,79.31,use,phone,speed_dial_help
+S0037,84.49,check,monitor,watch vitals trend
+S0037,112.06,view,epic,chart vitals and head-to-toe
+S0037,128.12,grab,bvm,hand
+S0037,130.76,attach,bvm,patient_face
+S0037,136.8,set,o2_flow,flow_knob
+S0037,150.46,touch,patient,get blood for iSTAT
+S0037,182.28,check,monitor,recheck vitals after intervention
+S0037,196.27,touch,med_cart,surface
+S0037,223.48,grab,penlight,hand
+S0037,225.99,use,penlight,patient_eyes
+S0037,253.15,communicate,team,listen to care plan from provider
+S0038,2.85,communicate,team,patient hand-off (nursing packet)
+S0038,6.85,view,epic,"check orders, meds, labs"
+S0038,9.99,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0038,10.62,touch,patient,forehead
+S0038,32.09,touch,patient,chest
+S0038,33.84,view,comet,COMET risk score: severity of condition
+S0038,37.87,set,iv_pump,channel_select
+S0038,44.74,use,phone,speed_dial_help
+S0038,46.98,communicate,team,discuss concerns with provider
+S0038,73.61,check,monitor,watch vitals trend
+S0038,88.24,grab,med_cart,hand
+S0038,90.62,administer,med_cart,drawer_2
+S0038,94.74,view,epic,chart vitals and head-to-toe
+S0038,105.93,touch,door,surface
+S0038,107.57,set,o2_flow,flow_knob
+S0038,120.69,touch,patient,get blood for iSTAT
+S0038,135.24,manipulate,patient,supine_legs_up
+S0038,174.22,check,monitor,recheck vitals after intervention
+S0038,222.72,communicate,team,listen to care plan from provider
+S0038,250.64,touch,door,surface
+S0038,260.94,view,epic,update charts
+S0039,2.13,communicate,team,patient hand-off (nursing packet)
+S0039,6.06,view,epic,"check orders, meds, labs"
+S0039,6.31,touch,patient,forehead
+S0039,13.92,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0039,29.36,check,monitor,read vitals
+S0039,35.08,touch,patient,chest
+S0039,49.43,communicate,team,discuss concerns with provider
+S0039,54.76,look_confirm,clock,clock_face
+S0039,58.77,use,phone,speed_dial_help
+S0039,94.87,view,epic,chart vitals and head-to-toe
+S0039,100.08,set,o2_flow,flow_knob
+S0039,145.71,touch,door,surface
+S0039,147.24,touch,patient,get blood for iSTAT
+S0039,170.76,set,suction,on_switch
+S0039,189.61,touch,monitor,surface
+S0039,209.3,grab,med_cart,hand
+S0039,212.94,administer,med_cart,drawer_3
+S0039,279.18,view,epic,update charts
+S0040,2.67,communicate,team,patient hand-off
+S0040,7.59,view,epic,"check orders, meds, labs"
+S0040,14.73,touch,patient,forehead
+S0040,15.43,view,epic,review trends and notes
+S0040,18.26,touch,sink,surface
+S0040,22.01,touch,patient,physical exam
+S0040,36.67,view,comet,COMET risk score: severity of condition
+S0040,42.28,check,monitor,review vitals trend
+S0040,42.76,touch,patient,chest
+S0040,60.46,communicate,team,discuss concerns with team
+S0040,75.48,check,monitor,re-read vitals
+S0040,78.1,use,phone,speed_dial_help
+S0040,82.1,check,monitor,re-read vitals
+S0040,82.27,check,monitor,re-read vitals
+S0040,134.0,touch,patient,reassess response
+S0040,134.09,grab,med_cart,hand
+S0040,135.91,administer,med_cart,drawer_2
+S0040,156.74,view,epic,new orders and labs
+S0040,183.27,manipulate,patient,supine_legs_up
+S0040,247.9,touch,door,surface
+S0040,264.95,communicate,team,share care plan
+S0041,6.72,view,epic,"check orders, meds, labs"
+S0041,11.41,view,epic,review trends and notes
+S0041,15.82,touch,patient,forehead
+S0041,23.29,touch,patient,physical exam
+S0041,34.89,view,comet,COMET risk score: severity of condition
+S0041,35.07,touch,patient,chest
+S0041,35.9,check,monitor,review vitals trend
+S0041,48.43,check,monitor,re-read vitals
+S0041,51.99,set,iv_pump,channel_select
+S0041,58.6,use,phone,speed_dial_help
+S0041,61.8,grab,med_cart,hand
+S0041,63.65,administer,med_cart,drawer_2
+S0041,102.53,check,monitor,re-read vitals
+S0041,104.96,touch,patient,reassess response
+S0041,124.39,touch,sink,surface
+S0041,135.67,set,o2_flow,flow_knob
+S0041,147.99,view,epic,new orders and labs
+S0042,1.23,communicate,team,patient hand-off
+S0042,8.14,view,epic,"check orders, meds, labs"
+S0042,10.35,view,epic,review trends and notes
+S0042,17.28,touch,patient,forehead
+S0042,36.58,touch,monitor,surface
+S0042,45.19,view,comet,COMET risk score: severity of condition
+S0042,49.48,check,monitor,review vitals trend
+S0042,59.69,touch,patient,chest
+S0042,59.75,check,monitor,re-read vitals
+S0042,64.09,grab,penlight,hand
+S0042,67.31,use,penlight,patient_eyes
+S0042,71.58,use,phone,speed_dial_help
+S0042,72.53,communicate,team,discuss concerns with team
+S0042,77.91,set,iv_pump,channel_select
+S0042,114.73,check,monitor,re-read vitals
+S0042,134.31,set,vent,start_button
+S0042,148.52,touch,patient,reassess response
+S0042,183.53,view,epic,new orders and labs
+S0042,194.2,grab,med_cart,hand
+S0042,197.67,administer,med_cart,drawer_4
+S0042,245.01,touch,sink,surface
+S0043,1.74,communicate,team,patient hand-off
+S0043,8.24,view,epic,"check orders, meds, labs"
+S0043,13.85,view,epic,review trends and notes
+S0043,17.8,touch,patient,forehead
+S0043,19.45,touch,patient,physical exam
+S0043,43.56,view,comet,COMET risk score: severity of condition
+S0043,44.09,check,monitor,review vitals trend
+S0043,48.95,touch,patient,chest
+S0043,56.02,use,phone,speed_dial_help
+S0043,56.9,grab,penlight,hand
+S0043,59.96,use,penlight,patient_eyes
+S0043,63.03,communicate,team,discuss concerns with team
+S0043,86.44,touch,sink,surface
+S0043,90.85,set,iv_pump,channel_select
+S0043,110.49,check,monitor,re-read vitals
+S0043,132.32,check,monitor,re-read vitals
+S0043,139.53,touch,patient,reassess response
+S0043,139.59,grab,med_cart,hand
+S0043,141.43,administer,med_cart,drawer_4
+S0043,155.62,view,epic,new orders and labs
+S0043,195.32,touch,sink,surface
+S0043,198.7,set,vent,start_button
+S0043,281.74,touch,med_cart,surface
+S0044,1.04,communicate,team,patient hand-off
+S0044,6.38,view,epic,"check orders, meds, labs"
+S0044,12.59,view,epic,review trends and notes
+S0044,15.85,touch,patient,forehead
+S0044,23.56,touch,patient,physical exam
+S0044,53.49,view,comet,COMET risk score: severity of condition
+S0044,53.87,touch,patient,chest
+S0044,63.94,touch,patient,nail_bed
+S0044,64.58,communicate,team,discuss concerns with team
+S0044,74.95,use,phone,speed_dial_help
+S0044,122.64,set,iv_pump,start_button
+S0044,132.65,check,monitor,re-read vitals
+S0044,138.24,check,monitor,re-read vitals
+S0044,140.58,touch,patient,reassess response
+S0044,151.59,grab,iv_pump,hand
+S0044,155.31,administer,iv_pump,bolus_line
+S0044,168.24,touch,door,surface
+S0044,174.74,view,epic,new orders and labs
+S0044,310.69,communicate,team,share care plan
+S0045,4.73,view,epic,"check orders, meds, labs"
+S0045,10.06,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0045,11.05,touch,patient,forehead
+S0045,37.66,touch,patient,chest
+S0045,38.2,check,monitor,read vitals
+S0045,39.05,view,comet,COMET risk score: severity of condition
+S0045,47.89,communicate,team,discuss concerns with provider
+S0045,64.9,set,o2_flow,flow_knob
+S0045,70.8,check,monitor,watch vitals trend
+S0045,71.58,look_confirm,clock,clock_face
+S0045,82.59,use,phone,speed_dial_help
+S0045,95.06,set,suction,on_switch
+S0045,107.84,view,epic,chart vitals and head-to-toe
+S0045,149.64,touch,patient,get blood for iSTAT
+S0045,181.14,check,monitor,recheck vitals after intervention
+S0045,241.25,communicate,team,listen to care plan from provider
+S0045,280.4,view,epic,update charts
+S0045,289.37,touch,med_cart,surface
+S0046,2.39,communicate,team,patient hand-off (nursing packet)
+S0046,5.65,view,epic,"check orders, meds, labs"
+S0046,10.53,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0046,10.83,touch,patient,forehead
+S0046,38.78,check,monitor,read vitals
+S0046,39.32,view,comet,COMET risk score: severity of condition
+S0046,40.03,touch,patient,chest
+S0046,49.03,look_confirm,clock,clock_face
+S0046,62.5,communicate,team,discuss concerns with provider
+S0046,72.97,set,suction,on_switch
+S0046,75.44,use,phone,speed_dial_help
+S0046,108.78,set,o2_flow,flow_knob
+S0046,115.0,view,epic,chart vitals and head-to-toe
+S0046,138.81,touch,patient,get blood for iSTAT
+S0046,145.98,grab,med_cart,hand
+S0046,147.57,administer,med_cart,drawer_3
+S0046,190.96,check,monitor,recheck vitals after intervention
+S0046,239.66,communicate,team,listen to care plan from provider
+S0046,240.84,touch,door,surface
+S0047,1.22,communicate,team,patient hand-off (nursing packet)
+S0047,6.38,view,epic,"check orders, meds, labs"
+S0047,10.42,touch,patient,forehead
+S0047,12.94,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0047,41.09,touch,patient,chest
+S0047,41.3,check,monitor,read vitals
+S0047,51.33,communicate,team,discuss concerns with provider
+S0047,82.38,use,phone,speed_dial_help
+S0047,82.98,check,monitor,watch vitals trend
+S0047,97.93,grab,iv_pump,hand
+S0047,100.81,administer,iv_pump,bolus_line
+S0047,101.37,view,epic,chart vitals and head-to-toe
+S0047,120.51,set,iv_pump,start_button
+S0047,134.66,touch,suction,surface
+S0047,161.33,touch,patient,get blood for iSTAT
+S0047,276.79,touch,patient,nail_bed_recheck
+S0047,283.72,communicate,team,listen to care plan from provider
+S0047,309.77,view,epic,update charts
+S0048,1.27,communicate,team,patient hand-off (nursing packet)
+S0048,4.78,view,epic,"check orders, meds, labs"
+S0048,6.42,touch,patient,forehead
+S0048,10.48,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0048,38.68,check,monitor,read vitals
+S0048,42.86,touch,patient,chest
+S0048,44.24,view,comet,COMET risk score: severity of condition
+S0048,57.81,grab,penlight,hand
+S0048,57.86,touch,sink,surface
+S0048,59.43,use,penlight,patient_eyes
+S0048,72.25,check,monitor,watch vitals trend
+S0048,84.48,set,vent,start_button
+S0048,89.73,use,phone,speed_dial_help
+S0048,94.04,view,epic,chart vitals and head-to-toe
+S0048,96.97,touch,sink,surface
+S0048,98.46,touch,suction,surface
+S0048,126.96,touch,patient,get blood for iSTAT
+S0048,230.18,communicate,team,listen to care plan from provider
+S0048,289.31,view,epic,update charts
+S0049,1.81,communicate,team,patient hand-off (nursing packet)
+S0049,5.03,view,epic,"check orders, meds, labs"
+S0049,7.35,touch,patient,forehead
+S0049,11.89,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0049,30.41,check,monitor,read vitals
+S0049,30.44,view,comet,COMET risk score: severity of condition
+S0049,31.91,touch,door,surface
+S0049,40.7,touch,patient,chest
+S0049,43.27,communicate,team,discuss concerns with provider
+S0049,63.65,look_confirm,clock,clock_face
+S0049,66.55,use,phone,speed_dial_help
+S0049,71.24,check,monitor,watch vitals trend
+S0049,94.8,view,epic,chart vitals and head-to-toe
+S0049,122.02,touch,patient,get blood for iSTAT
+S0049,171.33,check,monitor,recheck vitals after intervention
+S0049,172.43,set,o2_flow,flow_knob
+S0049,247.87,communicate,team,listen to care plan from provider
+S0049,286.39,view,epic,update charts
+S0050,2.89,communicate,team,patient hand-off (nursing packet)
+S0050,4.78,view,epic,"check orders, meds, labs"
+S0050,8.3,touch,patient,forehead
+S0050,10.13,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0050,30.02,check,monitor,read vitals
+S0050,30.94,view,comet,COMET risk score: severity of condition
+S0050,34.5,look_confirm,clock,clock_face
+S0050,36.67,touch,patient,chest
+S0050,42.14,communicate,team,discuss concerns with provider
+S0050,44.94,use,phone,speed_dial_help
+S0050,72.95,set,o2_flow,flow_knob
+S0050,73.14,check,monitor,watch vitals trend
+S0050,97.81,view,epic,chart vitals and head-to-toe
+S0050,115.9,set,suction,on_switch
+S0050,133.17,grab,med_cart,hand
+S0050,134.91,administer,med_cart,drawer_3
+S0050,171.5,check,monitor,recheck vitals after intervention
+S0050,178.47,touch,monitor,surface
+S0050,250.39,communicate,team,listen to care plan from provider
+S0050,275.69,view,epic,update charts
+S0051,1.28,communicate,team,patient hand-off (nursing packet)
+S0051,7.99,touch,patient,forehead
+S0051,14.9,touch,sink,surface
+S0051,34.01,check,monitor,read vitals
+S0051,35.85,touch,patient,chest
+S0051,76.18,check,monitor,watch vitals trend
+S0051,76.95,use,phone,speed_dial_help
+S0051,83.17,view,epic,chart vitals and head-to-toe
+S0051,114.01,grab,med_cart,hand
+S0051,117.37,administer,med_cart,drawer_2
+S0051,129.61,touch,suction,surface
+S0051,154.65,manipulate,patient,supine_legs_up
+S0051,178.56,check,monitor,recheck vitals after intervention
+S0051,200.18,set,o2_flow,flow_knob
+S0051,257.62,view,epic,update charts
+S0052,2.77,communicate,team,patient hand-off (nursing packet)
+S0052,5.91,view,epic,"check orders, meds, labs"
+S0052,8.14,touch,patient,forehead
+S0052,12.49,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0052,27.93,touch,patient,chest
+S0052,28.26,check,monitor,read vitals
+S0052,30.37,view,comet,COMET risk score: severity of condition
+S0052,35.68,look_confirm,clock,clock_face
+S0052,42.97,use,phone,speed_dial_help
+S0052,52.22,communicate,team,discuss concerns with provider
+S0052,65.23,set,o2_flow,flow_knob
+S0052,70.68,check,monitor,watch vitals trend
+S0052,79.76,view,epic,chart vitals and head-to-toe
+S0052,87.1,set,suction,on_switch
+S0052,93.23,touch,suction,surface
+S0052,98.37,touch,med_cart,surface
+S0052,148.67,touch,patient,get blood for iSTAT
+S0052,164.63,grab,med_cart,hand
+S0052,166.14,administer,med_cart,drawer_3
+S0052,179.82,check,monitor,recheck vitals after intervention
+S0052,231.6,touch,monitor,surface
+S0052,244.14,communicate,team,listen to care plan from provider
+S0052,284.43,view,epic,update charts
+S0053,2.87,communicate,team,patient hand-off
+S0053,6.57,view,epic,"check orders, meds, labs"
+S0053,12.14,view,epic,review trends and notes
+S0053,15.59,touch,patient,forehead
+S0053,18.62,touch,patient,physical exam
+S0053,39.52,check,monitor,re-read vitals
+S0053,40.37,check,monitor,review vitals trend
+S0053,42.77,check,monitor,re-read vitals
+S0053,43.9,touch,patient,chest
+S0053,48.15,look_confirm,clock,clock_face
+S0053,55.24,use,phone,speed_dial_help
+S0053,57.19,communicate,team,discuss concerns with team
+S0053,63.4,check,monitor,re-read vitals
+S0053,120.77,touch,patient,reassess response
+S0053,121.85,touch,door,surface
+S0053,149.98,view,epic,new orders and labs
+S0053,184.51,grab,med_cart,hand
+S0053,188.14,administer,med_cart,drawer_3
+S0053,211.15,touch,sink,surface
+S0053,217.76,touch,med_cart,surface
+S0053,275.95,communicate,team,share care plan
+S0054,1.1,communicate,team,patient hand-off
+S0054,15.09,touch,patient,forehead
+S0054,15.52,view,epic,review trends and notes
+S0054,23.07,touch,patient,physical exam
+S0054,36.19,touch,patient,chest
+S0054,38.2,check,monitor,review vitals trend
+S0054,43.32,look_confirm,clock,clock_face
+S0054,46.69,use,phone,speed_dial_help
+S0054,53.48,communicate,team,discuss concerns with team
+S0054,57.49,check,monitor,re-read vitals
+S0054,78.1,check,monitor,re-read vitals
+S0054,88.94,set,o2_flow,flow_knob
+S0054,105.76,touch,patient,reassess response
+S0054,107.55,touch,sink,surface
+S0054,146.24,view,epic,new orders and labs
+S0054,148.28,check,monitor,re-read vitals
+S0054,164.19,set,suction,on_switch
+S0054,199.25,touch,sink,surface
+S0054,279.84,grab,med_cart,hand
+S0054,282.58,administer,med_cart,drawer_3
+S0054,282.87,communicate,team,share care plan
+S0055,7.06,view,epic,"check orders, meds, labs"
+S0055,14.38,touch,patient,forehead
+S0055,23.92,touch,patient,physical exam
+S0055,35.63,check,monitor,review vitals trend
+S0055,37.38,touch,patient,chest
+S0055,48.85,communicate,team,discuss concerns with team
+S0055,51.64,check,monitor,re-read vitals
+S0055,52.08,check,monitor,re-read vitals
+S0055,60.54,set,iv_pump,channel_select
+S0055,63.97,use,phone,speed_dial_help
+S0055,79.09,touch,suction,surface
+S0055,82.51,set,o2_flow,flow_knob
+S0055,91.15,check,monitor,re-read vitals
+S0055,92.42,touch,med_cart,surface
+S0055,107.01,touch,sink,surface
+S0055,109.28,grab,med_cart,hand
+S0055,112.5,administer,med_cart,drawer_2
+S0055,117.66,touch,patient,reassess response
+S0055,134.93,manipulate,patient,supine_legs_up
+S0055,161.94,view,epic,new orders and labs
+S0056,2.35,communicate,team,patient hand-off
+S0056,7.68,view,epic,"check orders, meds, labs"
+S0056,12.39,view,epic,review trends and notes
+S0056,15.44,touch,patient,forehead
+S0056,45.9,touch,med_cart,surface
+S0056,48.02,check,monitor,review vitals trend
+S0056,53.88,touch,patient,chest
+S0056,61.41,communicate,team,discuss concerns with team
+S0056,70.8,check,monitor,re-read vitals
+S0056,89.89,check,monitor,re-read vitals
+S0056,95.03,use,phone,speed_dial_help
+S0056,98.73,set,o2_flow,flow_knob
+S0056,101.36,manipulate,patient,head_tilt
+S0056,124.25,grab,bvm,hand
+S0056,126.09,attach,bvm,patient_face
+S0056,280.16,communicate,team,share care plan
+S0057,1.37,communicate,team,patient hand-off
+S0057,5.58,view,epic,"check orders, meds, labs"
+S0057,16.29,touch,patient,forehead
+S0057,23.73,touch,patient,physical exam
+S0057,36.84,view,comet,COMET risk score: severity of condition
+S0057,36.98,touch,patient,chest
+S0057,43.25,check,monitor,review vitals trend
+S0057,49.48,use,phone,speed_dial_help
+S0057,52.92,communicate,team,discuss concerns with team
+S0057,63.86,grab,bvm,hand
+S0057,66.79,attach,bvm,patient_face
+S0057,69.0,manipulate,patient,head_tilt
+S0057,101.58,set,o2_flow,flow_knob
+S0057,134.14,touch,patient,reassess response
+S0057,146.51,grab,penlight,hand
+S0057,149.03,use,penlight,patient_eyes
+S0057,173.36,view,epic,new orders and labs
+S0057,228.17,touch,suction,surface
+S0058,1.56,communicate,team,patient hand-off
+S0058,5.41,view,epic,"check orders, meds, labs"
+S0058,12.22,view,epic,review trends and notes
+S0058,14.27,touch,patient,forehead
+S0058,19.59,touch,patient,physical exam
+S0058,46.35,touch,patient,chest
+S0058,51.49,check,monitor,review vitals trend
+S0058,58.9,use,phone,speed_dial_help
+S0058,61.89,communicate,team,discuss concerns with team
+S0058,75.64,grab,bvm,hand
+S0058,79.63,attach,bvm,patient_face
+S0058,120.08,set,o2_flow,flow_knob
+S0058,130.07,touch,patient,reassess response
+S0058,171.52,touch,suction,surface
+S0058,182.97,view,epic,new orders and labs
+S0058,197.06,grab,penlight,hand
+S0058,198.79,use,penlight,patient_eyes
+S0058,210.61,touch,monitor,surface
+S0058,276.86,communicate,team,share care plan
+S0058,285.4,touch,med_cart,surface
+S0059,2.96,communicate,team,patient hand-off
+S0059,6.08,view,epic,"check orders, meds, labs"
+S0059,13.48,view,epic,review trends and notes
+S0059,14.84,touch,patient,forehead
+S0059,21.62,touch,patient,physical exam
+S0059,36.14,view,comet,COMET risk score: severity of condition
+S0059,41.28,touch,patient,chest
+S0059,43.12,check,monitor,review vitals trend
+S0059,48.2,look_confirm,clock,clock_face
+S0059,54.04,use,phone,speed_dial_help
+S0059,59.19,communicate,team,discuss concerns with team
+S0059,83.77,set,o2_flow,flow_knob
+S0059,106.51,set,suction,on_switch
+S0059,111.26,touch,med_cart,surface
+S0059,128.02,touch,patient,reassess response
+S0059,171.97,view,epic,new orders and labs
+S0059,276.71,communicate,team,share care plan
+S0060,1.42,communicate,team,patient hand-off
+S0060,4.72,view,epic,"check orders, meds, labs"
+S0060,14.17,view,epic,review trends and notes
+S0060,16.73,touch,patient,forehead
+S0060,20.0,touch,patient,physical exam
+S0060,26.7,view,comet,COMET risk score: severity of condition
+S0060,29.26,check,monitor,review vitals trend
+S0060,32.53,touch,patient,chest
+S0060,45.65,set,iv_pump,channel_select
+S0060,82.65,grab,med_cart,hand
+S0060,86.15,administer,med_cart,drawer_2
+S0060,108.38,manipulate,patient,supine_legs_up
+S0060,138.33,view,epic,new orders and labs
+S0060,157.33,set,o2_flow,flow_knob
+S0060,175.09,touch,door,surface
+S0060,226.31,touch,med_cart,surface
+S0060,250.79,touch,med_cart,surface
+S0060,255.49,communicate,team,share care plan
+S0061,1.59,communicate,team,patient hand-off
+S0061,6.57,view,epic,"check orders, meds, labs"
+S0061,12.09,view,epic,review trends and notes
+S0061,16.87,touch,patient,forehead
+S0061,18.79,touch,door,surface
+S0061,21.36,touch,patient,physical exam
+S0061,32.97,view,comet,COMET risk score: severity of condition
+S0061,33.83,touch,patient,chest
+S0061,38.09,check,monitor,review vitals trend
+S0061,40.73,set,iv_pump,channel_select
+S0061,42.97,use,phone,speed_dial_help
+S0061,51.11,communicate,team,discuss concerns with team
+S0061,71.37,grab,med_cart,hand
+S0061,74.82,administer,med_cart,drawer_2
+S0061,102.72,set,o2_flow,flow_knob
+S0061,109.79,touch,patient,reassess response
+S0061,132.17,manipulate,patient,supine_legs_up
+S0061,152.62,touch,sink,surface
+S0061,155.42,view,epic,new orders and labs
+S0061,220.88,touch,door,surface
+S0061,258.21,communicate,team,share care plan
+S0062,1.98,communicate,team,patient hand-off
+S0062,5.33,view,epic,"check orders, meds, labs"
+S0062,13.43,view,epic,review trends and notes
+S0062,17.6,touch,patient,forehead
+S0062,19.25,touch,patient,physical exam
+S0062,24.04,view,comet,COMET risk score: severity of condition
+S0062,28.16,touch,patient,chest
+S0062,31.11,set,iv_pump,channel_select
+S0062,35.46,check,monitor,review vitals trend
+S0062,39.06,communicate,team,discuss concerns with team
+S0062,42.7,touch,door,surface
+S0062,45.0,grab,med_cart,hand
+S0062,47.31,administer,med_cart,drawer_2
+S0062,49.44,use,phone,speed_dial_help
+S0062,68.42,set,o2_flow,flow_knob
+S0062,95.96,manipulate,patient,supine_legs_up
+S0062,124.74,touch,patient,reassess response
+S0062,135.11,touch,suction,surface
+S0062,158.51,view,epic,new orders and labs
+S0062,250.02,communicate,team,share care plan
+S0062,253.25,touch,med_cart,surface
+S0063,2.05,communicate,team,patient hand-off
+S0063,7.47,view,epic,"check orders, meds, labs"
+S0063,15.15,view,epic,review trends and notes
+S0063,16.8,touch,patient,forehead
+S0063,21.58,touch,monitor,surface
+S0063,22.48,touch,patient,physical exam
+S0063,45.32,touch,patient,chest
+S0063,48.37,check,monitor,review vitals trend
+S0063,62.95,communicate,team,discuss concerns with team
+S0063,63.02,use,phone,speed_dial_help
+S0063,67.23,manipulate,patient,head_tilt
+S0063,81.53,grab,bvm,hand
+S0063,83.5,attach,bvm,patient_face
+S0063,95.11,set,o2_flow,flow_knob
+S0063,117.75,touch,patient,reassess response
+S0063,122.12,grab,penlight,hand
+S0063,125.4,use,penlight,patient_eyes
+S0063,173.82,view,epic,new orders and labs
+S0063,262.33,touch,med_cart,surface
+S0063,273.8,communicate,team,share care plan
+S0064,2.28,communicate,team,patient hand-off (nursing packet)
+S0064,6.74,view,epic,"check orders, meds, labs"
+S0064,7.09,touch,patient,forehead
+S0064,13.3,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0064,35.51,view,comet,COMET risk score: severity of condition
+S0064,37.44,check,monitor,read vitals
+S0064,37.79,touch,patient,chest
+S0064,41.08,set,iv_pump,channel_select
+S0064,42.77,touch,monitor,surface
+S0064,49.72,communicate,team,discuss concerns with provider
+S0064,53.12,use,phone,speed_dial_help
+S0064,54.35,grab,med_cart,hand
+S0064,57.42,administer,med_cart,drawer_2
+S0064,69.84,manipulate,patient,supine_legs_up
+S0064,72.67,set,o2_flow,flow_knob
+S0064,78.01,check,monitor,watch vitals trend
+S0064,108.23,view,epic,chart vitals and head-to-toe
+S0064,150.85,touch,patient,get blood for iSTAT
+S0064,201.02,check,monitor,recheck vitals after intervention
+S0064,234.45,communicate,team,listen to care plan from provider
+S0064,263.62,view,epic,update charts
+S0064,269.22,touch,med_cart,surface
+S0065,1.46,communicate,team,patient hand-off (nursing packet)
+S0065,3.24,view,epic,"check orders, meds, labs"
+S0065,8.58,touch,patient,forehead
+S0065,9.7,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0065,29.93,touch,patient,chest
+S0065,32.05,check,monitor,read vitals
+S0065,39.14,set,iv_pump,channel_select
+S0065,42.92,use,phone,speed_dial_help
+S0065,53.36,communicate,team,discuss concerns with provider
+S0065,54.6,grab,med_cart,hand
+S0065,56.87,administer,med_cart,drawer_2
+S0065,62.04,set,o2_flow,flow_knob
+S0065,66.98,check,monitor,watch vitals trend
+S0065,69.97,manipulate,patient,supine_legs_up
+S0065,86.16,view,epic,chart vitals and head-to-toe
+S0065,97.92,touch,suction,surface
+S0065,123.77,touch,patient,get blood for iSTAT
+S0065,189.72,check,monitor,recheck vitals after intervention
+S0065,217.95,communicate,team,listen to care plan from provider
+S0065,258.26,view,epic,update charts
+S0066,1.24,communicate,team,patient hand-off (nursing packet)
+S0066,6.02,view,epic,"check orders, meds, labs"
+S0066,7.42,touch,patient,forehead
+S0066,10.94,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0066,30.32,touch,patient,chest
+S0066,31.22,check,monitor,read vitals
+S0066,36.52,look_confirm,clock,clock_face
+S0066,40.35,use,phone,speed_dial_help
+S0066,48.61,communicate,team,discuss concerns with provider
+S0066,63.45,check,monitor,watch vitals trend
+S0066,64.41,set,o2_flow,flow_knob
+S0066,88.4,set,suction,on_switch
+S0066,101.01,view,epic,chart vitals and head-to-toe
+S0066,106.75,grab,med_cart,hand
+S0066,109.48,administer,med_cart,drawer_3
+S0066,122.5,touch,patient,get blood for iSTAT
+S0066,176.55,touch,sink,surface
+S0066,184.97,check,monitor,recheck vitals after intervention
+S0066,203.28,touch,sink,surface
+S0066,246.62,communicate,team,listen to care plan from provider
+S0066,289.69,view,epic,update charts
+S0067,1.41,communicate,team,patient hand-off (nursing packet)
+S0067,4.74,view,epic,"check orders, meds, labs"
+S0067,10.0,touch,patient,forehead
+S0067,11.91,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0067,51.46,check,monitor,read vitals
+S0067,53.38,view,comet,COMET risk score: severity of condition
+S0067,53.7,touch,patient,chest
+S0067,57.56,grab,penlight,hand
+S0067,60.02,use,penlight,patient_eyes
+S0067,63.92,use,phone,speed_dial_help
+S0067,64.69,communicate,team,discuss concerns with provider
+S0067,68.58,set,iv_pump,channel_select
+S0067,81.27,set,vent,start_button
+S0067,89.33,check,monitor,watch vitals trend
+S0067,97.86,grab,med_cart,hand
+S0067,101.68,administer,med_cart,drawer_4
+S0067,130.33,view,epic,chart vitals and head-to-toe
+S0067,173.49,touch,med_cart,surface
+S0067,176.18,touch,patient,get blood for iSTAT
+S0067,192.37,check,monitor,recheck vitals after intervention
+S0067,253.45,communicate,team,listen to care plan from provider
+S0067,268.37,touch,suction,surface
+S0067,287.99,view,epic,update charts
+S0068,2.38,communicate,team,patient hand-off (nursing packet)
+S0068,3.09,view,epic,"check orders, meds, labs"
+S0068,10.04,touch,patient,forehead
+S0068,12.09,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0068,32.18,touch,patient,chest
+S0068,35.94,check,monitor,read vitals
+S0068,38.15,look_confirm,clock,clock_face
+S0068,42.32,use,phone,speed_dial_help
+S0068,45.64,communicate,team,discuss concerns with provider
+S0068,49.8,set,o2_flow,flow_knob
+S0068,66.02,check,monitor,watch vitals trend
+S0068,66.57,set,suction,on_switch
+S0068,87.88,view,epic,chart vitals and head-to-toe
+S0068,97.49,grab,med_cart,hand
+S0068,101.02,administer,med_cart,drawer_3
+S0068,121.97,touch,patient,get blood for iSTAT
+S0068,180.79,touch,suction,surface
+S0068,182.08,check,monitor,recheck vitals after intervention
+S0068,217.35,touch,sink,surface
+S0068,218.69,touch,sink,surface
+S0068,237.34,communicate,team,listen to care plan from provider
+S0068,282.71,view,epic,update charts
+S0069,1.82,communicate,team,patient hand-off (nursing packet)
+S0069,3.54,view,epic,"check orders, meds, labs"
+S0069,9.4,touch,patient,forehead
+S0069,9.98,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0069,44.0,check,monitor,read vitals
+S0069,46.04,touch,patient,chest
+S0069,47.71,grab,penlight,hand
+S0069,50.87,use,penlight,patient_eyes
+S0069,58.66,use,phone,speed_dial_help
+S0069,61.03,communicate,team,discuss concerns with provider
+S0069,61.65,set,iv_pump,channel_select
+S0069,78.7,touch,monitor,surface
+S0069,82.1,check,monitor,watch vitals trend
+S0069,87.47,grab,med_cart,hand
+S0069,90.23,administer,med_cart,drawer_4
+S0069,93.58,set,vent,start_button
+S0069,104.75,view,epic,chart vitals and head-to-toe
+S0069,146.45,touch,patient,get blood for iSTAT
+S0069,193.93,check,monitor,recheck vitals after intervention
+S0069,198.08,touch,monitor,surface
+S0069,230.78,communicate,team,listen to care plan from provider
+S0069,274.59,touch,door,surface
+S0069,275.88,view,epic,update charts
+S0070,1.47,communicate,team,patient hand-off (nursing packet)
+S0070,5.01,view,epic,"check orders, meds, labs"
+S0070,10.45,touch,patient,forehead
+S0070,11.94,touch,med_cart,surface
+S0070,13.26,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0070,35.93,view,comet,COMET risk score: severity of condition
+S0070,37.74,check,monitor,read vitals
+S0070,39.94,touch,patient,chest
+S0070,53.22,use,phone,speed_dial_help
+S0070,53.26,communicate,team,discuss concerns with provider
+S0070,57.45,grab,penlight,hand
+S0070,59.69,use,penlight,patient_eyes
+S0070,74.32,set,vent,start_button
+S0070,75.52,check,monitor,watch vitals trend
+S0070,87.82,view,epic,chart vitals and head-to-toe
+S0070,98.27,grab,med_cart,hand
+S0070,100.92,administer,med_cart,drawer_4
+S0070,119.38,touch,door,surface
+S0070,135.19,touch,patient,get blood for iSTAT
+S0070,172.51,touch,monitor,surface
+S0070,182.08,check,monitor,recheck vitals after intervention
+S0070,185.63,set,iv_pump,channel_select
+S0070,253.86,communicate,team,listen to care plan from provider
+S0070,289.6,view,epic,update charts
+S0071,1.98,communicate,team,patient hand-off (nursing packet)
+S0071,5.61,view,epic,"check orders, meds, labs"
+S0071,8.82,touch,patient,forehead
+S0071,11.35,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0071,48.39,touch,sink,surface
+S0071,48.97,check,monitor,read vitals
+S0071,51.97,view,comet,COMET risk score: severity of condition
+S0071,53.1,touch,patient,chest
+S0071,59.24,grab,penlight,hand
+S0071,60.83,use,penlight,patient_eyes
+S0071,71.0,use,phone,speed_dial_help
+S0071,75.12,communicate,team,discuss concerns with provider
+S0071,85.38,check,monitor,watch vitals trend
+S0071,95.17,set,vent,start_button
+S0071,101.53,set,iv_pump,channel_select
+S0071,102.6,grab,med_cart,hand
+S0071,104.69,administer,med_cart,drawer_4
+S0071,111.42,touch,suction,surface
+S0071,118.7,view,epic,chart vitals and head-to-toe
+S0071,208.57,check,monitor,recheck vitals after intervention
+S0071,238.03,communicate,team,listen to care plan from provider
+S0071,287.29,view,epic,update charts
+S0072,2.99,communicate,team,patient hand-off (nursing packet)
+S0072,4.59,view,epic,"check orders, meds, labs"
+S0072,8.66,touch,patient,forehead
+S0072,36.2,check,monitor,read vitals
+S0072,37.51,touch,patient,chest
+S0072,40.59,view,comet,COMET risk score: severity of condition
+S0072,54.46,set,iv_pump,channel_select
+S0072,62.53,use,phone,speed_dial_help
+S0072,73.3,check,monitor,watch vitals trend
+S0072,76.88,grab,med_cart,hand
+S0072,80.79,administer,med_cart,drawer_2
+S0072,89.14,set,o2_flow,flow_knob
+S0072,100.66,view,epic,chart vitals and head-to-toe
+S0072,103.16,touch,monitor,surface
+S0072,122.87,touch,patient,get blood for iSTAT
+S0072,123.33,manipulate,patient,supine_legs_up
+S0072,154.17,touch,sink,surface
+S0072,171.34,check,monitor,recheck vitals after intervention
+S0072,213.48,communicate,team,listen to care plan from provider
+S0072,218.41,touch,suction,surface
+S0072,264.13,view,epic,update charts
+S0073,3.61,view,epic,"check orders, meds, labs"
+S0073,6.86,touch,patient,forehead
+S0073,10.63,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0073,36.11,check,monitor,read vitals
+S0073,38.78,view,comet,COMET risk score: severity of condition
+S0073,45.19,touch,patient,chest
+S0073,53.14,communicate,team,discuss concerns with provider
+S0073,54.24,touch,patient,nail_bed
+S0073,68.94,check,monitor,watch vitals trend
+S0073,97.79,view,epic,chart vitals and head-to-toe
+S0073,111.1,grab,iv_pump,hand
+S0073,111.3,touch,patient,nail_bed_recheck
+S0073,113.93,administer,iv_pump,bolus_line
+S0073,154.39,set,iv_pump,start_button
+S0073,169.85,check,monitor,recheck vitals after intervention
+S0073,215.41,touch,sink,surface
+S0073,262.68,communicate,team,listen to care plan from provider
+S0073,318.69,view,epic,update charts
+S0074,1.09,communicate,team,patient hand-off (nursing packet)
+S0074,6.13,view,epic,"check orders, meds, labs"
+S0074,7.9,touch,patient,forehead
+S0074,9.41,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0074,34.83,check,monitor,read vitals
+S0074,42.0,touch,patient,chest
+S0074,75.52,check,monitor,watch vitals trend
+S0074,76.42,touch,med_cart,surface
+S0074,85.3,manipulate,patient,head_tilt
+S0074,97.46,grab,bvm,hand
+S0074,97.57,view,epic,chart vitals and head-to-toe
+S0074,99.48,attach,bvm,patient_face
+S0074,139.3,touch,patient,get blood for iSTAT
+S0074,153.62,touch,door,surface
+S0074,192.89,check,monitor,recheck vitals after intervention
+S0074,255.0,communicate,team,listen to care plan from provider
+S0075,1.87,communicate,team,patient hand-off (nursing packet)
+S0075,3.55,view,epic,"check orders, meds, labs"
+S0075,8.56,touch,patient,forehead
+S0075,12.44,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0075,24.87,touch,door,surface
+S0075,39.39,check,monitor,read vitals
+S0075,39.69,view,comet,COMET risk score: severity of condition
+S0075,39.78,touch,patient,chest
+S0075,44.85,grab,penlight,hand
+S0075,48.65,use,penlight,patient_eyes
+S0075,54.61,communicate,team,discuss concerns with provider
+S0075,71.34,check,monitor,watch vitals trend
+S0075,74.58,use,phone,speed_dial_help
+S0075,79.11,set,vent,start_button
+S0075,91.1,set,iv_pump,channel_select
+S0075,91.42,grab,med_cart,hand
+S0075,94.31,administer,med_cart,drawer_4
+S0075,98.11,view,epic,chart vitals and head-to-toe
+S0075,155.55,touch,patient,get blood for iSTAT
+S0075,177.67,touch,door,surface
+S0075,180.55,check,monitor,recheck vitals after intervention
+S0075,180.9,touch,med_cart,surface
+S0075,249.06,communicate,team,listen to care plan from provider
+S0076,2.27,communicate,team,patient hand-off (nursing packet)
+S0076,6.06,view,epic,"check orders, meds, labs"
+S0076,9.52,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0076,10.38,touch,patient,forehead
+S0076,44.66,view,comet,COMET risk score: severity of condition
+S0076,59.72,touch,patient,chest
+S0076,72.48,grab,penlight,hand
+S0076,75.26,use,penlight,patient_eyes
+S0076,82.78,use,phone,speed_dial_help
+S0076,90.44,touch,med_cart,surface
+S0076,122.13,view,epic,chart vitals and head-to-toe
+S0076,146.36,touch,door,surface
+S0076,183.26,check,monitor,recheck vitals after intervention
+S0076,236.52,touch,monitor,surface
+S0077,5.27,view,epic,"check orders, meds, labs"
+S0077,10.24,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0077,11.32,touch,patient,forehead
+S0077,47.23,view,comet,COMET risk score: severity of condition
+S0077,49.87,touch,door,surface
+S0077,67.07,communicate,team,discuss concerns with provider
+S0077,70.48,touch,patient,chest
+S0077,75.81,grab,penlight,hand
+S0077,78.8,use,penlight,patient_eyes
+S0077,84.91,check,monitor,watch vitals trend
+S0077,89.5,use,phone,speed_dial_help
+S0077,119.59,set,iv_pump,channel_select
+S0077,173.54,set,vent,start_button
+S0077,192.77,grab,med_cart,hand
+S0077,195.27,administer,med_cart,drawer_4
+S0077,207.1,check,monitor,recheck vitals after intervention
+S0077,247.02,communicate,team,listen to care plan from provider
+S0078,2.53,communicate,team,patient hand-off (nursing packet)
+S0078,6.38,touch,patient,forehead
+S0078,10.91,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0078,34.65,touch,sink,surface
+S0078,38.21,check,monitor,read vitals
+S0078,40.05,view,comet,COMET risk score: severity of condition
+S0078,50.9,touch,patient,chest
+S0078,69.15,check,monitor,watch vitals trend
+S0078,86.84,use,phone,speed_dial_help
+S0078,99.08,view,epic,chart vitals and head-to-toe
+S0078,106.34,set,iv_pump,start_button
+S0078,116.91,touch,door,surface
+S0078,141.86,touch,patient,get blood for iSTAT
+S0078,146.8,touch,med_cart,surface
+S0078,183.15,grab,iv_pump,hand
+S0078,185.84,administer,iv_pump,bolus_line
+S0078,186.7,check,monitor,recheck vitals after intervention
+S0078,218.95,touch,patient,nail_bed_recheck
+S0078,260.07,communicate,team,listen to care plan from provider
+S0078,307.81,view,epic,update charts
+S0079,1.44,communicate,team,patient hand-off (nursing packet)
+S0079,6.49,view,epic,"check orders, meds, labs"
+S0079,6.92,touch,patient,forehead
+S0079,10.62,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0079,41.58,view,comet,COMET risk score: severity of condition
+S0079,42.1,check,monitor,read vitals
+S0079,46.58,touch,patient,chest
+S0079,56.32,communicate,team,discuss concerns with provider
+S0079,72.46,use,phone,speed_dial_help
+S0079,73.81,check,monitor,watch vitals trend
+S0079,91.04,set,iv_pump,start_button
+S0079,118.12,view,epic,chart vitals and head-to-toe
+S0079,122.03,grab,iv_pump,hand
+S0079,124.05,administer,iv_pump,bolus_line
+S0079,136.91,touch,door,surface
+S0079,143.4,touch,med_cart,surface
+S0079,166.33,touch,patient,get blood for iSTAT
+S0079,175.57,check,monitor,recheck vitals after intervention
+S0079,270.54,touch,door,surface
+S0079,271.97,communicate,team,listen to care plan from provider
+S0079,274.68,touch,patient,nail_bed_recheck
+S0080,1.91,communicate,team,patient hand-off (nursing packet)
+S0080,6.8,view,epic,"check orders, meds, labs"
+S0080,7.81,touch,patient,forehead
+S0080,12.61,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0080,48.92,check,monitor,read vitals
+S0080,52.32,touch,patient,chest
+S0080,61.51,grab,penlight,hand
+S0080,61.75,communicate,team,discuss concerns with provider
+S0080,65.12,use,penlight,patient_eyes
+S0080,68.23,use,phone,speed_dial_help
+S0080,87.87,check,monitor,watch vitals trend
+S0080,106.93,grab,med_cart,hand
+S0080,109.49,administer,med_cart,drawer_4
+S0080,112.46,touch,med_cart,surface
+S0080,139.54,touch,patient,get blood for iSTAT
+S0080,198.63,touch,suction,surface
+S0080,206.38,check,monitor,recheck vitals after intervention
+S0080,277.76,view,epic,update charts
+S0081,1.4,communicate,team,patient hand-off (nursing packet)
+S0081,11.9,touch,patient,forehead
+S0081,13.81,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0081,40.41,touch,med_cart,surface
+S0081,47.5,touch,patient,chest
+S0081,54.78,check,monitor,re-read vitals
+S0081,59.3,communicate,team,discuss concerns with provider
+S0081,70.08,check,monitor,re-read vitals
+S0081,70.25,use,phone,speed_dial_help
+S0081,88.22,check,monitor,watch vitals trend
+S0081,94.53,view,epic,chart vitals and head-to-toe
+S0081,118.21,manipulate,patient,head_tilt
+S0081,119.47,grab,bvm,hand
+S0081,121.01,attach,bvm,patient_face
+S0081,156.04,set,o2_flow,flow_knob
+S0081,187.06,check,monitor,recheck vitals after intervention
+S0081,199.79,grab,penlight,hand
+S0081,202.06,touch,med_cart,surface
+S0081,202.49,use,penlight,patient_eyes
+S0081,239.32,communicate,team,listen to care plan from provider
+S0081,289.07,view,epic,update charts
+S0082,4.43,view,epic,"check orders, meds, labs"
+S0082,6.75,touch,patient,forehead
+S0082,10.46,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0082,47.69,check,monitor,read vitals
+S0082,49.86,view,comet,COMET risk score: severity of condition
+S0082,49.95,touch,patient,chest
+S0082,50.87,check,monitor,re-read vitals
+S0082,60.57,communicate,team,discuss concerns with provider
+S0082,71.62,use,phone,speed_dial_help
+S0082,85.29,set,o2_flow,flow_knob
+S0082,88.57,check,monitor,watch vitals trend
+S0082,99.7,check,monitor,re-read vitals
+S0082,131.58,grab,bvm,hand
+S0082,135.02,attach,bvm,patient_face
+S0082,145.22,touch,patient,get blood for iSTAT
+S0082,150.66,check,monitor,re-read vitals
+S0082,183.17,grab,penlight,hand
+S0082,185.28,use,penlight,patient_eyes
+S0082,244.04,communicate,team,listen to care plan from provider
+S0082,254.79,touch,suction,surface
+S0082,266.87,touch,monitor,surface
+S0082,281.55,view,epic,update charts
+S0083,3.23,view,epic,"check orders, meds, labs"
+S0083,6.88,touch,patient,forehead
+S0083,10.96,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0083,40.98,check,monitor,read vitals
+S0083,42.21,view,comet,COMET risk score: severity of condition
+S0083,44.84,touch,patient,chest
+S0083,55.94,set,iv_pump,channel_select
+S0083,56.35,check,monitor,re-read vitals
+S0083,61.18,communicate,team,discuss concerns with provider
+S0083,68.26,use,phone,speed_dial_help
+S0083,70.2,check,monitor,re-read vitals
+S0083,90.7,view,epic,chart vitals and head-to-toe
+S0083,157.05,touch,med_cart,surface
+S0083,180.07,check,monitor,recheck vitals after intervention
+S0083,195.85,touch,monitor,surface
+S0083,216.53,communicate,team,listen to care plan from provider
+S0083,255.82,view,epic,update charts
+S0084,1.65,communicate,team,patient hand-off (nursing packet)
+S0084,4.77,view,epic,"check orders, meds, labs"
+S0084,10.93,touch,patient,forehead
+S0084,12.71,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0084,36.45,check,monitor,read vitals
+S0084,39.93,view,comet,COMET risk score: severity of condition
+S0084,47.85,touch,patient,chest
+S0084,48.0,communicate,team,discuss concerns with provider
+S0084,57.42,check,monitor,re-read vitals
+S0084,59.52,set,iv_pump,channel_select
+S0084,78.01,check,monitor,watch vitals trend
+S0084,80.49,check,monitor,re-read vitals
+S0084,102.97,view,epic,chart vitals and head-to-toe
+S0084,127.39,check,monitor,re-read vitals
+S0084,146.07,set,o2_flow,flow_knob
+S0084,158.43,touch,patient,get blood for iSTAT
+S0084,171.64,check,monitor,recheck vitals after intervention
+S0084,177.9,grab,med_cart,hand
+S0084,179.62,administer,med_cart,drawer_2
+S0084,222.99,communicate,team,listen to care plan from provider
+S0084,259.79,view,epic,update charts
+S0084,264.3,touch,sink,surface
+S0085,2.49,communicate,team,patient hand-off (nursing packet)
+S0085,6.9,touch,patient,forehead
+S0085,39.21,check,monitor,read vitals
+S0085,44.29,touch,patient,chest
+S0085,60.51,communicate,team,discuss concerns with provider
+S0085,74.36,use,phone,speed_dial_help
+S0085,81.81,check,monitor,watch vitals trend
+S0085,99.87,view,epic,chart vitals and head-to-toe
+S0085,102.71,set,o2_flow,flow_knob
+S0085,113.86,check,monitor,re-read vitals
+S0085,130.19,check,monitor,re-read vitals
+S0085,138.62,check,monitor,re-read vitals
+S0085,194.78,check,monitor,recheck vitals after intervention
+S0085,204.93,set,suction,on_switch
+S0085,212.15,grab,med_cart,hand
+S0085,215.38,administer,med_cart,drawer_3
+S0085,218.06,touch,suction,surface
+S0085,231.89,communicate,team,listen to care plan from provider
+S0085,244.09,touch,suction,surface
+S0085,280.35,view,epic,update charts
+S0086,2.48,communicate,team,patient hand-off (nursing packet)
+S0086,3.18,view,epic,"check orders, meds, labs"
+S0086,7.99,touch,patient,forehead
+S0086,38.02,touch,patient,chest
+S0086,38.03,touch,med_cart,surface
+S0086,39.49,check,monitor,read vitals
+S0086,53.73,communicate,team,discuss concerns with provider
+S0086,55.29,touch,door,surface
+S0086,58.18,use,phone,speed_dial_help
+S0086,77.48,check,monitor,re-read vitals
+S0086,79.3,check,monitor,watch vitals trend
+S0086,90.48,grab,bvm,hand
+S0086,90.48,set,o2_flow,flow_knob
+S0086,93.8,attach,bvm,patient_face
+S0086,93.97,view,epic,chart vitals and head-to-toe
+S0086,131.38,touch,patient,get blood for iSTAT
+S0086,146.98,grab,penlight,hand
+S0086,148.5,use,penlight,patient_eyes
+S0086,149.49,check,monitor,re-read vitals
+S0086,181.03,touch,sink,surface
+S0086,191.32,check,monitor,recheck vitals after intervention
+S0086,252.56,communicate,team,listen to care plan from provider
+S0087,2.59,communicate,team,patient hand-off
+S0087,8.87,view,epic,"check orders, meds, labs"
+S0087,15.84,touch,patient,forehead
+S0087,21.11,touch,patient,physical exam
+S0087,28.96,view,comet,COMET risk score: severity of condition
+S0087,33.45,touch,patient,chest
+S0087,34.16,check,monitor,review vitals trend
+S0087,49.1,manipulate,patient,head_tilt
+S0087,74.11,grab,bvm,hand
+S0087,75.65,attach,bvm,patient_face
+S0087,84.56,use,phone,speed_dial_help
+S0087,87.52,set,o2_flow,flow_knob
+S0087,129.66,touch,patient,reassess response
+S0087,144.68,grab,penlight,hand
+S0087,146.75,use,penlight,patient_eyes
+S0087,156.06,touch,med_cart,surface
+S0087,170.11,view,epic,new orders and labs
+S0087,278.62,touch,med_cart,surface
+S0088,2.16,communicate,team,patient hand-off
+S0088,7.1,view,epic,"check orders, meds, labs"
+S0088,14.75,view,epic,review trends and notes
+S0088,14.96,touch,patient,forehead
+S0088,19.38,touch,door,surface
+S0088,22.63,touch,patient,physical exam
+S0088,42.51,view,comet,COMET risk score: severity of condition
+S0088,46.8,touch,patient,chest
+S0088,51.59,check,monitor,review vitals trend
+S0088,64.05,communicate,team,discuss concerns with team
+S0088,72.76,manipulate,patient,head_tilt
+S0088,87.32,grab,bvm,hand
+S0088,87.55,set,o2_flow,flow_knob
+S0088,90.43,attach,bvm,patient_face
+S0088,93.06,use,phone,speed_dial_help
+S0088,115.78,touch,patient,reassess response
+S0088,123.38,touch,door,surface
+S0088,137.39,touch,suction,surface
+S0088,154.26,grab,penlight,hand
+S0088,156.75,use,penlight,patient_eyes
+S0088,168.39,view,epic,new orders and labs
+S0088,273.76,communicate,team,share care plan
+S0089,8.38,view,epic,"check orders, meds, labs"
+S0089,10.84,view,epic,review trends and notes
+S0089,17.99,touch,patient,forehead
+S0089,21.36,touch,patient,physical exam
+S0089,46.87,view,comet,COMET risk score: severity of condition
+S0089,51.38,touch,patient,chest
+S0089,52.71,grab,penlight,hand
+S0089,53.65,check,monitor,review vitals trend
+S0089,55.52,use,penlight,patient_eyes
+S0089,66.77,set,iv_pump,channel_select
+S0089,82.0,set,vent,start_button
+S0089,105.1,grab,med_cart,hand
+S0089,108.65,administer,med_cart,drawer_4
+S0089,117.49,touch,patient,reassess response
+S0089,125.66,use,phone,speed_dial_help
+S0089,133.86,touch,med_cart,surface
+S0089,170.69,view,epic,new orders and labs
+S0090,12.32,view,epic,review trends and notes
+S0090,16.79,touch,patient,forehead
+S0090,20.94,touch,patient,physical exam
+S0090,49.05,touch,patient,chest
+S0090,52.46,touch,patient,nail_bed
+S0090,57.42,communicate,team,discuss concerns with team
+S0090,101.69,set,iv_pump,start_button
+S0090,107.78,use,phone,speed_dial_help
+S0090,107.91,touch,patient,reassess response
+S0090,116.15,touch,door,surface
+S0090,141.89,grab,iv_pump,hand
+S0090,145.88,administer,iv_pump,bolus_line
+S0090,184.31,view,epic,new orders and labs
+S0090,286.1,touch,patient,nail_bed_recheck
+S0091,8.15,view,epic,"check orders, meds, labs"
+S0091,14.79,view,epic,review trends and notes
+S0091,15.39,touch,patient,forehead
+S0091,19.52,touch,patient,physical exam
+S0091,31.56,touch,med_cart,surface
+S0091,42.23,touch,patient,chest
+S0091,48.48,touch,patient,nail_bed
+S0091,55.84,touch,suction,surface
+S0091,59.24,communicate,team,discuss concerns with team
+S0091,91.96,use,phone,speed_dial_help
+S0091,108.35,touch,monitor,surface
+S0091,114.47,set,iv_pump,start_button
+S0091,138.0,touch,patient,reassess response
+S0091,156.78,view,epic,new orders and labs
+S0091,164.52,touch,patient,nail_bed_recheck
+S0091,175.09,grab,iv_pump,hand
+S0091,176.78,administer,iv_pump,bolus_line
+S0091,296.28,communicate,team,share care plan
+S0092,2.18,communicate,team,patient hand-off
+S0092,4.11,view,epic,"check orders, meds, labs"
+S0092,15.92,view,epic,review trends and notes
+S0092,16.13,touch,patient,forehead
+S0092,19.72,touch,patient,physical exam
+S0092,39.55,view,comet,COMET risk score: severity of condition
+S0092,47.22,touch,patient,chest
+S0092,60.34,grab,penlight,hand
+S0092,62.65,use,penlight,patient_eyes
+S0092,67.5,set,iv_pump,channel_select
+S0092,91.22,use,phone,speed_dial_help
+S0092,103.56,set,vent,start_button
+S0092,135.95,grab,med_cart,hand
+S0092,138.29,administer,med_cart,drawer_4
+S0092,139.37,touch,patient,reassess response
+S0092,145.5,touch,monitor,surface
+S0092,152.08,view,epic,new orders and labs
+S0092,246.97,touch,monitor,surface
+S0093,15.18,view,epic,review trends and notes
+S0093,15.74,touch,patient,forehead
+S0093,19.06,touch,patient,physical exam
+S0093,32.91,touch,patient,chest
+S0093,36.7,check,monitor,review vitals trend
+S0093,48.08,communicate,team,discuss concerns with team
+S0093,57.22,manipulate,patient,head_tilt
+S0093,73.71,grab,bvm,hand
+S0093,75.22,attach,bvm,patient_face
+S0093,98.14,grab,penlight,hand
+S0093,100.31,use,penlight,patient_eyes
+S0093,103.24,set,o2_flow,flow_knob
+S0093,133.79,touch,patient,reassess response
+S0093,174.86,view,epic,new orders and labs
+S0093,250.26,touch,suction,surface
+S0094,5.11,view,epic,"check orders, meds, labs"
+S0094,10.92,view,epic,review trends and notes
+S0094,17.16,touch,patient,forehead
+S0094,19.69,touch,patient,physical exam
+S0094,50.71,check,monitor,review vitals trend
+S0094,53.77,touch,patient,chest
+S0094,66.39,communicate,team,discuss concerns with team
+S0094,88.7,use,phone,speed_dial_help
+S0094,172.3,view,epic,new orders and labs
+S0094,179.0,touch,suction,surface
+S0094,190.79,grab,iv_pump,hand
+S0094,193.29,administer,iv_pump,bolus_line
+S0094,250.87,touch,sink,surface
+S0094,302.32,communicate,team,share care plan
+S0095,1.81,communicate,team,patient hand-off
+S0095,7.12,view,epic,"check orders, meds, labs"
+S0095,13.61,view,epic,review trends and notes
+S0095,14.79,touch,patient,forehead
+S0095,53.66,view,comet,COMET risk score: severity of condition
+S0095,58.66,touch,patient,chest
+S0095,63.82,check,monitor,review vitals trend
+S0095,70.34,touch,monitor,surface
+S0095,111.6,set,iv_pump,start_button
+S0095,128.96,grab,iv_pump,hand
+S0095,130.7,administer,iv_pump,bolus_line
+S0095,194.58,view,epic,new orders and labs
+S0095,230.51,touch,patient,nail_bed_recheck
+S0095,313.61,communicate,team,share care plan
+S0096,1.25,communicate,team,patient hand-off
+S0096,7.49,view,epic,"check orders, meds, labs"
+S0096,12.76,view,epic,review trends and notes
+S0096,15.15,touch,patient,forehead
+S0096,21.69,touch,patient,physical exam
+S0096,38.31,view,comet,COMET risk score: severity of condition
+S0096,42.86,touch,monitor,surface
+S0096,46.53,touch,patient,chest
+S0096,51.62,check,monitor,review vitals trend
+S0096,56.72,communicate,team,discuss concerns with team
+S0096,59.25,set,iv_pump,channel_select
+S0096,66.22,use,phone,speed_dial_help
+S0096,77.23,grab,med_cart,hand
+S0096,80.72,administer,med_cart,drawer_2
+S0096,105.19,touch,monitor,surface
+S0096,111.86,touch,patient,reassess response
+S0096,164.27,set,o2_flow,flow_knob
+S0096,174.59,view,epic,new orders and labs
+S0096,184.91,manipulate,patient,supine_legs_up
+S0096,248.58,touch,sink,surface
+S0096,264.63,communicate,team,share care plan
+S0097,2.98,communicate,team,patient hand-off
+S0097,13.25,view,epic,review trends and notes
+S0097,15.21,touch,patient,forehead
+S0097,20.95,touch,patient,physical exam
+S0097,50.11,check,monitor,review vitals trend
+S0097,56.12,touch,patient,chest
+S0097,105.57,use,phone,speed_dial_help
+S0097,139.94,set,o2_flow,flow_knob
+S0097,184.53,touch,sink,surface
+S0097,277.27,communicate,team,share care plan
+S0098,1.34,communicate,team,patient hand-off
+S0098,10.89,view,epic,review trends and notes
+S0098,17.03,touch,patient,forehead
+S0098,23.83,touch,patient,physical exam
+S0098,39.16,touch,patient,chest
+S0098,39.28,view,comet,COMET risk score: severity of condition
+S0098,43.32,check,monitor,review vitals trend
+S0098,56.37,touch,patient,nail_bed
+S0098,60.76,touch,sink,surface
+S0098,63.38,use,phone,speed_dial_help
+S0098,63.87,communicate,team,discuss concerns with team
+S0098,96.0,touch,monitor,surface
+S0098,100.48,set,iv_pump,start_button
+S0098,106.93,grab,iv_pump,hand
+S0098,109.37,administer,iv_pump,bolus_line
+S0098,178.63,touch,patient,nail_bed_recheck
+S0098,304.7,communicate,team,share care plan
+S0099,2.07,communicate,team,respiratory hand-off
+S0099,7.24,inspect,vent,check respiratory equipment
+S0099,9.58,touch,patient,forehead
+S0099,33.59,check,monitor,SpO2 and respiratory rate
+S0099,37.92,touch,patient,chest
+S0099,40.91,look_confirm,clock,clock_face
+S0099,49.71,communicate,team,update team on airway
+S0099,58.17,use,phone,speed_dial_help
+S0099,78.76,set,o2_flow,flow_knob
+S0099,89.75,set,suction,on_switch
+S0099,91.09,view,epic,check respiratory orders
+S0099,113.9,communicate,team,discuss settings with provider
+S0099,167.4,touch,patient,reassess breath sounds
+S0099,178.63,grab,med_cart,hand
+S0099,182.27,administer,med_cart,drawer_3
+S0099,222.17,touch,med_cart,surface
+S0099,249.65,touch,suction,surface
+S0100,6.06,touch,patient,forehead
+S0100,6.34,inspect,vent,check respiratory equipment
+S0100,19.91,touch,med_cart,surface
+S0100,38.34,check,monitor,SpO2 and respiratory rate
+S0100,39.34,touch,patient,chest
+S0100,41.32,view,comet,COMET risk score: severity of condition
+S0100,44.17,look_confirm,clock,clock_face
+S0100,47.75,communicate,team,update team on airway
+S0100,51.31,use,phone,speed_dial_help
+S0100,65.68,set,suction,on_switch
+S0100,67.78,set,o2_flow,flow_knob
+S0100,114.79,grab,med_cart,hand
+S0100,117.58,administer,med_cart,drawer_3
+S0100,136.51,communicate,team,discuss settings with provider
+S0100,181.91,touch,patient,reassess breath sounds
+S0100,197.65,touch,monitor,surface
+S0100,206.77,touch,door,surface
+S0100,283.24,communicate,team,hand back to bedside team
+S0101,1.87,communicate,team,respiratory hand-off
+S0101,5.23,inspect,vent,check respiratory equipment
+S0101,6.54,touch,patient,forehead
+S0101,28.52,touch,med_cart,surface
+S0101,57.21,touch,patient,chest
+S0101,63.55,grab,penlight,hand
+S0101,65.86,communicate,team,update team on airway
+S0101,66.61,use,penlight,patient_eyes
+S0101,79.44,use,phone,speed_dial_help
+S0101,104.81,set,vent,start_button
+S0101,122.63,view,epic,check respiratory orders
+S0101,128.77,touch,monitor,surface
+S0101,128.79,grab,med_cart,hand
+S0101,130.75,communicate,team,discuss settings with provider
+S0101,131.9,administer,med_cart,drawer_4
+S0101,185.78,touch,patient,reassess breath sounds
+S0101,283.05,communicate,team,hand back to bedside team
+S0102,1.23,communicate,team,respiratory hand-off
+S0102,7.4,inspect,vent,check respiratory equipment
+S0102,8.54,touch,patient,forehead
+S0102,27.2,view,comet,COMET risk score: severity of condition
+S0102,29.8,check,monitor,SpO2 and respiratory rate
+S0102,32.3,touch,suction,surface
+S0102,32.68,touch,patient,chest
+S0102,38.15,communicate,team,update team on airway
+S0102,43.88,use,phone,speed_dial_help
+S0102,48.02,set,iv_pump,channel_select
+S0102,49.24,touch,monitor,surface
+S0102,56.52,grab,med_cart,hand
+S0102,59.98,administer,med_cart,drawer_2
+S0102,70.45,set,o2_flow,flow_knob
+S0102,95.13,manipulate,patient,supine_legs_up
+S0102,96.67,view,epic,check respiratory orders
+S0102,103.39,communicate,team,discuss settings with provider
+S0102,129.66,touch,med_cart,surface
+S0102,168.89,touch,patient,reassess breath sounds
+S0102,246.15,communicate,team,hand back to bedside team
+S0103,1.29,communicate,team,respiratory hand-off
+S0103,8.69,inspect,vent,check respiratory equipment
+S0103,11.29,touch,patient,forehead
+S0103,49.36,view,comet,COMET risk score: severity of condition
+S0103,49.78,check,monitor,SpO2 and respiratory rate
+S0103,54.41,touch,patient,chest
+S0103,67.79,communicate,team,update team on airway
+S0103,68.22,use,phone,speed_dial_help
+S0103,90.92,manipulate,patient,head_tilt
+S0103,108.37,view,epic,check respiratory orders
+S0103,136.09,touch,door,surface
+S0103,146.43,communicate,team,discuss settings with provider
+S0103,146.79,set,o2_flow,flow_knob
+S0103,173.64,touch,patient,reassess breath sounds
+S0103,179.74,grab,penlight,hand
+S0103,183.17,use,penlight,patient_eyes
+S0103,274.62,communicate,team,hand back to bedside team
+S0104,1.79,communicate,team,respiratory hand-off
+S0104,6.58,touch,patient,forehead
+S0104,37.19,check,monitor,SpO2 and respiratory rate
+S0104,39.23,touch,patient,chest
+S0104,43.28,look_confirm,clock,clock_face
+S0104,45.67,touch,door,surface
+S0104,50.05,communicate,team,update team on airway
+S0104,50.37,use,phone,speed_dial_help
+S0104,82.13,set,suction,on_switch
+S0104,88.12,view,epic,check respiratory orders
+S0104,91.71,set,o2_flow,flow_knob
+S0104,109.26,grab,med_cart,hand
+S0104,112.5,communicate,team,discuss settings with provider
+S0104,113.0,administer,med_cart,drawer_3
+S0104,142.68,touch,med_cart,surface
+S0104,162.14,touch,patient,reassess breath sounds
+S0104,264.65,touch,door,surface
+S0105,2.03,communicate,team,respiratory hand-off
+S0105,7.19,touch,patient,forehead
+S0105,7.31,inspect,vent,check respiratory equipment
+S0105,38.61,touch,patient,chest
+S0105,41.85,touch,sink,surface
+S0105,53.88,use,phone,speed_dial_help
+S0105,59.91,manipulate,patient,head_tilt
+S0105,97.62,touch,monitor,surface
+S0105,108.33,set,o2_flow,flow_knob
+S0105,134.68,grab,penlight,hand
+S0105,138.12,use,penlight,patient_eyes
+S0105,172.81,touch,patient,reassess breath sounds
+S0105,222.24,touch,sink,surface
+S0105,272.22,communicate,team,hand back to bedside team
+S0106,2.64,communicate,team,respiratory hand-off
+S0106,5.85,inspect,vent,check respiratory equipment
+S0106,10.98,touch,patient,forehead
+S0106,37.74,touch,monitor,surface
+S0106,45.98,touch,patient,chest
+S0106,59.88,use,phone,speed_dial_help
+S0106,60.1,communicate,team,update team on airway
+S0106,73.31,grab,bvm,hand
+S0106,75.69,attach,bvm,patient_face
+S0106,80.91,manipulate,patient,head_tilt
+S0106,103.39,view,epic,check respiratory orders
+S0106,126.25,grab,penlight,hand
+S0106,128.87,use,penlight,patient_eyes
+S0106,135.73,communicate,team,discuss settings with provider
+S0106,139.65,set,o2_flow,flow_knob
+S0106,159.28,touch,door,surface
+S0107,6.41,inspect,vent,check respiratory equipment
+S0107,8.01,touch,patient,forehead
+S0107,43.33,touch,patient,chest
+S0107,44.47,view,comet,COMET risk score: severity of condition
+S0107,60.49,touch,door,surface
+S0107,64.75,set,iv_pump,channel_select
+S0107,64.9,grab,med_cart,hand
+S0107,68.06,administer,med_cart,drawer_2
+S0107,70.53,use,phone,speed_dial_help
+S0107,97.34,touch,monitor,surface
+S0107,105.37,set,o2_flow,flow_knob
+S0107,109.14,view,epic,check respiratory orders
+S0107,121.05,communicate,team,discuss settings with provider
+S0107,121.29,manipulate,patient,supine_legs_up
+S0107,174.58,touch,patient,reassess breath sounds
+S0107,247.15,communicate,team,hand back to bedside team
+S0108,1.29,communicate,team,respiratory hand-off
+S0108,7.51,inspect,vent,check respiratory equipment
+S0108,9.98,touch,patient,forehead
+S0108,28.39,touch,monitor,surface
+S0108,34.48,view,comet,COMET risk score: severity of condition
+S0108,37.81,check,monitor,SpO2 and respiratory rate
+S0108,40.53,touch,patient,chest
+S0108,45.8,look_confirm,clock,clock_face
+S0108,55.87,communicate,team,update team on airway
+S0108,59.67,use,phone,speed_dial_help
+S0108,63.39,set,o2_flow,flow_knob
+S0108,88.78,set,suction,on_switch
+S0108,90.68,view,epic,check respiratory orders
+S0108,116.12,touch,door,surface
+S0108,127.44,communicate,team,discuss settings with provider
+S0108,140.07,grab,med_cart,hand
+S0108,142.93,administer,med_cart,drawer_3
+S0108,152.97,touch,patient,reassess breath sounds
+S0108,276.98,touch,sink,surface
+S0108,278.35,communicate,team,hand back to bedside team
+S0109,2.08,communicate,team,respiratory hand-off
+S0109,5.55,inspect,vent,check respiratory equipment
+S0109,11.68,touch,patient,forehead
+S0109,44.55,view,comet,COMET risk score: severity of condition
+S0109,47.27,touch,patient,chest
+S0109,48.35,check,monitor,SpO2 and respiratory rate
+S0109,61.14,communicate,team,update team on airway
+S0109,61.83,use,phone,speed_dial_help
+S0109,80.56,manipulate,patient,head_tilt
+S0109,83.32,set,o2_flow,flow_knob
+S0109,88.75,view,epic,check respiratory orders
+S0109,95.32,grab,bvm,hand
+S0109,97.88,attach,bvm,patient_face
+S0109,150.27,communicate,team,discuss settings with provider
+S0109,175.3,touch,patient,reassess breath sounds
+S0109,217.31,touch,sink,surface
+S0109,276.37,communicate,team,hand back to bedside team
+S0110,1.06,communicate,team,respiratory hand-off
+S0110,6.18,touch,patient,forehead
+S0110,9.22,inspect,vent,check respiratory equipment
+S0110,36.96,view,comet,COMET risk score: severity of condition
+S0110,38.72,check,monitor,SpO2 and respiratory rate
+S0110,43.06,touch,patient,chest
+S0110,54.1,use,phone,speed_dial_help
+S0110,59.78,communicate,team,update team on airway
+S0110,64.92,manipulate,patient,head_tilt
+S0110,75.04,set,o2_flow,flow_knob
+S0110,77.06,touch,monitor,surface
+S0110,99.2,view,epic,check respiratory orders
+S0110,123.1,communicate,team,discuss settings with provider
+S0110,134.65,grab,penlight,hand
+S0110,137.11,use,penlight,patient_eyes
+S0110,176.23,touch,patient,reassess breath sounds
+S0110,269.8,communicate,team,hand back to bedside team
+S0110,284.67,touch,med_cart,surface
+S0111,2.73,communicate,team,respiratory hand-off
+S0111,6.66,inspect,vent,check respiratory equipment
+S0111,7.43,touch,patient,forehead
+S0111,32.22,check,monitor,SpO2 and respiratory rate
+S0111,33.74,touch,patient,chest
+S0111,42.36,use,phone,speed_dial_help
+S0111,49.74,communicate,team,update team on airway
+S0111,71.92,view,epic,check respiratory orders
+S0111,74.2,set,o2_flow,flow_knob
+S0111,93.16,set,suction,on_switch
+S0111,111.04,communicate,team,discuss settings with provider
+S0111,150.67,touch,door,surface
+S0111,168.83,touch,patient,reassess breath sounds
+S0111,211.1,grab,med_cart,hand
+S0111,214.29,administer,med_cart,drawer_3
+S0111,282.1,communicate,team,hand back to bedside team
+S0111,286.62,touch,door,surface
+S0112,1.83,communicate,team,respiratory hand-off
+S0112,6.81,inspect,vent,check respiratory equipment
+S0112,8.38,touch,patient,forehead
+S0112,24.58,touch,door,surface
+S0112,61.19,touch,patient,chest
+S0112,65.63,touch,patient,nail_bed
+S0112,84.28,view,epic,check respiratory orders
+S0112,92.07,use,phone,speed_dial_help
+S0112,145.01,touch,sink,surface
+S0112,145.95,set,iv_pump,start_button
+S0112,146.12,communicate,team,discuss settings with provider
+S0112,160.76,touch,patient,reassess breath sounds
+S0112,183.82,touch,med_cart,surface
+S0112,221.45,grab,iv_pump,hand
+S0112,224.17,administer,iv_pump,bolus_line
+S0112,304.71,communicate,team,hand back to bedside team
+S0113,2.66,communicate,team,respiratory hand-off
+S0113,9.12,touch,patient,forehead
+S0113,30.9,check,monitor,SpO2 and respiratory rate
+S0113,32.61,touch,patient,chest
+S0113,39.75,look_confirm,clock,clock_face
+S0113,40.25,communicate,team,update team on airway
+S0113,61.93,use,phone,speed_dial_help
+S0113,70.0,view,epic,check respiratory orders
+S0113,83.83,set,o2_flow,flow_knob
+S0113,94.12,set,suction,on_switch
+S0113,136.75,touch,suction,surface
+S0113,150.08,grab,med_cart,hand
+S0113,152.24,administer,med_cart,drawer_3
+S0113,161.99,touch,patient,reassess breath sounds
+S0113,280.46,communicate,team,hand back to bedside team
+S0114,6.34,inspect,vent,check respiratory equipment
+S0114,11.68,touch,patient,forehead
+S0114,43.89,check,monitor,SpO2 and respiratory rate
+S0114,45.14,view,comet,COMET risk score: severity of condition
+S0114,48.05,touch,patient,chest
+S0114,53.2,communicate,team,update team on airway
+S0114,54.71,touch,patient,nail_bed
+S0114,69.82,use,phone,speed_dial_help
+S0114,78.94,set,iv_pump,start_button
+S0114,95.99,view,epic,check respiratory orders
+S0114,132.45,communicate,team,discuss settings with provider
+S0114,174.55,touch,door,surface
+S0114,176.97,touch,patient,reassess breath sounds
+S0114,215.61,touch,patient,nail_bed_recheck
+S0114,300.84,communicate,team,hand back to bedside team
+S0114,305.35,touch,med_cart,surface
+S0115,2.78,communicate,team,respiratory hand-off
+S0115,9.28,inspect,vent,check respiratory equipment
+S0115,10.09,touch,patient,forehead
+S0115,32.51,check,monitor,SpO2 and respiratory rate
+S0115,34.88,touch,patient,chest
+S0115,42.33,use,phone,speed_dial_help
+S0115,43.23,communicate,team,update team on airway
+S0115,56.12,manipulate,patient,head_tilt
+S0115,65.64,grab,bvm,hand
+S0115,68.45,attach,bvm,patient_face
+S0115,89.69,view,epic,check respiratory orders
+S0115,100.39,touch,med_cart,surface
+S0115,116.1,set,o2_flow,flow_knob
+S0115,124.68,communicate,team,discuss settings with provider
+S0115,125.44,grab,penlight,hand
+S0115,128.38,use,penlight,patient_eyes
+S0115,155.13,touch,med_cart,surface
+S0115,164.69,touch,patient,reassess breath sounds
+S0115,182.38,touch,sink,surface
+S0116,1.77,communicate,team,patient hand-off (nursing packet)
+S0116,3.58,view,epic,"check orders, meds, labs"
+S0116,11.17,touch,patient,forehead
+S0116,11.19,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0116,19.08,touch,suction,surface
+S0116,55.93,check,monitor,read vitals
+S0116,58.32,view,comet,COMET risk score: severity of condition
+S0116,60.76,touch,patient,chest
+S0116,63.69,grab,penlight,hand
+S0116,66.53,use,penlight,patient_eyes
+S0116,72.3,communicate,team,discuss concerns with provider
+S0116,76.85,use,phone,speed_dial_help
+S0116,88.68,set,vent,start_button
+S0116,96.34,check,monitor,watch vitals trend
+S0116,111.45,view,epic,chart vitals and head-to-toe
+S0116,143.99,touch,patient,get blood for iSTAT
+S0116,153.82,touch,door,surface
+S0116,207.48,check,monitor,recheck vitals after intervention
+S0116,236.2,communicate,team,listen to care plan from provider
+S0116,280.63,view,epic,update charts
+S0117,1.39,communicate,team,patient hand-off (nursing packet)
+S0117,7.02,touch,patient,forehead
+S0117,13.96,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0117,40.75,view,comet,COMET risk score: severity of condition
+S0117,41.41,check,monitor,read vitals
+S0117,43.59,touch,patient,chest
+S0117,52.35,grab,penlight,hand
+S0117,54.53,use,penlight,patient_eyes
+S0117,57.74,communicate,team,discuss concerns with provider
+S0117,61.34,use,phone,speed_dial_help
+S0117,63.47,set,iv_pump,channel_select
+S0117,77.19,check,monitor,watch vitals trend
+S0117,85.15,set,vent,start_button
+S0117,107.33,grab,med_cart,hand
+S0117,109.09,administer,med_cart,drawer_4
+S0117,123.3,touch,monitor,surface
+S0117,126.55,touch,patient,get blood for iSTAT
+S0117,171.48,check,monitor,recheck vitals after intervention
+S0117,220.09,touch,door,surface
+S0117,235.4,communicate,team,listen to care plan from provider
+S0117,289.91,view,epic,update charts
+S0118,2.99,communicate,team,patient hand-off (nursing packet)
+S0118,4.0,view,epic,"check orders, meds, labs"
+S0118,6.85,touch,patient,forehead
+S0118,11.12,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0118,41.93,view,comet,COMET risk score: severity of condition
+S0118,46.16,check,monitor,read vitals
+S0118,47.44,touch,patient,chest
+S0118,62.01,touch,patient,nail_bed
+S0118,67.08,communicate,team,discuss concerns with provider
+S0118,67.15,use,phone,speed_dial_help
+S0118,86.76,check,monitor,watch vitals trend
+S0118,96.32,set,iv_pump,start_button
+S0118,117.64,view,epic,chart vitals and head-to-toe
+S0118,136.77,touch,patient,get blood for iSTAT
+S0118,162.98,touch,monitor,surface
+S0118,206.19,touch,door,surface
+S0118,208.9,check,monitor,recheck vitals after intervention
+S0118,265.92,communicate,team,listen to care plan from provider
+S0118,268.38,touch,patient,nail_bed_recheck
+S0118,310.27,view,epic,update charts
+S0119,1.72,communicate,team,patient hand-off (nursing packet)
+S0119,6.39,view,epic,"check orders, meds, labs"
+S0119,9.02,touch,patient,forehead
+S0119,9.67,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0119,34.64,check,monitor,read vitals
+S0119,35.63,touch,patient,chest
+S0119,40.31,look_confirm,clock,clock_face
+S0119,44.08,communicate,team,discuss concerns with provider
+S0119,47.7,use,phone,speed_dial_help
+S0119,61.15,set,o2_flow,flow_knob
+S0119,86.12,touch,sink,surface
+S0119,93.13,set,suction,on_switch
+S0119,138.91,grab,med_cart,hand
+S0119,140.82,administer,med_cart,drawer_3
+S0119,152.26,touch,patient,get blood for iSTAT
+S0119,187.74,check,monitor,recheck vitals after intervention
+S0119,234.77,touch,suction,surface
+S0120,2.22,communicate,team,patient hand-off (nursing packet)
+S0120,3.02,view,epic,"check orders, meds, labs"
+S0120,7.76,touch,patient,forehead
+S0120,25.96,view,comet,COMET risk score: severity of condition
+S0120,26.59,check,monitor,read vitals
+S0120,27.62,touch,patient,chest
+S0120,32.21,use,phone,speed_dial_help
+S0120,34.38,look_confirm,clock,clock_face
+S0120,38.88,touch,suction,surface
+S0120,48.04,communicate,team,discuss concerns with provider
+S0120,49.5,set,o2_flow,flow_knob
+S0120,61.36,check,monitor,watch vitals trend
+S0120,88.07,set,suction,on_switch
+S0120,98.73,view,epic,chart vitals and head-to-toe
+S0120,129.55,grab,med_cart,hand
+S0120,131.91,administer,med_cart,drawer_3
+S0120,148.12,touch,patient,get blood for iSTAT
+S0120,153.33,touch,door,surface
+S0120,186.31,touch,door,surface
+S0120,254.33,communicate,team,listen to care plan from provider
+S0121,1.78,communicate,team,patient hand-off (nursing packet)
+S0121,5.67,view,epic,"check orders, meds, labs"
+S0121,11.63,touch,patient,forehead
+S0121,12.58,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0121,40.49,touch,sink,surface
+S0121,51.25,check,monitor,read vitals
+S0121,59.99,touch,patient,chest
+S0121,66.57,grab,penlight,hand
+S0121,69.19,use,penlight,patient_eyes
+S0121,71.4,communicate,team,discuss concerns with provider
+S0121,82.19,use,phone,speed_dial_help
+S0121,90.28,set,iv_pump,channel_select
+S0121,92.94,check,monitor,watch vitals trend
+S0121,114.56,view,epic,chart vitals and head-to-toe
+S0121,132.89,grab,med_cart,hand
+S0121,133.34,set,vent,start_button
+S0121,136.85,administer,med_cart,drawer_4
+S0121,175.32,touch,patient,get blood for iSTAT
+S0121,210.56,check,monitor,recheck vitals after intervention
+S0121,235.99,communicate,team,listen to care plan from provider
+S0121,277.01,touch,suction,surface
+S0122,1.43,communicate,team,patient hand-off (nursing packet)
+S0122,4.15,view,epic,"check orders, meds, labs"
+S0122,10.49,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0122,11.84,touch,patient,forehead
+S0122,52.93,check,monitor,read vitals
+S0122,56.1,view,comet,COMET risk score: severity of condition
+S0122,59.83,touch,patient,chest
+S0122,67.06,touch,patient,nail_bed
+S0122,71.08,communicate,team,discuss concerns with provider
+S0122,76.35,use,phone,speed_dial_help
+S0122,84.64,check,monitor,watch vitals trend
+S0122,131.21,view,epic,chart vitals and head-to-toe
+S0122,135.4,grab,iv_pump,hand
+S0122,138.07,touch,monitor,surface
+S0122,138.5,administer,iv_pump,bolus_line
+S0122,145.33,touch,patient,get blood for iSTAT
+S0122,214.58,touch,patient,nail_bed_recheck
+S0122,266.06,communicate,team,listen to care plan from provider
+S0123,1.61,communicate,team,patient hand-off (nursing packet)
+S0123,4.55,view,epic,"check orders, meds, labs"
+S0123,11.92,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0123,11.94,touch,patient,forehead
+S0123,52.34,check,monitor,read vitals
+S0123,52.5,view,comet,COMET risk score: severity of condition
+S0123,56.24,touch,patient,chest
+S0123,61.69,touch,patient,nail_bed
+S0123,62.26,communicate,team,discuss concerns with provider
+S0123,66.32,use,phone,speed_dial_help
+S0123,89.37,touch,sink,surface
+S0123,91.56,check,monitor,watch vitals trend
+S0123,117.77,view,epic,chart vitals and head-to-toe
+S0123,129.15,grab,iv_pump,hand
+S0123,132.98,administer,iv_pump,bolus_line
+S0123,148.02,set,iv_pump,start_button
+S0123,153.81,touch,patient,get blood for iSTAT
+S0123,172.94,touch,patient,nail_bed_recheck
+S0123,187.94,check,monitor,recheck vitals after intervention
+S0123,263.16,communicate,team,listen to care plan from provider
+S0124,2.72,communicate,team,patient hand-off (nursing packet)
+S0124,7.19,touch,patient,forehead
+S0124,9.35,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0124,34.25,view,comet,COMET risk score: severity of condition
+S0124,35.85,check,monitor,read vitals
+S0124,36.16,touch,suction,surface
+S0124,36.42,touch,patient,chest
+S0124,41.56,look_confirm,clock,clock_face
+S0124,50.26,use,phone,speed_dial_help
+S0124,54.13,communicate,team,discuss concerns with provider
+S0124,58.43,set,o2_flow,flow_knob
+S0124,70.52,check,monitor,watch vitals trend
+S0124,111.03,view,epic,chart vitals and head-to-toe
+S0124,133.63,grab,med_cart,hand
+S0124,135.39,administer,med_cart,drawer_3
+S0124,158.11,touch,patient,get blood for iSTAT
+S0124,176.58,check,monitor,recheck vitals after intervention
+S0124,193.91,touch,suction,surface
+S0124,284.53,view,epic,update charts
+S0125,1.52,communicate,team,respiratory hand-off
+S0125,5.42,inspect,vent,check respiratory equipment
+S0125,7.36,touch,patient,forehead
+S0125,31.95,check,monitor,SpO2 and respiratory rate
+S0125,34.22,touch,patient,chest
+S0125,54.59,touch,monitor,surface
+S0125,60.77,look_confirm,clock,clock_face
+S0125,73.27,set,o2_flow,flow_knob
+S0125,108.95,use,phone,speed_dial_help
+S0125,121.84,set,suction,on_switch
+S0125,131.59,touch,monitor,surface
+S0125,171.43,touch,patient,reassess breath sounds
+S0125,208.38,touch,sink,surface
+S0126,6.33,touch,patient,forehead
+S0126,7.32,inspect,vent,check respiratory equipment
+S0126,14.38,touch,suction,surface
+S0126,31.18,touch,patient,chest
+S0126,31.7,check,monitor,SpO2 and respiratory rate
+S0126,32.63,view,comet,COMET risk score: severity of condition
+S0126,39.7,touch,monitor,surface
+S0126,45.81,look_confirm,clock,clock_face
+S0126,56.74,set,o2_flow,flow_knob
+S0126,66.95,set,suction,on_switch
+S0126,73.17,view,epic,check respiratory orders
+S0126,118.93,communicate,team,discuss settings with provider
+S0126,224.67,touch,monitor,surface
+S0127,7.91,inspect,vent,check respiratory equipment
+S0127,8.88,touch,patient,forehead
+S0127,30.71,check,monitor,SpO2 and respiratory rate
+S0127,34.95,view,comet,COMET risk score: severity of condition
+S0127,36.59,touch,patient,chest
+S0127,42.34,communicate,team,update team on airway
+S0127,46.71,touch,med_cart,surface
+S0127,50.85,grab,bvm,hand
+S0127,53.74,attach,bvm,patient_face
+S0127,56.46,manipulate,patient,head_tilt
+S0127,76.13,set,o2_flow,flow_knob
+S0127,148.43,touch,suction,surface
+S0127,165.18,touch,patient,reassess breath sounds
+S0127,210.98,touch,sink,surface
+S0127,279.26,communicate,team,hand back to bedside team
+S0128,2.06,communicate,team,respiratory hand-off
+S0128,6.6,touch,patient,forehead
+S0128,7.3,inspect,vent,check respiratory equipment
+S0128,38.83,view,comet,COMET risk score: severity of condition
+S0128,39.13,check,monitor,SpO2 and respiratory rate
+S0128,43.01,touch,sink,surface
+S0128,46.65,touch,patient,chest
+S0128,64.85,grab,penlight,hand
+S0128,67.92,use,penlight,patient_eyes
+S0128,70.48,set,iv_pump,channel_select
+S0128,107.56,view,epic,check respiratory orders
+S0128,138.36,use,phone,speed_dial_help
+S0128,147.2,grab,med_cart,hand
+S0128,149.37,administer,med_cart,drawer_4
+S0128,152.59,set,vent,start_button
+S0128,281.39,communicate,team,hand back to bedside team
+S0129,2.33,communicate,team,respiratory hand-off
+S0129,7.47,touch,patient,forehead
+S0129,32.08,touch,patient,chest
+S0129,32.67,check,monitor,SpO2 and respiratory rate
+S0129,34.31,view,comet,COMET risk score: severity of condition
+S0129,45.38,look_confirm,clock,clock_face
+S0129,47.95,use,phone,speed_dial_help
+S0129,70.71,set,suction,on_switch
+S0129,73.35,set,o2_flow,flow_knob
+S0129,107.04,grab,med_cart,hand
+S0129,108.15,communicate,team,discuss settings with provider
+S0129,110.02,administer,med_cart,drawer_3
+S0129,158.92,touch,suction,surface
+S0129,162.74,touch,patient,reassess breath sounds
+S0129,267.82,communicate,team,hand back to bedside team
+S0130,1.61,communicate,team,patient hand-off (nursing packet)
+S0130,4.11,view,epic,"check orders, meds, labs"
+S0130,8.06,touch,patient,forehead
+S0130,11.03,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0130,41.46,check,monitor,read vitals
+S0130,41.98,touch,patient,chest
+S0130,53.37,set,iv_pump,channel_select
+S0130,56.55,use,phone,speed_dial_help
+S0130,57.3,communicate,team,discuss concerns with provider
+S0130,72.68,check,monitor,watch vitals trend
+S0130,107.28,view,epic,chart vitals and head-to-toe
+S0130,112.68,grab,med_cart,hand
+S0130,114.33,administer,med_cart,drawer_2
+S0130,117.24,set,o2_flow,flow_knob
+S0130,124.42,touch,sink,surface
+S0130,131.67,touch,patient,get blood for iSTAT
+S0130,163.42,manipulate,patient,supine_legs_up
+S0130,165.76,touch,door,surface
+S0130,193.65,check,monitor,recheck vitals after intervention
+S0130,215.64,communicate,team,listen to care plan from provider
+S0130,235.37,touch,sink,surface
+S0130,268.65,view,epic,update charts
+S0131,6.99,view,epic,"check orders, meds, labs"
+S0131,9.43,touch,patient,forehead
+S0131,11.17,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0131,41.55,check,monitor,read vitals
+S0131,41.63,touch,patient,chest
+S0131,44.67,view,comet,COMET risk score: severity of condition
+S0131,48.33,set,iv_pump,channel_select
+S0131,59.81,communicate,team,discuss concerns with provider
+S0131,73.31,use,phone,speed_dial_help
+S0131,78.57,manipulate,patient,supine_legs_up
+S0131,80.65,check,monitor,watch vitals trend
+S0131,99.74,grab,med_cart,hand
+S0131,100.77,set,o2_flow,flow_knob
+S0131,103.21,administer,med_cart,drawer_2
+S0131,191.51,check,monitor,recheck vitals after intervention
+S0131,224.0,communicate,team,listen to care plan from provider
+S0131,255.78,view,epic,update charts
+S0131,258.15,touch,med_cart,surface
+S0131,264.97,touch,med_cart,surface
+S0132,1.57,communicate,team,patient hand-off (nursing packet)
+S0132,5.95,view,epic,"check orders, meds, labs"
+S0132,8.75,touch,patient,forehead
+S0132,9.32,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0132,28.36,touch,sink,surface
+S0132,35.84,check,monitor,read vitals
+S0132,47.19,touch,patient,chest
+S0132,53.78,use,phone,speed_dial_help
+S0132,54.68,communicate,team,discuss concerns with provider
+S0132,54.85,grab,penlight,hand
+S0132,57.1,use,penlight,patient_eyes
+S0132,69.79,check,monitor,watch vitals trend
+S0132,85.14,set,iv_pump,channel_select
+S0132,109.77,view,epic,chart vitals and head-to-toe
+S0132,115.82,set,vent,start_button
+S0132,132.7,touch,med_cart,surface
+S0132,159.51,touch,patient,get blood for iSTAT
+S0132,167.35,grab,med_cart,hand
+S0132,170.28,administer,med_cart,drawer_4
+S0132,177.22,touch,sink,surface
+S0132,183.6,check,monitor,recheck vitals after intervention
+S0132,230.28,communicate,team,listen to care plan from provider
+S0133,1.39,communicate,team,patient hand-off (nursing packet)
+S0133,5.95,view,epic,"check orders, meds, labs"
+S0133,7.87,touch,patient,forehead
+S0133,43.38,check,monitor,read vitals
+S0133,45.61,view,comet,COMET risk score: severity of condition
+S0133,48.2,touch,patient,chest
+S0133,59.93,communicate,team,discuss concerns with provider
+S0133,72.98,manipulate,patient,head_tilt
+S0133,82.29,check,monitor,watch vitals trend
+S0133,83.49,set,o2_flow,flow_knob
+S0133,114.24,touch,monitor,surface
+S0133,114.94,view,epic,chart vitals and head-to-toe
+S0133,132.73,touch,patient,get blood for iSTAT
+S0133,152.06,grab,penlight,hand
+S0133,155.69,use,penlight,patient_eyes
+S0133,192.3,check,monitor,recheck vitals after intervention
+S0133,251.81,communicate,team,listen to care plan from provider
+S0133,279.42,view,epic,update charts
+S0134,5.95,view,epic,"check orders, meds, labs"
+S0134,6.57,touch,patient,forehead
+S0134,9.35,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0134,46.5,touch,monitor,surface
+S0134,46.54,view,comet,COMET risk score: severity of condition
+S0134,50.58,check,monitor,read vitals
+S0134,56.25,touch,patient,chest
+S0134,62.91,grab,penlight,hand
+S0134,65.75,communicate,team,discuss concerns with provider
+S0134,65.84,use,penlight,patient_eyes
+S0134,73.72,set,iv_pump,channel_select
+S0134,89.51,check,monitor,watch vitals trend
+S0134,105.23,use,phone,speed_dial_help
+S0134,118.2,grab,med_cart,hand
+S0134,119.89,view,epic,chart vitals and head-to-toe
+S0134,119.99,administer,med_cart,drawer_4
+S0134,137.81,touch,suction,surface
+S0134,146.6,touch,sink,surface
+S0134,167.3,touch,patient,get blood for iSTAT
+S0134,201.61,check,monitor,recheck vitals after intervention
+S0134,230.96,communicate,team,listen to care plan from provider
+S0134,276.89,view,epic,update charts
+S0135,3.19,view,epic,"check orders, meds, labs"
+S0135,9.34,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0135,11.6,touch,patient,forehead
+S0135,47.07,check,monitor,read vitals
+S0135,54.89,touch,patient,chest
+S0135,55.73,grab,penlight,hand
+S0135,57.63,use,penlight,patient_eyes
+S0135,63.81,communicate,team,discuss concerns with provider
+S0135,77.83,set,vent,start_button
+S0135,79.68,check,monitor,watch vitals trend
+S0135,90.38,use,phone,speed_dial_help
+S0135,93.48,set,iv_pump,channel_select
+S0135,124.29,grab,med_cart,hand
+S0135,125.01,view,epic,chart vitals and head-to-toe
+S0135,126.43,administer,med_cart,drawer_4
+S0135,148.91,touch,patient,get blood for iSTAT
+S0135,179.88,check,monitor,recheck vitals after intervention
+S0135,196.75,touch,monitor,surface
+S0135,285.01,view,epic,update charts
+S0136,1.57,communicate,team,patient hand-off (nursing packet)
+S0136,6.33,view,epic,"check orders, meds, labs"
+S0136,7.6,touch,patient,forehead
+S0136,11.32,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0136,24.54,touch,door,surface
+S0136,34.32,check,monitor,read vitals
+S0136,34.34,touch,patient,chest
+S0136,56.01,communicate,team,discuss concerns with provider
+S0136,67.4,use,phone,speed_dial_help
+S0136,72.98,look_confirm,clock,clock_face
+S0136,74.45,check,monitor,watch vitals trend
+S0136,83.25,set,o2_flow,flow_knob
+S0136,97.12,view,epic,chart vitals and head-to-toe
+S0136,113.05,set,suction,on_switch
+S0136,137.42,touch,patient,get blood for iSTAT
+S0136,155.08,grab,med_cart,hand
+S0136,157.43,administer,med_cart,drawer_3
+S0136,250.68,touch,monitor,surface
+S0136,252.51,touch,sink,surface
+S0136,288.81,view,epic,update charts
+S0137,2.41,communicate,team,patient hand-off (nursing packet)
+S0137,6.6,view,epic,"check orders, meds, labs"
+S0137,8.64,touch,patient,forehead
+S0137,10.03,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0137,39.27,touch,patient,chest
+S0137,39.91,check,monitor,read vitals
+S0137,42.72,set,iv_pump,channel_select
+S0137,73.28,check,monitor,watch vitals trend
+S0137,77.37,grab,med_cart,hand
+S0137,79.32,administer,med_cart,drawer_2
+S0137,102.78,set,o2_flow,flow_knob
+S0137,110.85,view,epic,chart vitals and head-to-toe
+S0137,114.62,manipulate,patient,supine_legs_up
+S0137,143.82,touch,patient,get blood for iSTAT
+S0137,181.68,touch,sink,surface
+S0137,187.04,touch,suction,surface
+S0137,194.47,check,monitor,recheck vitals after intervention
+S0137,221.38,touch,sink,surface
+S0137,226.62,communicate,team,listen to care plan from provider
+S0137,265.77,view,epic,update charts
+S0138,2.81,communicate,team,patient hand-off (nursing packet)
+S0138,3.62,view,epic,"check orders, meds, labs"
+S0138,7.68,touch,patient,forehead
+S0138,9.6,touch,suction,surface
+S0138,11.47,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0138,29.19,touch,patient,chest
+S0138,30.06,check,monitor,read vitals
+S0138,41.86,set,iv_pump,channel_select
+S0138,61.92,use,phone,speed_dial_help
+S0138,62.39,check,monitor,watch vitals trend
+S0138,76.64,grab,med_cart,hand
+S0138,79.01,administer,med_cart,drawer_2
+S0138,82.88,view,epic,chart vitals and head-to-toe
+S0138,99.02,set,o2_flow,flow_knob
+S0138,125.82,touch,patient,get blood for iSTAT
+S0138,164.74,check,monitor,recheck vitals after intervention
+S0138,220.77,communicate,team,listen to care plan from provider
+S0138,229.81,touch,med_cart,surface
+S0138,263.89,view,epic,update charts
+S0139,1.57,communicate,team,patient hand-off (nursing packet)
+S0139,4.25,view,epic,"check orders, meds, labs"
+S0139,10.07,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0139,10.49,touch,patient,forehead
+S0139,31.95,check,monitor,read vitals
+S0139,34.42,touch,patient,chest
+S0139,37.74,set,iv_pump,channel_select
+S0139,51.08,communicate,team,discuss concerns with provider
+S0139,62.42,use,phone,speed_dial_help
+S0139,63.49,grab,med_cart,hand
+S0139,66.35,administer,med_cart,drawer_2
+S0139,66.78,check,monitor,watch vitals trend
+S0139,88.18,set,o2_flow,flow_knob
+S0139,100.48,manipulate,patient,supine_legs_up
+S0139,105.65,view,epic,chart vitals and head-to-toe
+S0139,145.3,touch,patient,get blood for iSTAT
+S0139,180.87,check,monitor,recheck vitals after intervention
+S0139,211.7,communicate,team,listen to care plan from provider
+S0139,213.56,touch,door,surface
+S0139,255.65,view,epic,update charts
+S0140,1.5,communicate,team,patient hand-off (nursing packet)
+S0140,4.65,view,epic,"check orders, meds, labs"
+S0140,7.09,touch,patient,forehead
+S0140,10.33,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0140,25.76,check,monitor,read vitals
+S0140,30.68,touch,suction,surface
+S0140,39.72,touch,patient,chest
+S0140,58.16,look_confirm,clock,clock_face
+S0140,69.11,check,monitor,watch vitals trend
+S0140,92.97,view,epic,chart vitals and head-to-toe
+S0140,135.64,touch,med_cart,surface
+S0140,161.3,check,monitor,recheck vitals after intervention
+S0140,247.37,communicate,team,listen to care plan from provider
+S0140,280.34,view,epic,update charts
+S0141,2.62,communicate,team,patient hand-off (nursing packet)
+S0141,6.23,view,epic,"check orders, meds, labs"
+S0141,8.63,touch,patient,forehead
+S0141,12.91,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0141,28.1,check,monitor,read vitals
+S0141,33.22,look_confirm,clock,clock_face
+S0141,36.11,touch,patient,chest
+S0141,43.59,use,phone,speed_dial_help
+S0141,46.0,communicate,team,discuss concerns with provider
+S0141,63.16,check,monitor,watch vitals trend
+S0141,94.22,set,o2_flow,flow_knob
+S0141,117.53,touch,door,surface
+S0141,136.24,touch,patient,get blood for iSTAT
+S0141,154.62,set,suction,on_switch
+S0141,159.92,grab,med_cart,hand
+S0141,163.64,administer,med_cart,drawer_3
+S0141,177.4,check,monitor,recheck vitals after intervention
+S0141,241.13,communicate,team,listen to care plan from provider
+S0142,2.37,communicate,team,patient hand-off (nursing packet)
+S0142,10.53,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0142,11.84,touch,patient,forehead
+S0142,44.9,view,comet,COMET risk score: severity of condition
+S0142,47.7,check,monitor,read vitals
+S0142,56.96,communicate,team,discuss concerns with provider
+S0142,61.05,touch,patient,chest
+S0142,80.87,touch,patient,nail_bed
+S0142,112.06,use,phone,speed_dial_help
+S0142,122.25,view,epic,chart vitals and head-to-toe
+S0142,133.16,touch,patient,get blood for iSTAT
+S0142,197.11,check,monitor,recheck vitals after intervention
+S0142,258.83,set,iv_pump,start_button
+S0142,281.22,touch,door,surface
+S0142,288.44,touch,med_cart,surface
+S0142,289.65,touch,door,surface
+S0143,3.85,view,epic,"check orders, meds, labs"
+S0143,8.44,touch,patient,forehead
+S0143,30.36,check,monitor,read vitals
+S0143,32.81,touch,patient,chest
+S0143,36.0,look_confirm,clock,clock_face
+S0143,38.83,touch,door,surface
+S0143,72.79,check,monitor,watch vitals trend
+S0143,83.21,view,epic,chart vitals and head-to-toe
+S0143,131.63,grab,med_cart,hand
+S0143,134.58,administer,med_cart,drawer_3
+S0143,162.93,check,monitor,recheck vitals after intervention
+S0143,232.36,communicate,team,listen to care plan from provider
+S0143,270.89,touch,monitor,surface
+S0143,283.64,view,epic,update charts
+S0144,11.2,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0144,11.65,touch,patient,forehead
+S0144,31.53,touch,door,surface
+S0144,39.49,touch,patient,chest
+S0144,51.61,set,iv_pump,channel_select
+S0144,58.45,communicate,team,discuss concerns with provider
+S0144,72.26,check,monitor,watch vitals trend
+S0144,93.28,grab,med_cart,hand
+S0144,96.95,administer,med_cart,drawer_2
+S0144,104.74,use,phone,speed_dial_help
+S0144,114.87,view,epic,chart vitals and head-to-toe
+S0144,127.33,manipulate,patient,supine_legs_up
+S0144,138.29,set,o2_flow,flow_knob
+S0144,149.02,touch,patient,get blood for iSTAT
+S0144,173.7,check,monitor,recheck vitals after intervention
+S0144,227.96,communicate,team,listen to care plan from provider
+S0144,251.53,touch,monitor,surface
+S0144,268.84,view,epic,update charts
+S0145,2.76,communicate,team,patient hand-off (nursing packet)
+S0145,8.97,touch,patient,forehead
+S0145,12.1,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0145,34.8,check,monitor,read vitals
+S0145,37.21,touch,patient,chest
+S0145,44.22,set,iv_pump,channel_select
+S0145,44.82,touch,sink,surface
+S0145,76.94,check,monitor,watch vitals trend
+S0145,92.65,view,epic,chart vitals and head-to-toe
+S0145,92.89,manipulate,patient,supine_legs_up
+S0145,94.44,grab,med_cart,hand
+S0145,96.12,administer,med_cart,drawer_2
+S0145,99.88,set,o2_flow,flow_knob
+S0145,173.44,touch,med_cart,surface
+S0145,225.81,touch,monitor,surface
+S0145,262.75,view,epic,update charts
+S0146,2.59,communicate,team,patient hand-off (nursing packet)
+S0146,4.1,view,epic,"check orders, meds, labs"
+S0146,8.84,touch,patient,forehead
+S0146,42.85,check,monitor,read vitals
+S0146,52.52,touch,patient,chest
+S0146,65.08,touch,patient,nail_bed
+S0146,79.07,check,monitor,watch vitals trend
+S0146,105.88,view,epic,chart vitals and head-to-toe
+S0146,108.79,set,iv_pump,start_button
+S0146,142.48,grab,iv_pump,hand
+S0146,144.5,administer,iv_pump,bolus_line
+S0146,151.47,touch,patient,get blood for iSTAT
+S0146,184.7,check,monitor,recheck vitals after intervention
+S0146,276.53,touch,patient,nail_bed_recheck
+S0146,295.99,touch,monitor,surface
+S0147,1.96,communicate,team,patient hand-off (nursing packet)
+S0147,5.32,view,epic,"check orders, meds, labs"
+S0147,10.24,touch,patient,forehead
+S0147,48.93,check,monitor,read vitals
+S0147,59.62,touch,patient,chest
+S0147,60.25,communicate,team,discuss concerns with provider
+S0147,65.59,grab,penlight,hand
+S0147,69.36,use,penlight,patient_eyes
+S0147,72.88,set,iv_pump,channel_select
+S0147,82.29,set,vent,start_button
+S0147,90.92,check,monitor,watch vitals trend
+S0147,119.95,view,epic,chart vitals and head-to-toe
+S0147,160.0,touch,suction,surface
+S0147,171.28,touch,patient,get blood for iSTAT
+S0147,175.39,grab,med_cart,hand
+S0147,177.93,administer,med_cart,drawer_4
+S0147,194.52,check,monitor,recheck vitals after intervention
+S0147,240.97,touch,suction,surface
+S0147,249.02,communicate,team,listen to care plan from provider
+S0147,257.53,touch,sink,surface
+S0147,279.65,view,epic,update charts
+S0148,2.51,communicate,team,patient hand-off (nursing packet)
+S0148,4.45,view,epic,"check orders, meds, labs"
+S0148,6.55,touch,patient,forehead
+S0148,10.94,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0148,32.83,check,monitor,read vitals
+S0148,32.96,view,comet,COMET risk score: severity of condition
+S0148,36.22,touch,patient,chest
+S0148,50.13,communicate,team,discuss concerns with provider
+S0148,63.59,check,monitor,watch vitals trend
+S0148,72.53,use,phone,speed_dial_help
+S0148,77.99,touch,monitor,surface
+S0148,84.5,grab,bvm,hand
+S0148,87.02,attach,bvm,patient_face
+S0148,89.51,view,epic,chart vitals and head-to-toe
+S0148,101.55,set,o2_flow,flow_knob
+S0148,133.18,touch,patient,get blood for iSTAT
+S0148,183.43,check,monitor,recheck vitals after intervention
+S0148,247.89,communicate,team,listen to care plan from provider
+S0148,276.89,view,epic,update charts
+S0149,2.81,communicate,team,patient hand-off (nursing packet)
+S0149,10.71,touch,patient,forehead
+S0149,12.37,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0149,19.86,touch,door,surface
+S0149,40.69,touch,patient,chest
+S0149,41.17,view,comet,COMET risk score: severity of condition
+S0149,73.88,manipulate,patient,head_tilt
+S0149,93.78,view,epic,chart vitals and head-to-toe
+S0149,103.93,set,o2_flow,flow_knob
+S0149,112.59,touch,monitor,surface
+S0149,165.18,grab,penlight,hand
+S0149,168.11,use,penlight,patient_eyes
+S0149,185.62,check,monitor,recheck vitals after intervention
+S0149,247.44,communicate,team,listen to care plan from provider
+S0149,277.63,view,epic,update charts
+S0150,6.8,view,epic,"check orders, meds, labs"
+S0150,11.03,touch,patient,forehead
+S0150,44.52,check,monitor,read vitals
+S0150,45.61,view,comet,COMET risk score: severity of condition
+S0150,62.55,communicate,team,discuss concerns with provider
+S0150,77.03,touch,patient,chest
+S0150,82.19,touch,patient,nail_bed
+S0150,107.96,use,phone,speed_dial_help
+S0150,117.19,view,epic,chart vitals and head-to-toe
+S0150,129.87,touch,patient,get blood for iSTAT
+S0150,163.66,touch,suction,surface
+S0150,271.51,communicate,team,listen to care plan from provider
+S0150,288.96,touch,door,surface
+S0150,312.92,view,epic,update charts
+S0151,4.39,view,epic,"check orders, meds, labs"
+S0151,5.87,touch,suction,surface
+S0151,6.9,touch,patient,forehead
+S0151,11.53,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0151,30.7,touch,sink,surface
+S0151,31.42,view,comet,COMET risk score: severity of condition
+S0151,35.99,touch,patient,chest
+S0151,38.42,set,iv_pump,channel_select
+S0151,45.31,use,phone,speed_dial_help
+S0151,50.67,communicate,team,discuss concerns with provider
+S0151,71.19,grab,med_cart,hand
+S0151,73.63,administer,med_cart,drawer_2
+S0151,75.28,check,monitor,watch vitals trend
+S0151,89.16,set,o2_flow,flow_knob
+S0151,91.5,view,epic,chart vitals and head-to-toe
+S0151,110.16,manipulate,patient,supine_legs_up
+S0151,134.71,touch,patient,get blood for iSTAT
+S0151,178.55,check,monitor,recheck vitals after intervention
+S0151,216.83,communicate,team,listen to care plan from provider
+S0151,255.25,view,epic,update charts
+S0151,267.45,touch,monitor,surface
+S0152,1.22,communicate,team,patient hand-off (nursing packet)
+S0152,6.9,view,epic,"check orders, meds, labs"
+S0152,6.93,touch,patient,forehead
+S0152,13.57,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0152,31.2,touch,patient,chest
+S0152,33.48,check,monitor,read vitals
+S0152,40.81,set,iv_pump,channel_select
+S0152,48.49,communicate,team,discuss concerns with provider
+S0152,54.94,use,phone,speed_dial_help
+S0152,72.27,check,monitor,watch vitals trend
+S0152,73.83,grab,med_cart,hand
+S0152,77.57,administer,med_cart,drawer_2
+S0152,90.17,view,epic,chart vitals and head-to-toe
+S0152,97.34,manipulate,patient,supine_legs_up
+S0152,100.73,set,o2_flow,flow_knob
+S0152,144.16,touch,patient,get blood for iSTAT
+S0152,171.04,check,monitor,recheck vitals after intervention
+S0152,224.3,communicate,team,listen to care plan from provider
+S0152,230.1,touch,suction,surface
+S0152,266.74,view,epic,update charts
+S0153,1.2,communicate,team,patient hand-off (nursing packet)
+S0153,5.49,view,epic,"check orders, meds, labs"
+S0153,10.77,touch,patient,forehead
+S0153,12.32,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0153,37.37,check,monitor,read vitals
+S0153,44.89,touch,patient,chest
+S0153,54.05,touch,patient,nail_bed
+S0153,59.03,use,phone,speed_dial_help
+S0153,60.51,communicate,team,discuss concerns with provider
+S0153,75.55,check,monitor,watch vitals trend
+S0153,100.97,touch,door,surface
+S0153,113.16,view,epic,chart vitals and head-to-toe
+S0153,114.5,set,iv_pump,start_button
+S0153,139.95,grab,iv_pump,hand
+S0153,142.87,administer,iv_pump,bolus_line
+S0153,180.23,check,monitor,recheck vitals after intervention
+S0153,189.88,touch,patient,nail_bed_recheck
+S0153,264.5,communicate,team,listen to care plan from provider
+S0153,308.86,view,epic,update charts
+S0154,1.32,communicate,team,patient hand-off (nursing packet)
+S0154,10.49,touch,patient,forehead
+S0154,12.48,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0154,52.98,check,monitor,read vitals
+S0154,56.78,touch,patient,chest
+S0154,69.94,touch,patient,nail_bed
+S0154,72.05,communicate,team,discuss concerns with provider
+S0154,83.54,check,monitor,watch vitals trend
+S0154,119.98,view,epic,chart vitals and head-to-toe
+S0154,146.62,touch,monitor,surface
+S0154,152.02,set,iv_pump,start_button
+S0154,169.44,touch,patient,get blood for iSTAT
+S0154,189.38,grab,iv_pump,hand
+S0154,192.06,administer,iv_pump,bolus_line
+S0154,206.92,check,monitor,recheck vitals after intervention
+S0154,227.96,touch,door,surface
+S0154,275.62,communicate,team,listen to care plan from provider
+S0154,317.35,view,epic,update charts
+S0155,3.4,view,epic,"check orders, meds, labs"
+S0155,6.21,touch,patient,forehead
+S0155,12.45,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0155,39.57,check,monitor,read vitals
+S0155,42.86,touch,patient,chest
+S0155,50.47,set,iv_pump,channel_select
+S0155,62.47,communicate,team,discuss concerns with provider
+S0155,75.14,check,monitor,watch vitals trend
+S0155,84.55,grab,med_cart,hand
+S0155,86.7,administer,med_cart,drawer_2
+S0155,89.37,set,o2_flow,flow_knob
+S0155,101.46,manipulate,patient,supine_legs_up
+S0155,118.42,view,epic,chart vitals and head-to-toe
+S0155,136.48,touch,patient,get blood for iSTAT
+S0155,156.67,touch,med_cart,surface
+S0155,190.69,check,monitor,recheck vitals after intervention
+S0155,218.57,communicate,team,listen to care plan from provider
+S0156,2.76,communicate,team,patient hand-off (nursing packet)
+S0156,6.86,view,epic,"check orders, meds, labs"
+S0156,9.09,touch,patient,forehead
+S0156,9.73,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0156,38.12,touch,monitor,surface
+S0156,46.79,touch,patient,chest
+S0156,50.72,check,monitor,read vitals
+S0156,51.75,grab,penlight,hand
+S0156,54.64,use,penlight,patient_eyes
+S0156,62.39,communicate,team,discuss concerns with provider
+S0156,63.04,use,phone,speed_dial_help
+S0156,65.91,set,iv_pump,channel_select
+S0156,69.33,set,vent,start_button
+S0156,82.33,check,monitor,watch vitals trend
+S0156,91.28,grab,med_cart,hand
+S0156,93.05,administer,med_cart,drawer_4
+S0156,121.82,view,epic,chart vitals and head-to-toe
+S0156,154.13,touch,patient,get blood for iSTAT
+S0156,194.41,check,monitor,recheck vitals after intervention
+S0156,244.8,communicate,team,listen to care plan from provider
+S0156,285.76,view,epic,update charts
+S0157,2.22,communicate,team,patient hand-off (nursing packet)
+S0157,6.96,view,epic,"check orders, meds, labs"
+S0157,7.58,touch,patient,forehead
+S0157,13.52,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0157,38.81,touch,med_cart,surface
+S0157,46.78,check,monitor,read vitals
+S0157,47.95,grab,penlight,hand
+S0157,48.36,touch,patient,chest
+S0157,51.8,use,penlight,patient_eyes
+S0157,58.9,use,phone,speed_dial_help
+S0157,63.53,communicate,team,discuss concerns with provider
+S0157,64.6,set,vent,start_button
+S0157,68.75,set,iv_pump,channel_select
+S0157,86.13,grab,med_cart,hand
+S0157,88.86,administer,med_cart,drawer_4
+S0157,90.67,check,monitor,watch vitals trend
+S0157,101.99,view,epic,chart vitals and head-to-toe
+S0157,162.46,touch,patient,get blood for iSTAT
+S0157,195.24,check,monitor,recheck vitals after intervention
+S0157,247.09,touch,med_cart,surface
+S0157,250.28,communicate,team,listen to care plan from provider
+S0157,262.32,touch,monitor,surface
+S0157,275.68,view,epic,update charts
+S0158,2.99,communicate,team,patient hand-off (nursing packet)
+S0158,5.45,view,epic,"check orders, meds, labs"
+S0158,10.19,touch,patient,forehead
+S0158,12.68,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0158,46.95,check,monitor,read vitals
+S0158,48.46,touch,patient,chest
+S0158,55.98,use,phone,speed_dial_help
+S0158,58.73,touch,patient,nail_bed
+S0158,66.58,communicate,team,discuss concerns with provider
+S0158,81.27,grab,iv_pump,hand
+S0158,83.25,administer,iv_pump,bolus_line
+S0158,83.43,check,monitor,watch vitals trend
+S0158,105.95,set,iv_pump,start_button
+S0158,125.81,view,epic,chart vitals and head-to-toe
+S0158,131.77,touch,patient,nail_bed_recheck
+S0158,136.13,touch,door,surface
+S0158,153.13,touch,patient,get blood for iSTAT
+S0158,189.96,check,monitor,recheck vitals after intervention
+S0158,284.51,communicate,team,listen to care plan from provider
+S0158,306.12,view,epic,update charts
+S0158,315.34,touch,sink,surface
+S0159,1.59,communicate,team,patient hand-off (nursing packet)
+S0159,5.42,view,epic,"check orders, meds, labs"
+S0159,9.28,touch,patient,forehead
+S0159,12.92,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0159,35.05,check,monitor,read vitals
+S0159,35.62,touch,patient,chest
+S0159,40.45,look_confirm,clock,clock_face
+S0159,43.08,use,phone,speed_dial_help
+S0159,49.34,set,o2_flow,flow_knob
+S0159,49.41,communicate,team,discuss concerns with provider
+S0159,66.39,touch,door,surface
+S0159,69.37,set,suction,on_switch
+S0159,71.33,check,monitor,watch vitals trend
+S0159,85.02,touch,door,surface
+S0159,87.58,grab,med_cart,hand
+S0159,91.54,administer,med_cart,drawer_3
+S0159,94.19,view,epic,chart vitals and head-to-toe
+S0159,122.51,touch,patient,get blood for iSTAT
+S0159,177.37,check,monitor,recheck vitals after intervention
+S0159,230.24,communicate,team,listen to care plan from provider
+S0159,251.29,touch,door,surface
+S0159,288.48,view,epic,update charts
+S0160,2.93,communicate,team,patient hand-off (nursing packet)
+S0160,6.14,view,epic,"check orders, meds, labs"
+S0160,6.81,touch,patient,forehead
+S0160,9.72,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0160,52.83,check,monitor,read vitals
+S0160,56.87,touch,patient,chest
+S0160,57.39,view,comet,COMET risk score: severity of condition
+S0160,61.13,grab,penlight,hand
+S0160,62.77,use,penlight,patient_eyes
+S0160,65.89,use,phone,speed_dial_help
+S0160,68.33,set,iv_pump,channel_select
+S0160,78.54,communicate,team,discuss concerns with provider
+S0160,82.63,set,vent,start_button
+S0160,89.54,check,monitor,watch vitals trend
+S0160,93.1,grab,med_cart,hand
+S0160,95.82,administer,med_cart,drawer_4
+S0160,118.13,view,epic,chart vitals and head-to-toe
+S0160,142.39,touch,patient,get blood for iSTAT
+S0160,142.6,touch,sink,surface
+S0160,197.89,check,monitor,recheck vitals after intervention
+S0160,217.87,touch,med_cart,surface
+S0160,220.97,touch,monitor,surface
+S0160,244.13,communicate,team,listen to care plan from provider
+S0160,287.08,view,epic,update charts
+S0161,1.8,communicate,team,patient hand-off (nursing packet)
+S0161,6.32,view,epic,"check orders, meds, labs"
+S0161,10.98,touch,patient,forehead
+S0161,12.67,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0161,29.95,touch,patient,chest
+S0161,30.91,check,monitor,read vitals
+S0161,37.02,set,iv_pump,channel_select
+S0161,46.96,communicate,team,discuss concerns with provider
+S0161,48.82,touch,med_cart,surface
+S0161,59.4,use,phone,speed_dial_help
+S0161,66.08,check,monitor,watch vitals trend
+S0161,79.77,grab,med_cart,hand
+S0161,81.41,administer,med_cart,drawer_2
+S0161,92.97,manipulate,patient,supine_legs_up
+S0161,102.18,set,o2_flow,flow_knob
+S0161,105.19,view,epic,chart vitals and head-to-toe
+S0161,141.35,touch,patient,get blood for iSTAT
+S0161,164.39,touch,sink,surface
+S0161,174.45,check,monitor,recheck vitals after intervention
+S0161,219.14,communicate,team,listen to care plan from provider
+S0161,267.81,view,epic,update charts
+S0162,2.81,communicate,team,patient hand-off (nursing packet)
+S0162,6.73,view,epic,"check orders, meds, labs"
+S0162,8.03,touch,patient,forehead
+S0162,13.58,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0162,43.2,check,monitor,read vitals
+S0162,45.92,touch,patient,chest
+S0162,46.15,view,comet,COMET risk score: severity of condition
+S0162,50.14,set,iv_pump,channel_select
+S0162,57.87,communicate,team,discuss concerns with provider
+S0162,60.42,use,phone,speed_dial_help
+S0162,60.6,touch,monitor,surface
+S0162,75.98,grab,med_cart,hand
+S0162,77.81,administer,med_cart,drawer_2
+S0162,78.03,check,monitor,watch vitals trend
+S0162,89.33,set,o2_flow,flow_knob
+S0162,116.88,manipulate,patient,supine_legs_up
+S0162,119.61,view,epic,chart vitals and head-to-toe
+S0162,130.61,touch,patient,get blood for iSTAT
+S0162,203.63,check,monitor,recheck vitals after intervention
+S0162,210.6,touch,sink,surface
+S0162,218.67,communicate,team,listen to care plan from provider
+S0162,245.87,touch,med_cart,surface
+S0162,265.26,view,epic,update charts
+S0163,1.27,communicate,team,patient hand-off (nursing packet)
+S0163,4.91,view,epic,"check orders, meds, labs"
+S0163,7.82,touch,patient,forehead
+S0163,12.89,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0163,42.92,check,monitor,read vitals
+S0163,44.44,view,comet,COMET risk score: severity of condition
+S0163,50.36,touch,patient,chest
+S0163,63.87,use,phone,speed_dial_help
+S0163,69.44,communicate,team,discuss concerns with provider
+S0163,85.66,check,monitor,watch vitals trend
+S0163,102.95,view,epic,chart vitals and head-to-toe
+S0163,111.46,grab,iv_pump,hand
+S0163,113.23,administer,iv_pump,bolus_line
+S0163,115.31,set,iv_pump,start_button
+S0163,128.75,touch,door,surface
+S0163,161.24,touch,patient,get blood for iSTAT
+S0163,161.89,touch,sink,surface
+S0163,183.91,check,monitor,recheck vitals after intervention
+S0163,186.74,touch,patient,nail_bed_recheck
+S0163,277.33,communicate,team,listen to care plan from provider
+S0163,316.13,view,epic,update charts
+S0164,2.56,communicate,team,patient hand-off (nursing packet)
+S0164,5.73,view,epic,"check orders, meds, labs"
+S0164,6.74,touch,patient,forehead
+S0164,9.95,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0164,45.54,check,monitor,read vitals
+S0164,63.15,communicate,team,discuss concerns with provider
+S0164,69.04,use,phone,speed_dial_help
+S0164,72.72,touch,med_cart,surface
+S0164,75.91,grab,med_cart,hand
+S0164,79.1,administer,med_cart,drawer_2
+S0164,84.26,set,o2_flow,flow_knob
+S0164,107.42,set,iv_pump,channel_select
+S0164,121.35,view,epic,chart vitals and head-to-toe
+S0164,160.09,touch,patient,get blood for iSTAT
+S0164,203.76,check,monitor,recheck vitals after intervention
+S0164,211.31,manipulate,patient,supine_legs_up
+S0164,213.66,communicate,team,listen to care plan from provider
+S0164,252.31,touch,suction,surface
+S0164,268.12,view,epic,update charts
+S0165,4.9,view,epic,"check orders, meds, labs"
+S0165,11.47,touch,patient,forehead
+S0165,13.91,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0165,44.5,view,comet,COMET risk score: severity of condition
+S0165,45.66,touch,patient,chest
+S0165,45.95,check,monitor,read vitals
+S0165,54.57,use,phone,speed_dial_help
+S0165,57.93,set,iv_pump,channel_select
+S0165,64.31,communicate,team,discuss concerns with provider
+S0165,78.75,grab,med_cart,hand
+S0165,81.13,administer,med_cart,drawer_2
+S0165,81.2,check,monitor,watch vitals trend
+S0165,96.25,view,epic,chart vitals and head-to-toe
+S0165,97.08,manipulate,patient,supine_legs_up
+S0165,100.16,set,o2_flow,flow_knob
+S0165,105.72,touch,monitor,surface
+S0165,167.37,touch,patient,get blood for iSTAT
+S0165,172.16,touch,suction,surface
+S0165,193.45,touch,suction,surface
+S0165,206.14,check,monitor,recheck vitals after intervention
+S0165,228.81,communicate,team,listen to care plan from provider
+S0165,255.58,view,epic,update charts
+S0166,2.35,communicate,team,patient hand-off (nursing packet)
+S0166,3.86,view,epic,"check orders, meds, labs"
+S0166,10.2,touch,patient,forehead
+S0166,13.8,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0166,32.04,check,monitor,read vitals
+S0166,36.9,touch,patient,chest
+S0166,46.3,look_confirm,clock,clock_face
+S0166,50.72,communicate,team,discuss concerns with provider
+S0166,74.78,use,phone,speed_dial_help
+S0166,75.77,check,monitor,watch vitals trend
+S0166,77.28,set,o2_flow,flow_knob
+S0166,106.2,touch,med_cart,surface
+S0166,107.48,view,epic,chart vitals and head-to-toe
+S0166,110.91,set,suction,on_switch
+S0166,128.49,touch,patient,get blood for iSTAT
+S0166,135.05,touch,sink,surface
+S0166,146.09,grab,med_cart,hand
+S0166,148.59,administer,med_cart,drawer_3
+S0166,183.61,check,monitor,recheck vitals after intervention
+S0166,244.48,communicate,team,listen to care plan from provider
+S0166,281.41,view,epic,update charts
+S0167,1.25,communicate,team,patient hand-off (nursing packet)
+S0167,10.8,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0167,11.1,touch,patient,forehead
+S0167,48.59,check,monitor,read vitals
+S0167,51.22,touch,patient,chest
+S0167,62.26,grab,penlight,hand
+S0167,65.08,use,penlight,patient_eyes
+S0167,68.55,communicate,team,discuss concerns with provider
+S0167,70.04,touch,monitor,surface
+S0167,72.98,use,phone,speed_dial_help
+S0167,87.53,check,monitor,watch vitals trend
+S0167,95.05,set,vent,start_button
+S0167,107.44,view,epic,chart vitals and head-to-toe
+S0167,125.66,set,iv_pump,channel_select
+S0167,135.9,touch,patient,get blood for iSTAT
+S0167,139.83,grab,med_cart,hand
+S0167,141.73,administer,med_cart,drawer_4
+S0167,186.28,check,monitor,recheck vitals after intervention
+S0167,238.02,communicate,team,listen to care plan from provider
+S0168,4.82,view,epic,"check orders, meds, labs"
+S0168,10.19,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0168,11.3,touch,patient,forehead
+S0168,47.23,view,comet,COMET risk score: severity of condition
+S0168,54.07,touch,patient,chest
+S0168,82.83,check,monitor,watch vitals trend
+S0168,91.03,use,phone,speed_dial_help
+S0168,101.87,touch,med_cart,surface
+S0168,142.95,set,iv_pump,start_button
+S0168,151.79,touch,patient,get blood for iSTAT
+S0168,210.73,touch,med_cart,surface
+S0168,226.39,touch,med_cart,surface
+S0168,256.65,grab,iv_pump,hand
+S0168,260.55,administer,iv_pump,bolus_line
+S0169,1.33,communicate,team,patient hand-off (nursing packet)
+S0169,5.17,view,epic,"check orders, meds, labs"
+S0169,7.83,touch,patient,forehead
+S0169,10.93,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0169,38.81,check,monitor,read vitals
+S0169,43.65,touch,patient,chest
+S0169,50.98,communicate,team,discuss concerns with provider
+S0169,59.35,use,phone,speed_dial_help
+S0169,78.57,check,monitor,watch vitals trend
+S0169,126.58,grab,iv_pump,hand
+S0169,128.29,administer,iv_pump,bolus_line
+S0169,131.46,touch,patient,get blood for iSTAT
+S0169,169.38,touch,door,surface
+S0169,177.83,check,monitor,recheck vitals after intervention
+S0169,186.32,set,iv_pump,start_button
+S0169,217.6,touch,patient,nail_bed_recheck
+S0169,263.84,communicate,team,listen to care plan from provider
+S0169,306.0,touch,door,surface
+S0169,309.86,view,epic,update charts
+S0170,9.82,touch,patient,forehead
+S0170,13.71,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0170,31.54,check,monitor,read vitals
+S0170,34.35,touch,patient,chest
+S0170,43.87,communicate,team,discuss concerns with provider
+S0170,54.53,touch,monitor,surface
+S0170,59.65,look_confirm,clock,clock_face
+S0170,68.26,check,monitor,watch vitals trend
+S0170,104.47,view,epic,chart vitals and head-to-toe
+S0170,124.78,touch,patient,get blood for iSTAT
+S0170,215.65,grab,med_cart,hand
+S0170,217.33,administer,med_cart,drawer_3
+S0170,233.23,communicate,team,listen to care plan from provider
+S0170,280.83,view,epic,update charts
+S0171,1.42,communicate,team,patient hand-off (nursing packet)
+S0171,9.18,touch,patient,forehead
+S0171,11.24,touch,patient,"physical exam: pulse, breath, cap refill, temp"
+S0171,39.41,check,monitor,read vitals
+S0171,45.7,touch,patient,chest
+S0171,59.15,communicate,team,discuss concerns with provider
+S0171,72.79,use,phone,speed_dial_help
+S0171,75.64,set,iv_pump,channel_select
+S0171,84.53,check,monitor,watch vitals trend
+S0171,124.91,touch,med_cart,surface
+S0171,128.11,touch,patient,get blood for iSTAT
+S0171,128.27,grab,med_cart,hand
+S0171,130.32,administer,med_cart,drawer_2
+S0171,138.24,touch,door,surface
+S0171,176.14,touch,med_cart,surface
+S0171,198.77,check,monitor,recheck vitals after intervention
+S0171,269.59,view,epic,update charts
+S0172,2.99,communicate,team,patient hand-off
+S0172,7.98,view,epic,"check orders, meds, labs"
+S0172,11.06,view,epic,review trends and notes
+S0172,14.39,touch,patient,forehead
+S0172,50.47,check,monitor,review vitals trend
+S0172,54.58,touch,patient,chest
+S0172,64.82,touch,sink,surface
+S0172,74.77,grab,penlight,hand
+S0172,76.98,use,penlight,patient_eyes
+S0172,77.84,check,monitor,re-read vitals
+S0172,92.57,use,phone,speed_dial_help
+S0172,101.39,check,monitor,re-read vitals
+S0172,110.11,check,monitor,re-read vitals
+S0172,134.32,set,iv_pump,channel_select
+S0172,139.94,touch,patient,reassess response
+S0172,150.14,touch,med_cart,surface
+S0172,168.01,view,epic,new orders and labs
+S0173,2.99,communicate,team,patient hand-off
+S0173,8.23,view,epic,"check orders, meds, labs"
+S0173,15.13,touch,patient,forehead
+S0173,23.37,touch,patient,physical exam
+S0173,52.72,touch,sink,surface
+S0173,53.14,check,monitor,review vitals trend
+S0173,57.14,touch,patient,chest
+S0173,64.71,grab,penlight,hand
+S0173,68.03,use,penlight,patient_eyes
+S0173,68.83,touch,door,surface
+S0173,72.56,communicate,team,discuss concerns with team
+S0173,73.27,use,phone,speed_dial_help
+S0173,104.37,set,iv_pump,channel_select
+S0173,120.56,touch,patient,reassess response
+S0173,144.76,check,monitor,re-read vitals
+S0173,153.94,check,monitor,re-read vitals
+S0173,188.27,view,epic,new orders and labs
+S0173,208.63,grab,med_cart,hand
+S0173,211.01,administer,med_cart,drawer_4
+S0173,245.44,touch,suction,surface
+S0173,282.62,communicate,team,share care plan
+S0174,2.96,communicate,team,patient hand-off
+S0174,6.22,view,epic,"check orders, meds, labs"
+S0174,14.27,view,epic,review trends and notes
+S0174,17.59,touch,patient,forehead
+S0174,22.97,touch,patient,physical exam
+S0174,42.44,view,comet,COMET risk score: severity of condition
+S0174,44.85,check,monitor,re-read vitals
+S0174,46.39,touch,patient,chest
+S0174,57.11,communicate,team,discuss concerns with team
+S0174,58.55,touch,patient,nail_bed
+S0174,85.79,use,phone,speed_dial_help
+S0174,110.51,check,monitor,re-read vitals
+S0174,113.99,set,iv_pump,start_button
+S0174,114.28,grab,iv_pump,hand
+S0174,116.96,administer,iv_pump,bolus_line
+S0174,125.79,check,monitor,re-read vitals
+S0174,140.64,touch,patient,reassess response
+S0174,149.19,touch,door,surface
+S0174,174.36,view,epic,new orders and labs
+S0174,225.61,touch,patient,nail_bed_recheck
+S0174,300.32,communicate,team,share care plan
+S0174,311.39,touch,monitor,surface
+S0174,317.93,touch,monitor,surface
+S0175,1.13,communicate,team,patient hand-off
+S0175,5.6,view,epic,"check orders, meds, labs"
+S0175,14.28,touch,patient,forehead
+S0175,14.88,view,epic,review trends and notes
+S0175,22.31,touch,patient,physical exam
+S0175,38.71,view,comet,COMET risk score: severity of condition
+S0175,39.13,touch,patient,chest
+S0175,41.33,check,monitor,review vitals trend
+S0175,44.01,check,monitor,re-read vitals
+S0175,49.26,look_confirm,clock,clock_face
+S0175,58.01,use,phone,speed_dial_help
+S0175,58.7,communicate,team,discuss concerns with team
+S0175,65.25,check,monitor,re-read vitals
+S0175,94.02,set,o2_flow,flow_knob
+S0175,128.61,check,monitor,re-read vitals
+S0175,129.57,touch,patient,reassess response
+S0175,160.19,touch,door,surface
+S0175,163.31,grab,med_cart,hand
+S0175,165.54,administer,med_cart,drawer_3
+S0175,165.99,touch,med_cart,surface
+S0175,179.21,view,epic,new orders and labs
+S0175,217.35,set,suction,on_switch
+S0175,235.08,touch,monitor,surface
+S0176,1.59,communicate,team,patient hand-off
+S0176,6.56,view,epic,"check orders, meds, labs"
+S0176,14.94,touch,patient,forehead
+S0176,20.1,touch,patient,physical exam
+S0176,44.25,view,comet,COMET risk score: severity of condition
+S0176,46.8,touch,med_cart,surface
+S0176,52.39,check,monitor,review vitals trend
+S0176,59.22,touch,patient,chest
+S0176,64.52,communicate,team,discuss concerns with team
+S0176,69.44,set,iv_pump,channel_select
+S0176,73.97,touch,suction,surface
+S0176,103.8,use,phone,speed_dial_help
+S0176,128.11,check,monitor,re-read vitals
+S0176,144.93,grab,med_cart,hand
+S0176,146.75,administer,med_cart,drawer_2
+S0176,154.2,check,monitor,re-read vitals
+S0176,231.87,touch,sink,surface
+S0176,258.67,manipulate,patient,supine_legs_up
+S0176,259.2,communicate,team,share care plan
+S0177,2.78,communicate,team,patient hand-off
+S0177,10.73,view,epic,review trends and notes
+S0177,16.49,touch,patient,forehead
+S0177,44.69,check,monitor,review vitals trend
+S0177,46.45,touch,patient,chest
+S0177,51.93,touch,patient,nail_bed
+S0177,53.64,communicate,team,discuss concerns with team
+S0177,72.05,use,phone,speed_dial_help
+S0177,98.69,set,iv_pump,start_button
+S0177,108.0,check,monitor,re-read vitals
+S0177,128.01,touch,med_cart,surface
+S0177,129.43,touch,patient,reassess response
+S0177,133.3,grab,iv_pump,hand
+S0177,135.86,administer,iv_pump,bolus_line
+S0177,144.06,check,monitor,re-read vitals
+S0177,167.34,touch,med_cart,surface
+S0177,170.81,view,epic,new orders and labs
+S0177,233.5,touch,suction,surface
+S0177,314.57,communicate,team,share care plan
+S0178,1.14,communicate,team,patient hand-off
+S0178,4.92,view,epic,"check orders, meds, labs"
+S0178,15.35,touch,patient,forehead
+S0178,15.77,view,epic,review trends and notes
+S0178,21.2,touch,patient,physical exam
+S0178,41.52,view,comet,COMET risk score: severity of condition
+S0178,49.73,touch,patient,chest
+S0178,52.04,check,monitor,re-read vitals
+S0178,55.55,check,monitor,re-read vitals
+S0178,61.01,communicate,team,discuss concerns with team
+S0178,61.86,set,iv_pump,channel_select
+S0178,73.48,use,phone,speed_dial_help
+S0178,88.58,check,monitor,re-read vitals
+S0178,93.19,set,vent,start_button
+S0178,166.49,grab,med_cart,hand
+S0178,166.61,view,epic,new orders and labs
+S0178,169.15,administer,med_cart,drawer_4
+S0178,208.05,touch,monitor,surface
+S0178,237.64,touch,med_cart,surface
+S0178,258.36,touch,suction,surface
+S0178,276.73,communicate,team,share care plan

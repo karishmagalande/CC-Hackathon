@@ -1,0 +1,30 @@
+role,step,lane,what,sessions
+Provider,1,communication,patient hand-off,48
+Provider,2,epic,"check orders, meds, labs",48
+Provider,3,assessment,First look at patient,48
+Provider,4,vitals,review vitals trend,48
+Provider,5,communication,discuss concerns with team,48
+Provider,6,assessment,Hands-on assessment,48
+Provider,7,epic,new orders and labs,48
+Provider,8,communication,Call for help,48
+RN,1,communication,patient hand-off (nursing packet),99
+RN,2,epic,"check orders, meds, labs",99
+RN,3,assessment,First look at patient,99
+RN,4,vitals,read vitals,99
+RN,5,assessment,Hands-on assessment,99
+RN,6,communication,discuss concerns with provider,99
+RN,7,vitals,watch vitals trend,99
+RN,8,epic,chart vitals and head-to-toe,99
+RN,9,assessment,get blood for iSTAT,99
+RN,10,vitals,recheck vitals after intervention,99
+RN,11,communication,listen to care plan from provider,99
+RN,12,epic,update charts,99
+RT,1,communication,respiratory hand-off,31
+RT,2,assessment,check respiratory equipment,31
+RT,3,vitals,SpO2 and respiratory rate,31
+RT,4,assessment,Hands-on assessment,31
+RT,5,communication,update team on airway,31
+RT,6,epic,check respiratory orders,31
+RT,7,communication,Call for help,31
+RT,8,assessment,reassess breath sounds,31
+RT,9,communication,discuss settings with provider,31

@@ -1,0 +1,1943 @@
+session_id,t,lane,what,step
+REF-SC01,1.69,communication,patient hand-off (nursing packet),1
+REF-SC01,5.29,epic,"check orders, meds, labs",2
+REF-SC01,9.08,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+REF-SC01,43.82,comet,COMET risk score: severity of condition,4
+REF-SC01,44.66,assessment,Hands-on assessment,5
+REF-SC01,45.28,vitals,read vitals,6
+REF-SC01,52.94,communication,Call for help,7
+REF-SC01,58.46,assessment,Reposition airway,8
+REF-SC01,63.28,communication,discuss concerns with provider,9
+REF-SC01,88.61,vitals,watch vitals trend,10
+REF-SC01,102.05,assessment,hand; Neuro check (pupils),11
+REF-SC01,112.48,epic,chart vitals and head-to-toe,12
+REF-SC01,166.97,assessment,get blood for iSTAT,13
+REF-SC01,205.8,vitals,recheck vitals after intervention,14
+REF-SC01,244.25,communication,listen to care plan from provider,15
+REF-SC01,275.74,epic,update charts,16
+REF-SC02,1.52,communication,patient hand-off (nursing packet),1
+REF-SC02,6.22,epic,"check orders, meds, labs",2
+REF-SC02,9.57,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",3
+REF-SC02,39.45,vitals,read vitals,4
+REF-SC02,39.52,comet,COMET risk score: severity of condition,5
+REF-SC02,43.7,communication,Call for help; discuss concerns with provider,6
+REF-SC02,81.87,vitals,watch vitals trend,7
+REF-SC02,115.05,epic,chart vitals and head-to-toe,8
+REF-SC02,147.82,assessment,get blood for iSTAT,9
+REF-SC02,198.87,vitals,recheck vitals after intervention,10
+REF-SC02,237.38,communication,listen to care plan from provider,11
+REF-SC02,279.99,epic,update charts,12
+REF-SC03,2.33,communication,patient hand-off (nursing packet),1
+REF-SC03,5.65,epic,"check orders, meds, labs",2
+REF-SC03,10.23,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+REF-SC03,35.98,comet,COMET risk score: severity of condition,4
+REF-SC03,38.7,assessment,Hands-on assessment,5
+REF-SC03,40.88,vitals,read vitals,6
+REF-SC03,44.22,assessment,Check capillary refill,7
+REF-SC03,49.74,communication,Call for help; discuss concerns with provider,8
+REF-SC03,78.58,vitals,watch vitals trend,9
+REF-SC03,88.69,epic,chart vitals and head-to-toe,10
+REF-SC03,128.47,assessment,get blood for iSTAT; Reassess after bolus,11
+REF-SC03,174.09,vitals,recheck vitals after intervention,12
+REF-SC03,265.8,communication,listen to care plan from provider,13
+REF-SC03,308.39,epic,update charts,14
+REF-SC04,2.06,communication,patient hand-off (nursing packet),1
+REF-SC04,5.16,epic,"check orders, meds, labs",2
+REF-SC04,11.58,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient",3
+REF-SC04,29.12,vitals,read vitals,4
+REF-SC04,29.75,assessment,Hands-on assessment,5
+REF-SC04,34.54,comet,COMET risk score: severity of condition,6
+REF-SC04,39.87,communication,Call for help; discuss concerns with provider,7
+REF-SC04,68.06,vitals,watch vitals trend,8
+REF-SC04,72.07,assessment,Position patient,9
+REF-SC04,96.17,epic,chart vitals and head-to-toe,10
+REF-SC04,152.95,assessment,get blood for iSTAT,11
+REF-SC04,169.55,vitals,recheck vitals after intervention,12
+REF-SC04,229.49,communication,listen to care plan from provider,13
+REF-SC04,262.42,epic,update charts,14
+REF-SC05,2.71,communication,patient hand-off (nursing packet),1
+REF-SC05,3.0,epic,"check orders, meds, labs",2
+REF-SC05,10.07,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",3
+REF-SC05,49.41,comet,COMET risk score: severity of condition,4
+REF-SC05,50.43,vitals,read vitals,5
+REF-SC05,50.6,assessment,hand; Neuro check (pupils),6
+REF-SC05,57.46,communication,Call for help; discuss concerns with provider,7
+REF-SC05,88.66,vitals,watch vitals trend,8
+REF-SC05,108.5,epic,chart vitals and head-to-toe,9
+REF-SC05,167.38,assessment,get blood for iSTAT,10
+REF-SC05,209.0,vitals,recheck vitals after intervention,11
+REF-SC05,248.8,communication,listen to care plan from provider,12
+REF-SC05,280.18,epic,update charts,13
+S0001,1.1,communication,patient hand-off (nursing packet),1
+S0001,4.58,epic,"check orders, meds, labs",2
+S0001,7.35,assessment,First look at patient,3
+S0001,48.82,vitals,read vitals,4
+S0001,59.41,assessment,Hands-on assessment,5
+S0001,69.71,communication,discuss concerns with provider,6
+S0001,86.97,vitals,watch vitals trend,7
+S0001,171.01,assessment,get blood for iSTAT,8
+S0001,202.57,vitals,recheck vitals after intervention,9
+S0001,211.23,assessment,hand; Neuro check (pupils),10
+S0001,243.54,communication,listen to care plan from provider,11
+S0002,1.02,communication,patient hand-off (nursing packet),1
+S0002,6.75,epic,"check orders, meds, labs",2
+S0002,8.19,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0002,39.24,vitals,read vitals,4
+S0002,47.97,assessment,Hands-on assessment,5
+S0002,59.9,communication,discuss concerns with provider; Call for help,6
+S0002,77.18,assessment,Reposition airway,7
+S0002,78.53,vitals,watch vitals trend,8
+S0002,93.71,epic,chart vitals and head-to-toe,9
+S0002,227.1,assessment,hand; Neuro check (pupils),10
+S0002,232.52,communication,listen to care plan from provider,11
+S0003,1.97,communication,patient hand-off (nursing packet),1
+S0003,4.92,epic,"check orders, meds, labs",2
+S0003,7.85,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0003,37.12,comet,COMET risk score: severity of condition,4
+S0003,37.18,vitals,read vitals,5
+S0003,40.83,assessment,Hands-on assessment,6
+S0003,45.17,communication,Call for help; discuss concerns with provider,7
+S0003,67.03,vitals,watch vitals trend,8
+S0003,72.36,assessment,Reposition airway,9
+S0003,108.52,epic,chart vitals and head-to-toe,10
+S0003,134.62,assessment,get blood for iSTAT; hand; Neuro check (pupils),11
+S0003,197.84,vitals,recheck vitals after intervention,12
+S0003,254.81,communication,listen to care plan from provider,13
+S0004,10.31,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient",1
+S0004,40.07,vitals,read vitals,2
+S0004,45.66,assessment,Hands-on assessment,3
+S0004,58.92,communication,discuss concerns with provider; Call for help,4
+S0004,80.61,vitals,watch vitals trend,5
+S0004,116.83,epic,chart vitals and head-to-toe,6
+S0004,152.35,assessment,get blood for iSTAT,7
+S0004,229.03,communication,listen to care plan from provider,8
+S0004,269.51,epic,update charts,9
+S0005,1.44,communication,patient hand-off (nursing packet),1
+S0005,9.64,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0005,28.3,vitals,read vitals,3
+S0005,28.75,assessment,Hands-on assessment,4
+S0005,45.62,communication,discuss concerns with provider; Call for help,5
+S0005,60.03,vitals,watch vitals trend,6
+S0005,94.86,epic,chart vitals and head-to-toe,7
+S0005,146.05,assessment,get blood for iSTAT,8
+S0005,175.67,vitals,recheck vitals after intervention,9
+S0005,287.31,epic,update charts,10
+S0006,2.35,communication,respiratory hand-off,1
+S0006,6.17,assessment,First look at patient; check respiratory equipment,2
+S0006,52.29,vitals,SpO2 and respiratory rate,3
+S0006,54.88,comet,COMET risk score: severity of condition,4
+S0006,67.65,vitals,re-read vitals,5
+S0006,71.98,assessment,Hands-on assessment,6
+S0006,103.45,epic,check respiratory orders,7
+S0006,104.42,communication,Call for help,8
+S0006,114.1,assessment,hand; Neuro check (pupils),9
+S0006,149.04,communication,discuss settings with provider,10
+S0006,156.65,vitals,re-read vitals,11
+S0006,172.23,assessment,reassess breath sounds,12
+S0006,278.49,communication,hand back to bedside team,13
+S0007,1.08,communication,respiratory hand-off,1
+S0007,8.93,assessment,check respiratory equipment; First look at patient,2
+S0007,44.57,vitals,SpO2 and respiratory rate; re-read vitals,3
+S0007,58.28,assessment,Hands-on assessment,4
+S0007,63.16,communication,update team on airway,5
+S0007,68.16,assessment,hand; Neuro check (pupils),6
+S0007,74.11,communication,Call for help,7
+S0007,102.1,epic,check respiratory orders,8
+S0007,131.03,vitals,re-read vitals,9
+S0007,144.45,communication,discuss settings with provider,10
+S0007,160.45,assessment,reassess breath sounds,11
+S0007,272.68,communication,hand back to bedside team,12
+S0008,1.75,communication,respiratory hand-off,1
+S0008,6.45,assessment,First look at patient; check respiratory equipment,2
+S0008,38.94,vitals,re-read vitals; SpO2 and respiratory rate,3
+S0008,42.32,comet,COMET risk score: severity of condition,4
+S0008,49.89,communication,update team on airway,5
+S0008,50.4,assessment,Hands-on assessment; Check capillary refill,6
+S0008,71.62,communication,Call for help,7
+S0008,84.4,vitals,re-read vitals,8
+S0008,102.42,epic,check respiratory orders,9
+S0008,131.35,vitals,re-read vitals,10
+S0008,132.18,communication,discuss settings with provider,11
+S0008,169.37,assessment,Reassess after bolus,12
+S0008,311.24,communication,hand back to bedside team,13
+S0009,2.69,communication,respiratory hand-off,1
+S0009,6.9,assessment,First look at patient; check respiratory equipment,2
+S0009,38.29,vitals,SpO2 and respiratory rate,3
+S0009,44.84,assessment,Hands-on assessment,4
+S0009,44.87,vitals,re-read vitals,5
+S0009,52.87,communication,update team on airway; Call for help,6
+S0009,106.08,epic,check respiratory orders,7
+S0009,136.98,communication,discuss settings with provider,8
+S0009,161.49,assessment,reassess breath sounds,9
+S0009,255.65,communication,hand back to bedside team,10
+S0010,6.27,assessment,check respiratory equipment; First look at patient,1
+S0010,41.7,comet,COMET risk score: severity of condition,2
+S0010,43.89,vitals,SpO2 and respiratory rate,3
+S0010,48.05,assessment,Hands-on assessment; hand,4
+S0010,55.5,communication,update team on airway,5
+S0010,58.21,assessment,Neuro check (pupils),6
+S0010,62.99,communication,Call for help,7
+S0010,70.6,vitals,re-read vitals,8
+S0010,103.84,epic,check respiratory orders,9
+S0010,136.74,communication,discuss settings with provider,10
+S0010,151.45,vitals,re-read vitals,11
+S0010,153.61,assessment,reassess breath sounds,12
+S0010,155.17,vitals,re-read vitals,13
+S0010,282.33,communication,hand back to bedside team,14
+S0011,8.54,epic,"check orders, meds, labs; review trends and notes",1
+S0011,17.7,assessment,First look at patient; physical exam; Hands-on assessment,2
+S0011,40.84,vitals,review vitals trend,3
+S0011,52.12,communication,discuss concerns with team; Call for help,4
+S0011,112.9,assessment,reassess response; Position patient,5
+S0011,142.84,epic,new orders and labs,6
+S0011,247.58,communication,share care plan,7
+S0012,1.98,communication,patient hand-off,1
+S0012,5.44,epic,"check orders, meds, labs; review trends and notes",2
+S0012,16.52,assessment,First look at patient; physical exam,3
+S0012,39.85,comet,COMET risk score: severity of condition,4
+S0012,42.82,assessment,Hands-on assessment,5
+S0012,46.06,vitals,review vitals trend,6
+S0012,60.21,communication,Call for help; discuss concerns with team,7
+S0012,102.86,assessment,Position patient; reassess response,8
+S0012,153.13,epic,new orders and labs,9
+S0012,249.99,communication,share care plan,10
+S0013,2.98,communication,patient hand-off,1
+S0013,5.81,epic,"check orders, meds, labs; review trends and notes",2
+S0013,16.41,assessment,First look at patient; physical exam,3
+S0013,38.88,comet,COMET risk score: severity of condition,4
+S0013,41.93,assessment,Hands-on assessment,5
+S0013,48.07,vitals,review vitals trend,6
+S0013,51.02,communication,Call for help; discuss concerns with team,7
+S0013,107.43,assessment,reassess response,8
+S0013,169.26,epic,new orders and labs,9
+S0013,279.25,communication,share care plan,10
+S0014,2.27,communication,patient hand-off,1
+S0014,4.98,epic,"check orders, meds, labs; review trends and notes",2
+S0014,15.63,assessment,First look at patient; physical exam; Hands-on assessment,3
+S0014,45.01,communication,Call for help; discuss concerns with team,4
+S0014,103.38,assessment,reassess response,5
+S0014,150.38,epic,new orders and labs,6
+S0014,277.91,communication,share care plan,7
+S0015,2.61,communication,patient hand-off,1
+S0015,6.31,epic,"check orders, meds, labs; review trends and notes",2
+S0015,14.25,assessment,First look at patient; physical exam,3
+S0015,28.65,comet,COMET risk score: severity of condition,4
+S0015,32.23,assessment,Hands-on assessment,5
+S0015,33.09,vitals,review vitals trend,6
+S0015,42.76,communication,Call for help; discuss concerns with team,7
+S0015,107.83,assessment,reassess response,8
+S0015,166.03,epic,new orders and labs,9
+S0015,273.17,communication,share care plan,10
+S0016,2.24,communication,patient hand-off,1
+S0016,8.09,epic,"check orders, meds, labs; review trends and notes",2
+S0016,15.08,assessment,First look at patient; physical exam,3
+S0016,31.96,comet,COMET risk score: severity of condition,4
+S0016,32.35,assessment,Hands-on assessment,5
+S0016,40.47,vitals,review vitals trend,6
+S0016,45.22,communication,Call for help; discuss concerns with team,7
+S0016,95.26,assessment,Position patient,8
+S0016,143.78,epic,new orders and labs,9
+S0016,252.36,communication,share care plan,10
+S0017,8.62,epic,"check orders, meds, labs",1
+S0017,14.64,assessment,First look at patient; Hands-on assessment,2
+S0017,38.26,vitals,review vitals trend,3
+S0017,43.66,communication,discuss concerns with team; Call for help,4
+S0017,111.81,assessment,Position patient; reassess response,5
+S0017,151.93,epic,new orders and labs,6
+S0017,256.26,communication,share care plan,7
+S0018,2.37,communication,patient hand-off,1
+S0018,6.92,epic,"check orders, meds, labs",2
+S0018,15.35,assessment,First look at patient,3
+S0018,15.65,epic,review trends and notes,4
+S0018,21.04,assessment,physical exam; Hands-on assessment,5
+S0018,49.54,vitals,review vitals trend,6
+S0018,103.17,communication,Call for help,7
+S0018,136.96,assessment,Position patient; reassess response,8
+S0018,152.6,epic,new orders and labs,9
+S0018,260.8,communication,share care plan,10
+S0019,1.91,communication,patient hand-off,1
+S0019,6.17,epic,"check orders, meds, labs",2
+S0019,17.41,assessment,First look at patient; physical exam,3
+S0019,36.49,comet,COMET risk score: severity of condition,4
+S0019,41.99,assessment,Hands-on assessment,5
+S0019,45.83,vitals,review vitals trend,6
+S0019,59.33,assessment,Reposition airway,7
+S0019,86.39,communication,Call for help,8
+S0019,105.56,assessment,hand; Neuro check (pupils); reassess response,9
+S0019,169.19,epic,new orders and labs,10
+S0020,7.13,epic,"check orders, meds, labs; review trends and notes",1
+S0020,16.0,assessment,First look at patient; physical exam; Hands-on assessment,2
+S0020,47.04,comet,COMET risk score: severity of condition,3
+S0020,47.78,vitals,review vitals trend,4
+S0020,64.44,communication,Call for help; discuss concerns with team,5
+S0020,99.87,assessment,Position patient; reassess response,6
+S0021,8.24,assessment,check respiratory equipment; First look at patient; Hands-on assessment,1
+S0021,40.76,communication,update team on airway; Call for help,2
+S0021,78.22,epic,check respiratory orders,3
+S0021,111.08,communication,discuss settings with provider,4
+S0021,143.64,assessment,reassess breath sounds,5
+S0022,6.28,assessment,First look at patient,1
+S0022,30.84,vitals,SpO2 and respiratory rate,2
+S0022,31.88,assessment,Hands-on assessment,3
+S0022,51.98,communication,update team on airway,4
+S0022,81.06,epic,check respiratory orders,5
+S0022,113.31,communication,discuss settings with provider,6
+S0022,145.89,assessment,reassess breath sounds,7
+S0022,284.9,communication,hand back to bedside team,8
+S0023,7.26,assessment,First look at patient; check respiratory equipment,1
+S0023,35.44,vitals,SpO2 and respiratory rate,2
+S0023,36.78,assessment,Hands-on assessment,3
+S0023,43.93,communication,update team on airway,4
+S0023,97.98,epic,check respiratory orders,5
+S0023,112.19,communication,Call for help; discuss settings with provider,6
+S0023,198.91,assessment,Position patient,7
+S0024,1.34,communication,respiratory hand-off,1
+S0024,9.46,assessment,check respiratory equipment; First look at patient,2
+S0024,28.3,vitals,SpO2 and respiratory rate,3
+S0024,31.01,comet,COMET risk score: severity of condition,4
+S0024,31.33,assessment,Hands-on assessment,5
+S0024,45.43,communication,Call for help; update team on airway,6
+S0024,98.34,epic,check respiratory orders,7
+S0024,156.84,assessment,reassess breath sounds,8
+S0024,283.21,communication,hand back to bedside team,9
+S0025,2.84,communication,patient hand-off,1
+S0025,4.98,epic,"check orders, meds, labs; review trends and notes",2
+S0025,17.89,assessment,First look at patient,3
+S0025,40.39,comet,COMET risk score: severity of condition,4
+S0025,42.15,assessment,Hands-on assessment,5
+S0025,49.11,vitals,review vitals trend,6
+S0025,60.21,communication,discuss concerns with team; Call for help,7
+S0025,111.73,assessment,Position patient; reassess response,8
+S0025,163.54,epic,new orders and labs,9
+S0025,254.75,communication,share care plan,10
+S0026,4.78,epic,"check orders, meds, labs; review trends and notes",1
+S0026,15.34,assessment,First look at patient; physical exam; Hands-on assessment,2
+S0026,47.86,vitals,review vitals trend,3
+S0026,57.07,communication,discuss concerns with team; Call for help,4
+S0026,122.17,assessment,Position patient,5
+S0026,176.12,epic,new orders and labs,6
+S0026,260.66,communication,share care plan,7
+S0027,2.81,communication,patient hand-off,1
+S0027,7.88,epic,"check orders, meds, labs; review trends and notes",2
+S0027,16.55,assessment,First look at patient,3
+S0027,38.63,comet,COMET risk score: severity of condition,4
+S0027,45.43,assessment,Hands-on assessment,5
+S0027,47.27,vitals,review vitals trend,6
+S0027,51.91,assessment,Check capillary refill,7
+S0027,54.01,communication,discuss concerns with team; Call for help,8
+S0027,140.79,assessment,reassess response,9
+S0027,164.27,epic,new orders and labs,10
+S0027,184.23,assessment,Reassess after bolus,11
+S0027,313.98,communication,share care plan,12
+S0028,1.79,communication,patient hand-off (nursing packet),1
+S0028,4.47,epic,"check orders, meds, labs",2
+S0028,9.63,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0028,50.86,comet,COMET risk score: severity of condition,4
+S0028,54.14,vitals,read vitals; re-read vitals,5
+S0028,67.5,assessment,Check capillary refill,6
+S0028,76.08,communication,discuss concerns with provider; Call for help,7
+S0028,84.83,vitals,re-read vitals; watch vitals trend; recheck vitals after intervention,8
+S0028,243.39,assessment,Reassess after bolus,9
+S0028,280.58,communication,listen to care plan from provider,10
+S0028,305.85,epic,update charts,11
+S0029,2.92,communication,patient hand-off (nursing packet),1
+S0029,3.68,epic,"check orders, meds, labs",2
+S0029,9.01,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0029,36.95,comet,COMET risk score: severity of condition,4
+S0029,38.97,vitals,read vitals,5
+S0029,45.73,assessment,Hands-on assessment,6
+S0029,49.54,vitals,re-read vitals,7
+S0029,53.19,communication,discuss concerns with provider,8
+S0029,55.06,assessment,Check capillary refill,9
+S0029,73.24,communication,Call for help,10
+S0029,79.66,vitals,watch vitals trend; re-read vitals,11
+S0029,93.74,epic,chart vitals and head-to-toe,12
+S0029,133.42,assessment,get blood for iSTAT,13
+S0029,184.53,vitals,recheck vitals after intervention,14
+S0029,252.96,assessment,Reassess after bolus,15
+S0029,279.21,communication,listen to care plan from provider,16
+S0029,318.14,epic,update charts,17
+S0030,2.0,communication,patient hand-off (nursing packet),1
+S0030,10.96,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0030,38.21,comet,COMET risk score: severity of condition,3
+S0030,47.6,vitals,re-read vitals,4
+S0030,49.23,assessment,Hands-on assessment,5
+S0030,54.52,vitals,re-read vitals,6
+S0030,61.88,communication,Call for help,7
+S0030,81.27,assessment,Reposition airway,8
+S0030,82.93,vitals,watch vitals trend,9
+S0030,91.08,epic,chart vitals and head-to-toe,10
+S0030,126.24,assessment,get blood for iSTAT; hand; Neuro check (pupils),11
+S0030,195.93,vitals,recheck vitals after intervention,12
+S0030,254.82,communication,listen to care plan from provider,13
+S0030,280.74,epic,update charts,14
+S0031,1.22,communication,patient hand-off (nursing packet),1
+S0031,4.33,epic,"check orders, meds, labs",2
+S0031,7.61,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",3
+S0031,56.07,communication,Call for help; discuss concerns with provider,4
+S0031,75.54,vitals,watch vitals trend,5
+S0031,75.55,assessment,Reposition airway,6
+S0031,83.74,vitals,re-read vitals,7
+S0031,102.39,epic,chart vitals and head-to-toe,8
+S0031,141.02,vitals,re-read vitals; recheck vitals after intervention,9
+S0031,193.38,assessment,hand; Neuro check (pupils),10
+S0031,232.18,communication,listen to care plan from provider,11
+S0031,282.67,epic,update charts,12
+S0032,2.83,communication,patient hand-off (nursing packet),1
+S0032,5.19,epic,"check orders, meds, labs",2
+S0032,7.98,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0032,39.47,vitals,re-read vitals,4
+S0032,40.49,assessment,Hands-on assessment,5
+S0032,55.62,vitals,re-read vitals,6
+S0032,60.67,communication,discuss concerns with provider,7
+S0032,77.17,vitals,watch vitals trend,8
+S0032,97.93,epic,chart vitals and head-to-toe,9
+S0032,161.12,assessment,get blood for iSTAT,10
+S0032,196.0,vitals,recheck vitals after intervention,11
+S0032,199.9,assessment,Position patient,12
+S0032,212.02,communication,listen to care plan from provider,13
+S0032,255.32,epic,update charts,14
+S0033,2.19,communication,patient hand-off (nursing packet),1
+S0033,4.1,epic,"check orders, meds, labs",2
+S0033,9.14,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient",3
+S0033,29.91,comet,COMET risk score: severity of condition,4
+S0033,30.09,vitals,read vitals; re-read vitals,5
+S0033,32.97,assessment,Hands-on assessment,6
+S0033,41.9,communication,discuss concerns with provider; Call for help,7
+S0033,59.59,vitals,re-read vitals; watch vitals trend,8
+S0033,97.85,epic,chart vitals and head-to-toe,9
+S0033,111.24,vitals,re-read vitals,10
+S0033,126.04,assessment,get blood for iSTAT,11
+S0033,176.52,vitals,recheck vitals after intervention,12
+S0033,241.6,communication,listen to care plan from provider,13
+S0034,2.08,communication,patient hand-off (nursing packet),1
+S0034,6.46,assessment,First look at patient,2
+S0034,6.55,epic,"check orders, meds, labs",3
+S0034,52.62,comet,COMET risk score: severity of condition,4
+S0034,56.06,vitals,read vitals,5
+S0034,61.32,assessment,Hands-on assessment,6
+S0034,65.16,communication,discuss concerns with provider; Call for help,7
+S0034,104.97,epic,chart vitals and head-to-toe,8
+S0034,163.45,assessment,get blood for iSTAT,9
+S0034,205.67,vitals,recheck vitals after intervention,10
+S0034,272.88,communication,listen to care plan from provider,11
+S0034,306.99,epic,update charts,12
+S0034,323.43,assessment,Reassess after bolus,13
+S0035,2.41,communication,patient hand-off (nursing packet),1
+S0035,11.71,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0035,43.21,comet,COMET risk score: severity of condition,3
+S0035,43.54,vitals,read vitals,4
+S0035,48.31,assessment,Hands-on assessment,5
+S0035,60.32,communication,discuss concerns with provider; Call for help,6
+S0035,65.24,assessment,Check capillary refill,7
+S0035,101.23,epic,chart vitals and head-to-toe,8
+S0035,136.92,assessment,get blood for iSTAT,9
+S0035,173.98,vitals,recheck vitals after intervention,10
+S0035,261.19,communication,listen to care plan from provider,11
+S0035,307.58,epic,update charts,12
+S0036,2.11,communication,patient hand-off (nursing packet),1
+S0036,6.5,epic,"check orders, meds, labs",2
+S0036,7.0,assessment,First look at patient,3
+S0036,26.13,vitals,read vitals,4
+S0036,26.16,comet,COMET risk score: severity of condition,5
+S0036,42.34,communication,discuss concerns with provider,6
+S0036,68.04,vitals,watch vitals trend,7
+S0036,89.28,epic,chart vitals and head-to-toe,8
+S0036,123.31,assessment,get blood for iSTAT; Position patient,9
+S0036,175.64,vitals,recheck vitals after intervention,10
+S0036,230.9,communication,listen to care plan from provider,11
+S0036,258.62,epic,update charts,12
+S0037,2.02,communication,patient hand-off (nursing packet),1
+S0037,4.76,epic,"check orders, meds, labs",2
+S0037,7.33,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",3
+S0037,64.44,communication,discuss concerns with provider; Call for help,4
+S0037,84.49,vitals,watch vitals trend,5
+S0037,112.06,epic,chart vitals and head-to-toe,6
+S0037,150.46,assessment,get blood for iSTAT,7
+S0037,182.28,vitals,recheck vitals after intervention,8
+S0037,223.48,assessment,hand; Neuro check (pupils),9
+S0037,253.15,communication,listen to care plan from provider,10
+S0038,2.85,communication,patient hand-off (nursing packet),1
+S0038,6.85,epic,"check orders, meds, labs",2
+S0038,9.99,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient; Hands-on assessment",3
+S0038,33.84,comet,COMET risk score: severity of condition,4
+S0038,44.74,communication,Call for help; discuss concerns with provider,5
+S0038,73.61,vitals,watch vitals trend,6
+S0038,94.74,epic,chart vitals and head-to-toe,7
+S0038,120.69,assessment,get blood for iSTAT; Position patient,8
+S0038,174.22,vitals,recheck vitals after intervention,9
+S0038,222.72,communication,listen to care plan from provider,10
+S0038,260.94,epic,update charts,11
+S0039,2.13,communication,patient hand-off (nursing packet),1
+S0039,6.06,epic,"check orders, meds, labs",2
+S0039,6.31,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0039,29.36,vitals,read vitals,4
+S0039,35.08,assessment,Hands-on assessment,5
+S0039,49.43,communication,discuss concerns with provider; Call for help,6
+S0039,94.87,epic,chart vitals and head-to-toe,7
+S0039,147.24,assessment,get blood for iSTAT,8
+S0039,279.18,epic,update charts,9
+S0040,2.67,communication,patient hand-off,1
+S0040,7.59,epic,"check orders, meds, labs",2
+S0040,14.73,assessment,First look at patient,3
+S0040,15.43,epic,review trends and notes,4
+S0040,22.01,assessment,physical exam,5
+S0040,36.67,comet,COMET risk score: severity of condition,6
+S0040,42.28,vitals,review vitals trend,7
+S0040,42.76,assessment,Hands-on assessment,8
+S0040,60.46,communication,discuss concerns with team,9
+S0040,75.48,vitals,re-read vitals,10
+S0040,78.1,communication,Call for help,11
+S0040,82.1,vitals,re-read vitals,12
+S0040,134.0,assessment,reassess response,13
+S0040,156.74,epic,new orders and labs,14
+S0040,183.27,assessment,Position patient,15
+S0040,264.95,communication,share care plan,16
+S0041,6.72,epic,"check orders, meds, labs; review trends and notes",1
+S0041,15.82,assessment,First look at patient; physical exam,2
+S0041,34.89,comet,COMET risk score: severity of condition,3
+S0041,35.07,assessment,Hands-on assessment,4
+S0041,35.9,vitals,review vitals trend; re-read vitals,5
+S0041,58.6,communication,Call for help,6
+S0041,102.53,vitals,re-read vitals,7
+S0041,104.96,assessment,reassess response,8
+S0041,147.99,epic,new orders and labs,9
+S0042,1.23,communication,patient hand-off,1
+S0042,8.14,epic,"check orders, meds, labs; review trends and notes",2
+S0042,17.28,assessment,First look at patient,3
+S0042,45.19,comet,COMET risk score: severity of condition,4
+S0042,49.48,vitals,review vitals trend,5
+S0042,59.69,assessment,Hands-on assessment,6
+S0042,59.75,vitals,re-read vitals,7
+S0042,64.09,assessment,hand; Neuro check (pupils),8
+S0042,71.58,communication,Call for help; discuss concerns with team,9
+S0042,114.73,vitals,re-read vitals,10
+S0042,148.52,assessment,reassess response,11
+S0042,183.53,epic,new orders and labs,12
+S0043,1.74,communication,patient hand-off,1
+S0043,8.24,epic,"check orders, meds, labs; review trends and notes",2
+S0043,17.8,assessment,First look at patient; physical exam,3
+S0043,43.56,comet,COMET risk score: severity of condition,4
+S0043,44.09,vitals,review vitals trend,5
+S0043,48.95,assessment,Hands-on assessment,6
+S0043,56.02,communication,Call for help,7
+S0043,56.9,assessment,hand; Neuro check (pupils),8
+S0043,63.03,communication,discuss concerns with team,9
+S0043,110.49,vitals,re-read vitals,10
+S0043,139.53,assessment,reassess response,11
+S0043,155.62,epic,new orders and labs,12
+S0044,1.04,communication,patient hand-off,1
+S0044,6.38,epic,"check orders, meds, labs; review trends and notes",2
+S0044,15.85,assessment,First look at patient; physical exam,3
+S0044,53.49,comet,COMET risk score: severity of condition,4
+S0044,53.87,assessment,Hands-on assessment; Check capillary refill,5
+S0044,64.58,communication,discuss concerns with team; Call for help,6
+S0044,132.65,vitals,re-read vitals,7
+S0044,140.58,assessment,reassess response,8
+S0044,174.74,epic,new orders and labs,9
+S0044,310.69,communication,share care plan,10
+S0045,4.73,epic,"check orders, meds, labs",1
+S0045,10.06,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient; Hands-on assessment",2
+S0045,38.2,vitals,read vitals,3
+S0045,39.05,comet,COMET risk score: severity of condition,4
+S0045,47.89,communication,discuss concerns with provider,5
+S0045,70.8,vitals,watch vitals trend,6
+S0045,82.59,communication,Call for help,7
+S0045,107.84,epic,chart vitals and head-to-toe,8
+S0045,149.64,assessment,get blood for iSTAT,9
+S0045,181.14,vitals,recheck vitals after intervention,10
+S0045,241.25,communication,listen to care plan from provider,11
+S0045,280.4,epic,update charts,12
+S0046,2.39,communication,patient hand-off (nursing packet),1
+S0046,5.65,epic,"check orders, meds, labs",2
+S0046,10.53,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient",3
+S0046,38.78,vitals,read vitals,4
+S0046,39.32,comet,COMET risk score: severity of condition,5
+S0046,40.03,assessment,Hands-on assessment,6
+S0046,62.5,communication,discuss concerns with provider; Call for help,7
+S0046,115.0,epic,chart vitals and head-to-toe,8
+S0046,138.81,assessment,get blood for iSTAT,9
+S0046,190.96,vitals,recheck vitals after intervention,10
+S0046,239.66,communication,listen to care plan from provider,11
+S0047,1.22,communication,patient hand-off (nursing packet),1
+S0047,6.38,epic,"check orders, meds, labs",2
+S0047,10.42,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",3
+S0047,41.3,vitals,read vitals,4
+S0047,51.33,communication,discuss concerns with provider; Call for help,5
+S0047,82.98,vitals,watch vitals trend,6
+S0047,101.37,epic,chart vitals and head-to-toe,7
+S0047,161.33,assessment,get blood for iSTAT; Reassess after bolus,8
+S0047,283.72,communication,listen to care plan from provider,9
+S0047,309.77,epic,update charts,10
+S0048,1.27,communication,patient hand-off (nursing packet),1
+S0048,4.78,epic,"check orders, meds, labs",2
+S0048,6.42,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0048,38.68,vitals,read vitals,4
+S0048,42.86,assessment,Hands-on assessment,5
+S0048,44.24,comet,COMET risk score: severity of condition,6
+S0048,57.81,assessment,hand; Neuro check (pupils),7
+S0048,72.25,vitals,watch vitals trend,8
+S0048,89.73,communication,Call for help,9
+S0048,94.04,epic,chart vitals and head-to-toe,10
+S0048,126.96,assessment,get blood for iSTAT,11
+S0048,230.18,communication,listen to care plan from provider,12
+S0048,289.31,epic,update charts,13
+S0049,1.81,communication,patient hand-off (nursing packet),1
+S0049,5.03,epic,"check orders, meds, labs",2
+S0049,7.35,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0049,30.41,vitals,read vitals,4
+S0049,30.44,comet,COMET risk score: severity of condition,5
+S0049,40.7,assessment,Hands-on assessment,6
+S0049,43.27,communication,discuss concerns with provider; Call for help,7
+S0049,71.24,vitals,watch vitals trend,8
+S0049,94.8,epic,chart vitals and head-to-toe,9
+S0049,122.02,assessment,get blood for iSTAT,10
+S0049,171.33,vitals,recheck vitals after intervention,11
+S0049,247.87,communication,listen to care plan from provider,12
+S0049,286.39,epic,update charts,13
+S0050,2.89,communication,patient hand-off (nursing packet),1
+S0050,4.78,epic,"check orders, meds, labs",2
+S0050,8.3,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0050,30.02,vitals,read vitals,4
+S0050,30.94,comet,COMET risk score: severity of condition,5
+S0050,36.67,assessment,Hands-on assessment,6
+S0050,42.14,communication,discuss concerns with provider; Call for help,7
+S0050,73.14,vitals,watch vitals trend,8
+S0050,97.81,epic,chart vitals and head-to-toe,9
+S0050,171.5,vitals,recheck vitals after intervention,10
+S0050,250.39,communication,listen to care plan from provider,11
+S0050,275.69,epic,update charts,12
+S0051,1.28,communication,patient hand-off (nursing packet),1
+S0051,7.99,assessment,First look at patient,2
+S0051,34.01,vitals,read vitals,3
+S0051,35.85,assessment,Hands-on assessment,4
+S0051,76.18,vitals,watch vitals trend,5
+S0051,76.95,communication,Call for help,6
+S0051,83.17,epic,chart vitals and head-to-toe,7
+S0051,154.65,assessment,Position patient,8
+S0051,178.56,vitals,recheck vitals after intervention,9
+S0051,257.62,epic,update charts,10
+S0052,2.77,communication,patient hand-off (nursing packet),1
+S0052,5.91,epic,"check orders, meds, labs",2
+S0052,8.14,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",3
+S0052,28.26,vitals,read vitals,4
+S0052,30.37,comet,COMET risk score: severity of condition,5
+S0052,42.97,communication,Call for help; discuss concerns with provider,6
+S0052,70.68,vitals,watch vitals trend,7
+S0052,79.76,epic,chart vitals and head-to-toe,8
+S0052,148.67,assessment,get blood for iSTAT,9
+S0052,179.82,vitals,recheck vitals after intervention,10
+S0052,244.14,communication,listen to care plan from provider,11
+S0052,284.43,epic,update charts,12
+S0053,2.87,communication,patient hand-off,1
+S0053,6.57,epic,"check orders, meds, labs; review trends and notes",2
+S0053,15.59,assessment,First look at patient; physical exam,3
+S0053,39.52,vitals,re-read vitals; review vitals trend,4
+S0053,43.9,assessment,Hands-on assessment,5
+S0053,55.24,communication,Call for help; discuss concerns with team,6
+S0053,63.4,vitals,re-read vitals,7
+S0053,120.77,assessment,reassess response,8
+S0053,149.98,epic,new orders and labs,9
+S0053,275.95,communication,share care plan,10
+S0054,1.1,communication,patient hand-off,1
+S0054,15.09,assessment,First look at patient,2
+S0054,15.52,epic,review trends and notes,3
+S0054,23.07,assessment,physical exam; Hands-on assessment,4
+S0054,38.2,vitals,review vitals trend,5
+S0054,46.69,communication,Call for help; discuss concerns with team,6
+S0054,57.49,vitals,re-read vitals,7
+S0054,105.76,assessment,reassess response,8
+S0054,146.24,epic,new orders and labs,9
+S0054,148.28,vitals,re-read vitals,10
+S0054,282.87,communication,share care plan,11
+S0055,7.06,epic,"check orders, meds, labs",1
+S0055,14.38,assessment,First look at patient; physical exam,2
+S0055,35.63,vitals,review vitals trend,3
+S0055,37.38,assessment,Hands-on assessment,4
+S0055,48.85,communication,discuss concerns with team,5
+S0055,51.64,vitals,re-read vitals,6
+S0055,63.97,communication,Call for help,7
+S0055,91.15,vitals,re-read vitals,8
+S0055,117.66,assessment,reassess response; Position patient,9
+S0055,161.94,epic,new orders and labs,10
+S0056,2.35,communication,patient hand-off,1
+S0056,7.68,epic,"check orders, meds, labs; review trends and notes",2
+S0056,15.44,assessment,First look at patient,3
+S0056,48.02,vitals,review vitals trend,4
+S0056,53.88,assessment,Hands-on assessment,5
+S0056,61.41,communication,discuss concerns with team,6
+S0056,70.8,vitals,re-read vitals,7
+S0056,95.03,communication,Call for help,8
+S0056,101.36,assessment,Reposition airway,9
+S0056,280.16,communication,share care plan,10
+S0057,1.37,communication,patient hand-off,1
+S0057,5.58,epic,"check orders, meds, labs",2
+S0057,16.29,assessment,First look at patient; physical exam,3
+S0057,36.84,comet,COMET risk score: severity of condition,4
+S0057,36.98,assessment,Hands-on assessment,5
+S0057,43.25,vitals,review vitals trend,6
+S0057,49.48,communication,Call for help; discuss concerns with team,7
+S0057,69.0,assessment,Reposition airway; reassess response; hand; Neuro check (pupils),8
+S0057,173.36,epic,new orders and labs,9
+S0058,1.56,communication,patient hand-off,1
+S0058,5.41,epic,"check orders, meds, labs; review trends and notes",2
+S0058,14.27,assessment,First look at patient; physical exam; Hands-on assessment,3
+S0058,51.49,vitals,review vitals trend,4
+S0058,58.9,communication,Call for help; discuss concerns with team,5
+S0058,130.07,assessment,reassess response,6
+S0058,182.97,epic,new orders and labs,7
+S0058,197.06,assessment,hand; Neuro check (pupils),8
+S0058,276.86,communication,share care plan,9
+S0059,2.96,communication,patient hand-off,1
+S0059,6.08,epic,"check orders, meds, labs; review trends and notes",2
+S0059,14.84,assessment,First look at patient; physical exam,3
+S0059,36.14,comet,COMET risk score: severity of condition,4
+S0059,41.28,assessment,Hands-on assessment,5
+S0059,43.12,vitals,review vitals trend,6
+S0059,54.04,communication,Call for help; discuss concerns with team,7
+S0059,128.02,assessment,reassess response,8
+S0059,171.97,epic,new orders and labs,9
+S0059,276.71,communication,share care plan,10
+S0060,1.42,communication,patient hand-off,1
+S0060,4.72,epic,"check orders, meds, labs; review trends and notes",2
+S0060,16.73,assessment,First look at patient; physical exam,3
+S0060,26.7,comet,COMET risk score: severity of condition,4
+S0060,29.26,vitals,review vitals trend,5
+S0060,32.53,assessment,Hands-on assessment; Position patient,6
+S0060,138.33,epic,new orders and labs,7
+S0060,255.49,communication,share care plan,8
+S0061,1.59,communication,patient hand-off,1
+S0061,6.57,epic,"check orders, meds, labs; review trends and notes",2
+S0061,16.87,assessment,First look at patient; physical exam,3
+S0061,32.97,comet,COMET risk score: severity of condition,4
+S0061,33.83,assessment,Hands-on assessment,5
+S0061,38.09,vitals,review vitals trend,6
+S0061,42.97,communication,Call for help; discuss concerns with team,7
+S0061,109.79,assessment,reassess response; Position patient,8
+S0061,155.42,epic,new orders and labs,9
+S0061,258.21,communication,share care plan,10
+S0062,1.98,communication,patient hand-off,1
+S0062,5.33,epic,"check orders, meds, labs; review trends and notes",2
+S0062,17.6,assessment,First look at patient; physical exam,3
+S0062,24.04,comet,COMET risk score: severity of condition,4
+S0062,28.16,assessment,Hands-on assessment,5
+S0062,35.46,vitals,review vitals trend,6
+S0062,39.06,communication,discuss concerns with team; Call for help,7
+S0062,95.96,assessment,Position patient; reassess response,8
+S0062,158.51,epic,new orders and labs,9
+S0062,250.02,communication,share care plan,10
+S0063,2.05,communication,patient hand-off,1
+S0063,7.47,epic,"check orders, meds, labs; review trends and notes",2
+S0063,16.8,assessment,First look at patient; physical exam; Hands-on assessment,3
+S0063,48.37,vitals,review vitals trend,4
+S0063,62.95,communication,discuss concerns with team; Call for help,5
+S0063,67.23,assessment,Reposition airway; reassess response; hand; Neuro check (pupils),6
+S0063,173.82,epic,new orders and labs,7
+S0063,273.8,communication,share care plan,8
+S0064,2.28,communication,patient hand-off (nursing packet),1
+S0064,6.74,epic,"check orders, meds, labs",2
+S0064,7.09,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0064,35.51,comet,COMET risk score: severity of condition,4
+S0064,37.44,vitals,read vitals,5
+S0064,37.79,assessment,Hands-on assessment,6
+S0064,49.72,communication,discuss concerns with provider; Call for help,7
+S0064,69.84,assessment,Position patient,8
+S0064,78.01,vitals,watch vitals trend,9
+S0064,108.23,epic,chart vitals and head-to-toe,10
+S0064,150.85,assessment,get blood for iSTAT,11
+S0064,201.02,vitals,recheck vitals after intervention,12
+S0064,234.45,communication,listen to care plan from provider,13
+S0064,263.62,epic,update charts,14
+S0065,1.46,communication,patient hand-off (nursing packet),1
+S0065,3.24,epic,"check orders, meds, labs",2
+S0065,8.58,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",3
+S0065,32.05,vitals,read vitals,4
+S0065,42.92,communication,Call for help; discuss concerns with provider,5
+S0065,66.98,vitals,watch vitals trend,6
+S0065,69.97,assessment,Position patient,7
+S0065,86.16,epic,chart vitals and head-to-toe,8
+S0065,123.77,assessment,get blood for iSTAT,9
+S0065,189.72,vitals,recheck vitals after intervention,10
+S0065,217.95,communication,listen to care plan from provider,11
+S0065,258.26,epic,update charts,12
+S0066,1.24,communication,patient hand-off (nursing packet),1
+S0066,6.02,epic,"check orders, meds, labs",2
+S0066,7.42,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",3
+S0066,31.22,vitals,read vitals,4
+S0066,40.35,communication,Call for help; discuss concerns with provider,5
+S0066,63.45,vitals,watch vitals trend,6
+S0066,101.01,epic,chart vitals and head-to-toe,7
+S0066,122.5,assessment,get blood for iSTAT,8
+S0066,184.97,vitals,recheck vitals after intervention,9
+S0066,246.62,communication,listen to care plan from provider,10
+S0066,289.69,epic,update charts,11
+S0067,1.41,communication,patient hand-off (nursing packet),1
+S0067,4.74,epic,"check orders, meds, labs",2
+S0067,10.0,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0067,51.46,vitals,read vitals,4
+S0067,53.38,comet,COMET risk score: severity of condition,5
+S0067,53.7,assessment,Hands-on assessment; hand; Neuro check (pupils),6
+S0067,63.92,communication,Call for help; discuss concerns with provider,7
+S0067,89.33,vitals,watch vitals trend,8
+S0067,130.33,epic,chart vitals and head-to-toe,9
+S0067,176.18,assessment,get blood for iSTAT,10
+S0067,192.37,vitals,recheck vitals after intervention,11
+S0067,253.45,communication,listen to care plan from provider,12
+S0067,287.99,epic,update charts,13
+S0068,2.38,communication,patient hand-off (nursing packet),1
+S0068,3.09,epic,"check orders, meds, labs",2
+S0068,10.04,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",3
+S0068,35.94,vitals,read vitals,4
+S0068,42.32,communication,Call for help; discuss concerns with provider,5
+S0068,66.02,vitals,watch vitals trend,6
+S0068,87.88,epic,chart vitals and head-to-toe,7
+S0068,121.97,assessment,get blood for iSTAT,8
+S0068,182.08,vitals,recheck vitals after intervention,9
+S0068,237.34,communication,listen to care plan from provider,10
+S0068,282.71,epic,update charts,11
+S0069,1.82,communication,patient hand-off (nursing packet),1
+S0069,3.54,epic,"check orders, meds, labs",2
+S0069,9.4,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0069,44.0,vitals,read vitals,4
+S0069,46.04,assessment,Hands-on assessment; hand; Neuro check (pupils),5
+S0069,58.66,communication,Call for help; discuss concerns with provider,6
+S0069,82.1,vitals,watch vitals trend,7
+S0069,104.75,epic,chart vitals and head-to-toe,8
+S0069,146.45,assessment,get blood for iSTAT,9
+S0069,193.93,vitals,recheck vitals after intervention,10
+S0069,230.78,communication,listen to care plan from provider,11
+S0069,275.88,epic,update charts,12
+S0070,1.47,communication,patient hand-off (nursing packet),1
+S0070,5.01,epic,"check orders, meds, labs",2
+S0070,10.45,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0070,35.93,comet,COMET risk score: severity of condition,4
+S0070,37.74,vitals,read vitals,5
+S0070,39.94,assessment,Hands-on assessment,6
+S0070,53.22,communication,Call for help; discuss concerns with provider,7
+S0070,57.45,assessment,hand; Neuro check (pupils),8
+S0070,75.52,vitals,watch vitals trend,9
+S0070,87.82,epic,chart vitals and head-to-toe,10
+S0070,135.19,assessment,get blood for iSTAT,11
+S0070,182.08,vitals,recheck vitals after intervention,12
+S0070,253.86,communication,listen to care plan from provider,13
+S0070,289.6,epic,update charts,14
+S0071,1.98,communication,patient hand-off (nursing packet),1
+S0071,5.61,epic,"check orders, meds, labs",2
+S0071,8.82,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0071,48.97,vitals,read vitals,4
+S0071,51.97,comet,COMET risk score: severity of condition,5
+S0071,53.1,assessment,Hands-on assessment; hand; Neuro check (pupils),6
+S0071,71.0,communication,Call for help; discuss concerns with provider,7
+S0071,85.38,vitals,watch vitals trend,8
+S0071,118.7,epic,chart vitals and head-to-toe,9
+S0071,208.57,vitals,recheck vitals after intervention,10
+S0071,238.03,communication,listen to care plan from provider,11
+S0071,287.29,epic,update charts,12
+S0072,2.99,communication,patient hand-off (nursing packet),1
+S0072,4.59,epic,"check orders, meds, labs",2
+S0072,8.66,assessment,First look at patient,3
+S0072,36.2,vitals,read vitals,4
+S0072,37.51,assessment,Hands-on assessment,5
+S0072,40.59,comet,COMET risk score: severity of condition,6
+S0072,62.53,communication,Call for help,7
+S0072,73.3,vitals,watch vitals trend,8
+S0072,100.66,epic,chart vitals and head-to-toe,9
+S0072,122.87,assessment,get blood for iSTAT; Position patient,10
+S0072,171.34,vitals,recheck vitals after intervention,11
+S0072,213.48,communication,listen to care plan from provider,12
+S0072,264.13,epic,update charts,13
+S0073,3.61,epic,"check orders, meds, labs",1
+S0073,6.86,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0073,36.11,vitals,read vitals,3
+S0073,38.78,comet,COMET risk score: severity of condition,4
+S0073,45.19,assessment,Hands-on assessment,5
+S0073,53.14,communication,discuss concerns with provider,6
+S0073,54.24,assessment,Check capillary refill,7
+S0073,68.94,vitals,watch vitals trend,8
+S0073,97.79,epic,chart vitals and head-to-toe,9
+S0073,111.3,assessment,Reassess after bolus,10
+S0073,169.85,vitals,recheck vitals after intervention,11
+S0073,262.68,communication,listen to care plan from provider,12
+S0073,318.69,epic,update charts,13
+S0074,1.09,communication,patient hand-off (nursing packet),1
+S0074,6.13,epic,"check orders, meds, labs",2
+S0074,7.9,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0074,34.83,vitals,read vitals,4
+S0074,42.0,assessment,Hands-on assessment,5
+S0074,75.52,vitals,watch vitals trend,6
+S0074,85.3,assessment,Reposition airway,7
+S0074,97.57,epic,chart vitals and head-to-toe,8
+S0074,139.3,assessment,get blood for iSTAT,9
+S0074,192.89,vitals,recheck vitals after intervention,10
+S0074,255.0,communication,listen to care plan from provider,11
+S0075,1.87,communication,patient hand-off (nursing packet),1
+S0075,3.55,epic,"check orders, meds, labs",2
+S0075,8.56,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0075,39.39,vitals,read vitals,4
+S0075,39.69,comet,COMET risk score: severity of condition,5
+S0075,39.78,assessment,Hands-on assessment; hand; Neuro check (pupils),6
+S0075,54.61,communication,discuss concerns with provider,7
+S0075,71.34,vitals,watch vitals trend,8
+S0075,74.58,communication,Call for help,9
+S0075,98.11,epic,chart vitals and head-to-toe,10
+S0075,155.55,assessment,get blood for iSTAT,11
+S0075,180.55,vitals,recheck vitals after intervention,12
+S0075,249.06,communication,listen to care plan from provider,13
+S0076,2.27,communication,patient hand-off (nursing packet),1
+S0076,6.06,epic,"check orders, meds, labs",2
+S0076,9.52,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient",3
+S0076,44.66,comet,COMET risk score: severity of condition,4
+S0076,59.72,assessment,Hands-on assessment; hand; Neuro check (pupils),5
+S0076,82.78,communication,Call for help,6
+S0076,122.13,epic,chart vitals and head-to-toe,7
+S0076,183.26,vitals,recheck vitals after intervention,8
+S0077,5.27,epic,"check orders, meds, labs",1
+S0077,10.24,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient",2
+S0077,47.23,comet,COMET risk score: severity of condition,3
+S0077,67.07,communication,discuss concerns with provider,4
+S0077,70.48,assessment,Hands-on assessment; hand; Neuro check (pupils),5
+S0077,84.91,vitals,watch vitals trend,6
+S0077,89.5,communication,Call for help,7
+S0077,207.1,vitals,recheck vitals after intervention,8
+S0077,247.02,communication,listen to care plan from provider,9
+S0078,2.53,communication,patient hand-off (nursing packet),1
+S0078,6.38,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0078,38.21,vitals,read vitals,3
+S0078,40.05,comet,COMET risk score: severity of condition,4
+S0078,50.9,assessment,Hands-on assessment,5
+S0078,69.15,vitals,watch vitals trend,6
+S0078,86.84,communication,Call for help,7
+S0078,99.08,epic,chart vitals and head-to-toe,8
+S0078,141.86,assessment,get blood for iSTAT,9
+S0078,186.7,vitals,recheck vitals after intervention,10
+S0078,218.95,assessment,Reassess after bolus,11
+S0078,260.07,communication,listen to care plan from provider,12
+S0078,307.81,epic,update charts,13
+S0079,1.44,communication,patient hand-off (nursing packet),1
+S0079,6.49,epic,"check orders, meds, labs",2
+S0079,6.92,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0079,41.58,comet,COMET risk score: severity of condition,4
+S0079,42.1,vitals,read vitals,5
+S0079,46.58,assessment,Hands-on assessment,6
+S0079,56.32,communication,discuss concerns with provider; Call for help,7
+S0079,73.81,vitals,watch vitals trend,8
+S0079,118.12,epic,chart vitals and head-to-toe,9
+S0079,166.33,assessment,get blood for iSTAT,10
+S0079,175.57,vitals,recheck vitals after intervention,11
+S0079,271.97,communication,listen to care plan from provider,12
+S0079,274.68,assessment,Reassess after bolus,13
+S0080,1.91,communication,patient hand-off (nursing packet),1
+S0080,6.8,epic,"check orders, meds, labs",2
+S0080,7.81,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0080,48.92,vitals,read vitals,4
+S0080,52.32,assessment,Hands-on assessment; hand,5
+S0080,61.75,communication,discuss concerns with provider,6
+S0080,65.12,assessment,Neuro check (pupils),7
+S0080,68.23,communication,Call for help,8
+S0080,87.87,vitals,watch vitals trend,9
+S0080,139.54,assessment,get blood for iSTAT,10
+S0080,206.38,vitals,recheck vitals after intervention,11
+S0080,277.76,epic,update charts,12
+S0081,1.4,communication,patient hand-off (nursing packet),1
+S0081,11.9,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",2
+S0081,54.78,vitals,re-read vitals,3
+S0081,59.3,communication,discuss concerns with provider,4
+S0081,70.08,vitals,re-read vitals,5
+S0081,70.25,communication,Call for help,6
+S0081,88.22,vitals,watch vitals trend,7
+S0081,94.53,epic,chart vitals and head-to-toe,8
+S0081,118.21,assessment,Reposition airway,9
+S0081,187.06,vitals,recheck vitals after intervention,10
+S0081,199.79,assessment,hand; Neuro check (pupils),11
+S0081,239.32,communication,listen to care plan from provider,12
+S0081,289.07,epic,update charts,13
+S0082,4.43,epic,"check orders, meds, labs",1
+S0082,6.75,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0082,47.69,vitals,read vitals,3
+S0082,49.86,comet,COMET risk score: severity of condition,4
+S0082,49.95,assessment,Hands-on assessment,5
+S0082,50.87,vitals,re-read vitals,6
+S0082,60.57,communication,discuss concerns with provider; Call for help,7
+S0082,88.57,vitals,watch vitals trend; re-read vitals,8
+S0082,145.22,assessment,get blood for iSTAT,9
+S0082,150.66,vitals,re-read vitals,10
+S0082,183.17,assessment,hand; Neuro check (pupils),11
+S0082,244.04,communication,listen to care plan from provider,12
+S0082,281.55,epic,update charts,13
+S0083,3.23,epic,"check orders, meds, labs",1
+S0083,6.88,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0083,40.98,vitals,read vitals,3
+S0083,42.21,comet,COMET risk score: severity of condition,4
+S0083,44.84,assessment,Hands-on assessment,5
+S0083,56.35,vitals,re-read vitals,6
+S0083,61.18,communication,discuss concerns with provider; Call for help,7
+S0083,70.2,vitals,re-read vitals,8
+S0083,90.7,epic,chart vitals and head-to-toe,9
+S0083,180.07,vitals,recheck vitals after intervention,10
+S0083,216.53,communication,listen to care plan from provider,11
+S0083,255.82,epic,update charts,12
+S0084,1.65,communication,patient hand-off (nursing packet),1
+S0084,4.77,epic,"check orders, meds, labs",2
+S0084,10.93,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0084,36.45,vitals,read vitals,4
+S0084,39.93,comet,COMET risk score: severity of condition,5
+S0084,47.85,assessment,Hands-on assessment,6
+S0084,48.0,communication,discuss concerns with provider,7
+S0084,57.42,vitals,re-read vitals; watch vitals trend,8
+S0084,102.97,epic,chart vitals and head-to-toe,9
+S0084,127.39,vitals,re-read vitals,10
+S0084,158.43,assessment,get blood for iSTAT,11
+S0084,171.64,vitals,recheck vitals after intervention,12
+S0084,222.99,communication,listen to care plan from provider,13
+S0084,259.79,epic,update charts,14
+S0085,2.49,communication,patient hand-off (nursing packet),1
+S0085,6.9,assessment,First look at patient,2
+S0085,39.21,vitals,read vitals,3
+S0085,44.29,assessment,Hands-on assessment,4
+S0085,60.51,communication,discuss concerns with provider; Call for help,5
+S0085,81.81,vitals,watch vitals trend,6
+S0085,99.87,epic,chart vitals and head-to-toe,7
+S0085,113.86,vitals,re-read vitals; recheck vitals after intervention,8
+S0085,231.89,communication,listen to care plan from provider,9
+S0085,280.35,epic,update charts,10
+S0086,2.48,communication,patient hand-off (nursing packet),1
+S0086,3.18,epic,"check orders, meds, labs",2
+S0086,7.99,assessment,First look at patient; Hands-on assessment,3
+S0086,39.49,vitals,read vitals,4
+S0086,53.73,communication,discuss concerns with provider; Call for help,5
+S0086,77.48,vitals,re-read vitals; watch vitals trend,6
+S0086,93.97,epic,chart vitals and head-to-toe,7
+S0086,131.38,assessment,get blood for iSTAT; hand; Neuro check (pupils),8
+S0086,149.49,vitals,re-read vitals; recheck vitals after intervention,9
+S0086,252.56,communication,listen to care plan from provider,10
+S0087,2.59,communication,patient hand-off,1
+S0087,8.87,epic,"check orders, meds, labs",2
+S0087,15.84,assessment,First look at patient; physical exam,3
+S0087,28.96,comet,COMET risk score: severity of condition,4
+S0087,33.45,assessment,Hands-on assessment,5
+S0087,34.16,vitals,review vitals trend,6
+S0087,49.1,assessment,Reposition airway,7
+S0087,84.56,communication,Call for help,8
+S0087,129.66,assessment,reassess response; hand; Neuro check (pupils),9
+S0087,170.11,epic,new orders and labs,10
+S0088,2.16,communication,patient hand-off,1
+S0088,7.1,epic,"check orders, meds, labs; review trends and notes",2
+S0088,14.96,assessment,First look at patient; physical exam,3
+S0088,42.51,comet,COMET risk score: severity of condition,4
+S0088,46.8,assessment,Hands-on assessment,5
+S0088,51.59,vitals,review vitals trend,6
+S0088,64.05,communication,discuss concerns with team,7
+S0088,72.76,assessment,Reposition airway,8
+S0088,93.06,communication,Call for help,9
+S0088,115.78,assessment,reassess response; hand; Neuro check (pupils),10
+S0088,168.39,epic,new orders and labs,11
+S0088,273.76,communication,share care plan,12
+S0089,8.38,epic,"check orders, meds, labs; review trends and notes",1
+S0089,17.99,assessment,First look at patient; physical exam,2
+S0089,46.87,comet,COMET risk score: severity of condition,3
+S0089,51.38,assessment,Hands-on assessment; hand,4
+S0089,53.65,vitals,review vitals trend,5
+S0089,55.52,assessment,Neuro check (pupils); reassess response,6
+S0089,125.66,communication,Call for help,7
+S0089,170.69,epic,new orders and labs,8
+S0090,12.32,epic,review trends and notes,1
+S0090,16.79,assessment,First look at patient; physical exam; Hands-on assessment; Check capillary refill,2
+S0090,57.42,communication,discuss concerns with team; Call for help,3
+S0090,107.91,assessment,reassess response,4
+S0090,184.31,epic,new orders and labs,5
+S0090,286.1,assessment,Reassess after bolus,6
+S0091,8.15,epic,"check orders, meds, labs; review trends and notes",1
+S0091,15.39,assessment,First look at patient; physical exam; Hands-on assessment; Check capillary refill,2
+S0091,59.24,communication,discuss concerns with team; Call for help,3
+S0091,138.0,assessment,reassess response,4
+S0091,156.78,epic,new orders and labs,5
+S0091,164.52,assessment,Reassess after bolus,6
+S0091,296.28,communication,share care plan,7
+S0092,2.18,communication,patient hand-off,1
+S0092,4.11,epic,"check orders, meds, labs; review trends and notes",2
+S0092,16.13,assessment,First look at patient; physical exam,3
+S0092,39.55,comet,COMET risk score: severity of condition,4
+S0092,47.22,assessment,Hands-on assessment; hand; Neuro check (pupils),5
+S0092,91.22,communication,Call for help,6
+S0092,139.37,assessment,reassess response,7
+S0092,152.08,epic,new orders and labs,8
+S0093,15.18,epic,review trends and notes,1
+S0093,15.74,assessment,First look at patient; physical exam; Hands-on assessment,2
+S0093,36.7,vitals,review vitals trend,3
+S0093,48.08,communication,discuss concerns with team,4
+S0093,57.22,assessment,Reposition airway; hand; Neuro check (pupils); reassess response,5
+S0093,174.86,epic,new orders and labs,6
+S0094,5.11,epic,"check orders, meds, labs; review trends and notes",1
+S0094,17.16,assessment,First look at patient; physical exam,2
+S0094,50.71,vitals,review vitals trend,3
+S0094,53.77,assessment,Hands-on assessment,4
+S0094,66.39,communication,discuss concerns with team; Call for help,5
+S0094,172.3,epic,new orders and labs,6
+S0094,302.32,communication,share care plan,7
+S0095,1.81,communication,patient hand-off,1
+S0095,7.12,epic,"check orders, meds, labs; review trends and notes",2
+S0095,14.79,assessment,First look at patient,3
+S0095,53.66,comet,COMET risk score: severity of condition,4
+S0095,58.66,assessment,Hands-on assessment,5
+S0095,63.82,vitals,review vitals trend,6
+S0095,194.58,epic,new orders and labs,7
+S0095,230.51,assessment,Reassess after bolus,8
+S0095,313.61,communication,share care plan,9
+S0096,1.25,communication,patient hand-off,1
+S0096,7.49,epic,"check orders, meds, labs; review trends and notes",2
+S0096,15.15,assessment,First look at patient; physical exam,3
+S0096,38.31,comet,COMET risk score: severity of condition,4
+S0096,46.53,assessment,Hands-on assessment,5
+S0096,51.62,vitals,review vitals trend,6
+S0096,56.72,communication,discuss concerns with team; Call for help,7
+S0096,111.86,assessment,reassess response,8
+S0096,174.59,epic,new orders and labs,9
+S0096,184.91,assessment,Position patient,10
+S0096,264.63,communication,share care plan,11
+S0097,2.98,communication,patient hand-off,1
+S0097,13.25,epic,review trends and notes,2
+S0097,15.21,assessment,First look at patient; physical exam,3
+S0097,50.11,vitals,review vitals trend,4
+S0097,56.12,assessment,Hands-on assessment,5
+S0097,105.57,communication,Call for help; share care plan,6
+S0098,1.34,communication,patient hand-off,1
+S0098,10.89,epic,review trends and notes,2
+S0098,17.03,assessment,First look at patient; physical exam; Hands-on assessment,3
+S0098,39.28,comet,COMET risk score: severity of condition,4
+S0098,43.32,vitals,review vitals trend,5
+S0098,56.37,assessment,Check capillary refill,6
+S0098,63.38,communication,Call for help; discuss concerns with team,7
+S0098,178.63,assessment,Reassess after bolus,8
+S0098,304.7,communication,share care plan,9
+S0099,2.07,communication,respiratory hand-off,1
+S0099,7.24,assessment,check respiratory equipment; First look at patient,2
+S0099,33.59,vitals,SpO2 and respiratory rate,3
+S0099,37.92,assessment,Hands-on assessment,4
+S0099,49.71,communication,update team on airway; Call for help,5
+S0099,91.09,epic,check respiratory orders,6
+S0099,113.9,communication,discuss settings with provider,7
+S0099,167.4,assessment,reassess breath sounds,8
+S0100,6.06,assessment,First look at patient; check respiratory equipment,1
+S0100,38.34,vitals,SpO2 and respiratory rate,2
+S0100,39.34,assessment,Hands-on assessment,3
+S0100,41.32,comet,COMET risk score: severity of condition,4
+S0100,47.75,communication,update team on airway; Call for help; discuss settings with provider,5
+S0100,181.91,assessment,reassess breath sounds,6
+S0100,283.24,communication,hand back to bedside team,7
+S0101,1.87,communication,respiratory hand-off,1
+S0101,5.23,assessment,check respiratory equipment; First look at patient; Hands-on assessment; hand,2
+S0101,65.86,communication,update team on airway,3
+S0101,66.61,assessment,Neuro check (pupils),4
+S0101,79.44,communication,Call for help,5
+S0101,122.63,epic,check respiratory orders,6
+S0101,130.75,communication,discuss settings with provider,7
+S0101,185.78,assessment,reassess breath sounds,8
+S0101,283.05,communication,hand back to bedside team,9
+S0102,1.23,communication,respiratory hand-off,1
+S0102,7.4,assessment,check respiratory equipment; First look at patient,2
+S0102,27.2,comet,COMET risk score: severity of condition,3
+S0102,29.8,vitals,SpO2 and respiratory rate,4
+S0102,32.68,assessment,Hands-on assessment,5
+S0102,38.15,communication,update team on airway; Call for help,6
+S0102,95.13,assessment,Position patient,7
+S0102,96.67,epic,check respiratory orders,8
+S0102,103.39,communication,discuss settings with provider,9
+S0102,168.89,assessment,reassess breath sounds,10
+S0102,246.15,communication,hand back to bedside team,11
+S0103,1.29,communication,respiratory hand-off,1
+S0103,8.69,assessment,check respiratory equipment; First look at patient,2
+S0103,49.36,comet,COMET risk score: severity of condition,3
+S0103,49.78,vitals,SpO2 and respiratory rate,4
+S0103,54.41,assessment,Hands-on assessment,5
+S0103,67.79,communication,update team on airway; Call for help,6
+S0103,90.92,assessment,Reposition airway,7
+S0103,108.37,epic,check respiratory orders,8
+S0103,146.43,communication,discuss settings with provider,9
+S0103,173.64,assessment,reassess breath sounds; hand; Neuro check (pupils),10
+S0103,274.62,communication,hand back to bedside team,11
+S0104,1.79,communication,respiratory hand-off,1
+S0104,6.58,assessment,First look at patient,2
+S0104,37.19,vitals,SpO2 and respiratory rate,3
+S0104,39.23,assessment,Hands-on assessment,4
+S0104,50.05,communication,update team on airway; Call for help,5
+S0104,88.12,epic,check respiratory orders,6
+S0104,112.5,communication,discuss settings with provider,7
+S0104,162.14,assessment,reassess breath sounds,8
+S0105,2.03,communication,respiratory hand-off,1
+S0105,7.19,assessment,First look at patient; check respiratory equipment; Hands-on assessment,2
+S0105,53.88,communication,Call for help,3
+S0105,59.91,assessment,Reposition airway; hand; Neuro check (pupils); reassess breath sounds,4
+S0105,272.22,communication,hand back to bedside team,5
+S0106,2.64,communication,respiratory hand-off,1
+S0106,5.85,assessment,check respiratory equipment; First look at patient; Hands-on assessment,2
+S0106,59.88,communication,Call for help; update team on airway,3
+S0106,80.91,assessment,Reposition airway,4
+S0106,103.39,epic,check respiratory orders,5
+S0106,126.25,assessment,hand; Neuro check (pupils),6
+S0106,135.73,communication,discuss settings with provider,7
+S0107,6.41,assessment,check respiratory equipment; First look at patient; Hands-on assessment,1
+S0107,44.47,comet,COMET risk score: severity of condition,2
+S0107,70.53,communication,Call for help,3
+S0107,109.14,epic,check respiratory orders,4
+S0107,121.05,communication,discuss settings with provider,5
+S0107,121.29,assessment,Position patient; reassess breath sounds,6
+S0107,247.15,communication,hand back to bedside team,7
+S0108,1.29,communication,respiratory hand-off,1
+S0108,7.51,assessment,check respiratory equipment; First look at patient,2
+S0108,34.48,comet,COMET risk score: severity of condition,3
+S0108,37.81,vitals,SpO2 and respiratory rate,4
+S0108,40.53,assessment,Hands-on assessment,5
+S0108,55.87,communication,update team on airway; Call for help,6
+S0108,90.68,epic,check respiratory orders,7
+S0108,127.44,communication,discuss settings with provider,8
+S0108,152.97,assessment,reassess breath sounds,9
+S0108,278.35,communication,hand back to bedside team,10
+S0109,2.08,communication,respiratory hand-off,1
+S0109,5.55,assessment,check respiratory equipment; First look at patient,2
+S0109,44.55,comet,COMET risk score: severity of condition,3
+S0109,47.27,assessment,Hands-on assessment,4
+S0109,48.35,vitals,SpO2 and respiratory rate,5
+S0109,61.14,communication,update team on airway; Call for help,6
+S0109,80.56,assessment,Reposition airway,7
+S0109,88.75,epic,check respiratory orders,8
+S0109,150.27,communication,discuss settings with provider,9
+S0109,175.3,assessment,reassess breath sounds,10
+S0109,276.37,communication,hand back to bedside team,11
+S0110,1.06,communication,respiratory hand-off,1
+S0110,6.18,assessment,First look at patient; check respiratory equipment,2
+S0110,36.96,comet,COMET risk score: severity of condition,3
+S0110,38.72,vitals,SpO2 and respiratory rate,4
+S0110,43.06,assessment,Hands-on assessment,5
+S0110,54.1,communication,Call for help; update team on airway,6
+S0110,64.92,assessment,Reposition airway,7
+S0110,99.2,epic,check respiratory orders,8
+S0110,123.1,communication,discuss settings with provider,9
+S0110,134.65,assessment,hand; Neuro check (pupils); reassess breath sounds,10
+S0110,269.8,communication,hand back to bedside team,11
+S0111,2.73,communication,respiratory hand-off,1
+S0111,6.66,assessment,check respiratory equipment; First look at patient,2
+S0111,32.22,vitals,SpO2 and respiratory rate,3
+S0111,33.74,assessment,Hands-on assessment,4
+S0111,42.36,communication,Call for help; update team on airway,5
+S0111,71.92,epic,check respiratory orders,6
+S0111,111.04,communication,discuss settings with provider,7
+S0111,168.83,assessment,reassess breath sounds,8
+S0111,282.1,communication,hand back to bedside team,9
+S0112,1.83,communication,respiratory hand-off,1
+S0112,6.81,assessment,check respiratory equipment; First look at patient; Hands-on assessment; Check capillary refill,2
+S0112,84.28,epic,check respiratory orders,3
+S0112,92.07,communication,Call for help; discuss settings with provider,4
+S0112,160.76,assessment,reassess breath sounds,5
+S0112,304.71,communication,hand back to bedside team,6
+S0113,2.66,communication,respiratory hand-off,1
+S0113,9.12,assessment,First look at patient,2
+S0113,30.9,vitals,SpO2 and respiratory rate,3
+S0113,32.61,assessment,Hands-on assessment,4
+S0113,40.25,communication,update team on airway; Call for help,5
+S0113,70.0,epic,check respiratory orders,6
+S0113,161.99,assessment,reassess breath sounds,7
+S0113,280.46,communication,hand back to bedside team,8
+S0114,6.34,assessment,check respiratory equipment; First look at patient,1
+S0114,43.89,vitals,SpO2 and respiratory rate,2
+S0114,45.14,comet,COMET risk score: severity of condition,3
+S0114,48.05,assessment,Hands-on assessment,4
+S0114,53.2,communication,update team on airway,5
+S0114,54.71,assessment,Check capillary refill,6
+S0114,69.82,communication,Call for help,7
+S0114,95.99,epic,check respiratory orders,8
+S0114,132.45,communication,discuss settings with provider,9
+S0114,176.97,assessment,reassess breath sounds; Reassess after bolus,10
+S0114,300.84,communication,hand back to bedside team,11
+S0115,2.78,communication,respiratory hand-off,1
+S0115,9.28,assessment,check respiratory equipment; First look at patient,2
+S0115,32.51,vitals,SpO2 and respiratory rate,3
+S0115,34.88,assessment,Hands-on assessment,4
+S0115,42.33,communication,Call for help; update team on airway,5
+S0115,56.12,assessment,Reposition airway,6
+S0115,89.69,epic,check respiratory orders,7
+S0115,124.68,communication,discuss settings with provider,8
+S0115,125.44,assessment,hand; Neuro check (pupils); reassess breath sounds,9
+S0116,1.77,communication,patient hand-off (nursing packet),1
+S0116,3.58,epic,"check orders, meds, labs",2
+S0116,11.17,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0116,55.93,vitals,read vitals,4
+S0116,58.32,comet,COMET risk score: severity of condition,5
+S0116,60.76,assessment,Hands-on assessment; hand; Neuro check (pupils),6
+S0116,72.3,communication,discuss concerns with provider; Call for help,7
+S0116,96.34,vitals,watch vitals trend,8
+S0116,111.45,epic,chart vitals and head-to-toe,9
+S0116,143.99,assessment,get blood for iSTAT,10
+S0116,207.48,vitals,recheck vitals after intervention,11
+S0116,236.2,communication,listen to care plan from provider,12
+S0116,280.63,epic,update charts,13
+S0117,1.39,communication,patient hand-off (nursing packet),1
+S0117,7.02,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0117,40.75,comet,COMET risk score: severity of condition,3
+S0117,41.41,vitals,read vitals,4
+S0117,43.59,assessment,Hands-on assessment; hand; Neuro check (pupils),5
+S0117,57.74,communication,discuss concerns with provider; Call for help,6
+S0117,77.19,vitals,watch vitals trend,7
+S0117,126.55,assessment,get blood for iSTAT,8
+S0117,171.48,vitals,recheck vitals after intervention,9
+S0117,235.4,communication,listen to care plan from provider,10
+S0117,289.91,epic,update charts,11
+S0118,2.99,communication,patient hand-off (nursing packet),1
+S0118,4.0,epic,"check orders, meds, labs",2
+S0118,6.85,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0118,41.93,comet,COMET risk score: severity of condition,4
+S0118,46.16,vitals,read vitals,5
+S0118,47.44,assessment,Hands-on assessment; Check capillary refill,6
+S0118,67.08,communication,discuss concerns with provider; Call for help,7
+S0118,86.76,vitals,watch vitals trend,8
+S0118,117.64,epic,chart vitals and head-to-toe,9
+S0118,136.77,assessment,get blood for iSTAT,10
+S0118,208.9,vitals,recheck vitals after intervention,11
+S0118,265.92,communication,listen to care plan from provider,12
+S0118,268.38,assessment,Reassess after bolus,13
+S0118,310.27,epic,update charts,14
+S0119,1.72,communication,patient hand-off (nursing packet),1
+S0119,6.39,epic,"check orders, meds, labs",2
+S0119,9.02,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0119,34.64,vitals,read vitals,4
+S0119,35.63,assessment,Hands-on assessment,5
+S0119,44.08,communication,discuss concerns with provider; Call for help,6
+S0119,152.26,assessment,get blood for iSTAT,7
+S0119,187.74,vitals,recheck vitals after intervention,8
+S0120,2.22,communication,patient hand-off (nursing packet),1
+S0120,3.02,epic,"check orders, meds, labs",2
+S0120,7.76,assessment,First look at patient,3
+S0120,25.96,comet,COMET risk score: severity of condition,4
+S0120,26.59,vitals,read vitals,5
+S0120,27.62,assessment,Hands-on assessment,6
+S0120,32.21,communication,Call for help; discuss concerns with provider,7
+S0120,61.36,vitals,watch vitals trend,8
+S0120,98.73,epic,chart vitals and head-to-toe,9
+S0120,148.12,assessment,get blood for iSTAT,10
+S0120,254.33,communication,listen to care plan from provider,11
+S0121,1.78,communication,patient hand-off (nursing packet),1
+S0121,5.67,epic,"check orders, meds, labs",2
+S0121,11.63,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0121,51.25,vitals,read vitals,4
+S0121,59.99,assessment,Hands-on assessment; hand; Neuro check (pupils),5
+S0121,71.4,communication,discuss concerns with provider; Call for help,6
+S0121,92.94,vitals,watch vitals trend,7
+S0121,114.56,epic,chart vitals and head-to-toe,8
+S0121,175.32,assessment,get blood for iSTAT,9
+S0121,210.56,vitals,recheck vitals after intervention,10
+S0121,235.99,communication,listen to care plan from provider,11
+S0122,1.43,communication,patient hand-off (nursing packet),1
+S0122,4.15,epic,"check orders, meds, labs",2
+S0122,10.49,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient",3
+S0122,52.93,vitals,read vitals,4
+S0122,56.1,comet,COMET risk score: severity of condition,5
+S0122,59.83,assessment,Hands-on assessment; Check capillary refill,6
+S0122,71.08,communication,discuss concerns with provider; Call for help,7
+S0122,84.64,vitals,watch vitals trend,8
+S0122,131.21,epic,chart vitals and head-to-toe,9
+S0122,145.33,assessment,get blood for iSTAT; Reassess after bolus,10
+S0122,266.06,communication,listen to care plan from provider,11
+S0123,1.61,communication,patient hand-off (nursing packet),1
+S0123,4.55,epic,"check orders, meds, labs",2
+S0123,11.92,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient",3
+S0123,52.34,vitals,read vitals,4
+S0123,52.5,comet,COMET risk score: severity of condition,5
+S0123,56.24,assessment,Hands-on assessment; Check capillary refill,6
+S0123,62.26,communication,discuss concerns with provider; Call for help,7
+S0123,91.56,vitals,watch vitals trend,8
+S0123,117.77,epic,chart vitals and head-to-toe,9
+S0123,153.81,assessment,get blood for iSTAT; Reassess after bolus,10
+S0123,187.94,vitals,recheck vitals after intervention,11
+S0123,263.16,communication,listen to care plan from provider,12
+S0124,2.72,communication,patient hand-off (nursing packet),1
+S0124,7.19,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0124,34.25,comet,COMET risk score: severity of condition,3
+S0124,35.85,vitals,read vitals,4
+S0124,36.42,assessment,Hands-on assessment,5
+S0124,50.26,communication,Call for help; discuss concerns with provider,6
+S0124,70.52,vitals,watch vitals trend,7
+S0124,111.03,epic,chart vitals and head-to-toe,8
+S0124,158.11,assessment,get blood for iSTAT,9
+S0124,176.58,vitals,recheck vitals after intervention,10
+S0124,284.53,epic,update charts,11
+S0125,1.52,communication,respiratory hand-off,1
+S0125,5.42,assessment,check respiratory equipment; First look at patient,2
+S0125,31.95,vitals,SpO2 and respiratory rate,3
+S0125,34.22,assessment,Hands-on assessment,4
+S0125,108.95,communication,Call for help,5
+S0125,171.43,assessment,reassess breath sounds,6
+S0126,6.33,assessment,First look at patient; check respiratory equipment; Hands-on assessment,1
+S0126,31.7,vitals,SpO2 and respiratory rate,2
+S0126,32.63,comet,COMET risk score: severity of condition,3
+S0126,73.17,epic,check respiratory orders,4
+S0126,118.93,communication,discuss settings with provider,5
+S0127,7.91,assessment,check respiratory equipment; First look at patient,1
+S0127,30.71,vitals,SpO2 and respiratory rate,2
+S0127,34.95,comet,COMET risk score: severity of condition,3
+S0127,36.59,assessment,Hands-on assessment,4
+S0127,42.34,communication,update team on airway,5
+S0127,56.46,assessment,Reposition airway; reassess breath sounds,6
+S0127,279.26,communication,hand back to bedside team,7
+S0128,2.06,communication,respiratory hand-off,1
+S0128,6.6,assessment,First look at patient; check respiratory equipment,2
+S0128,38.83,comet,COMET risk score: severity of condition,3
+S0128,39.13,vitals,SpO2 and respiratory rate,4
+S0128,46.65,assessment,Hands-on assessment; hand; Neuro check (pupils),5
+S0128,107.56,epic,check respiratory orders,6
+S0128,138.36,communication,Call for help; hand back to bedside team,7
+S0129,2.33,communication,respiratory hand-off,1
+S0129,7.47,assessment,First look at patient; Hands-on assessment,2
+S0129,32.67,vitals,SpO2 and respiratory rate,3
+S0129,34.31,comet,COMET risk score: severity of condition,4
+S0129,47.95,communication,Call for help; discuss settings with provider,5
+S0129,162.74,assessment,reassess breath sounds,6
+S0129,267.82,communication,hand back to bedside team,7
+S0130,1.61,communication,patient hand-off (nursing packet),1
+S0130,4.11,epic,"check orders, meds, labs",2
+S0130,8.06,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0130,41.46,vitals,read vitals,4
+S0130,41.98,assessment,Hands-on assessment,5
+S0130,56.55,communication,Call for help; discuss concerns with provider,6
+S0130,72.68,vitals,watch vitals trend,7
+S0130,107.28,epic,chart vitals and head-to-toe,8
+S0130,131.67,assessment,get blood for iSTAT; Position patient,9
+S0130,193.65,vitals,recheck vitals after intervention,10
+S0130,215.64,communication,listen to care plan from provider,11
+S0130,268.65,epic,update charts,12
+S0131,6.99,epic,"check orders, meds, labs",1
+S0131,9.43,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0131,41.55,vitals,read vitals,3
+S0131,41.63,assessment,Hands-on assessment,4
+S0131,44.67,comet,COMET risk score: severity of condition,5
+S0131,59.81,communication,discuss concerns with provider; Call for help,6
+S0131,78.57,assessment,Position patient,7
+S0131,80.65,vitals,watch vitals trend; recheck vitals after intervention,8
+S0131,224.0,communication,listen to care plan from provider,9
+S0131,255.78,epic,update charts,10
+S0132,1.57,communication,patient hand-off (nursing packet),1
+S0132,5.95,epic,"check orders, meds, labs",2
+S0132,8.75,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0132,35.84,vitals,read vitals,4
+S0132,47.19,assessment,Hands-on assessment,5
+S0132,53.78,communication,Call for help; discuss concerns with provider,6
+S0132,54.85,assessment,hand; Neuro check (pupils),7
+S0132,69.79,vitals,watch vitals trend,8
+S0132,109.77,epic,chart vitals and head-to-toe,9
+S0132,159.51,assessment,get blood for iSTAT,10
+S0132,183.6,vitals,recheck vitals after intervention,11
+S0132,230.28,communication,listen to care plan from provider,12
+S0133,1.39,communication,patient hand-off (nursing packet),1
+S0133,5.95,epic,"check orders, meds, labs",2
+S0133,7.87,assessment,First look at patient,3
+S0133,43.38,vitals,read vitals,4
+S0133,45.61,comet,COMET risk score: severity of condition,5
+S0133,48.2,assessment,Hands-on assessment,6
+S0133,59.93,communication,discuss concerns with provider,7
+S0133,72.98,assessment,Reposition airway,8
+S0133,82.29,vitals,watch vitals trend,9
+S0133,114.94,epic,chart vitals and head-to-toe,10
+S0133,132.73,assessment,get blood for iSTAT; hand; Neuro check (pupils),11
+S0133,192.3,vitals,recheck vitals after intervention,12
+S0133,251.81,communication,listen to care plan from provider,13
+S0133,279.42,epic,update charts,14
+S0134,5.95,epic,"check orders, meds, labs",1
+S0134,6.57,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0134,46.54,comet,COMET risk score: severity of condition,3
+S0134,50.58,vitals,read vitals,4
+S0134,56.25,assessment,Hands-on assessment; hand,5
+S0134,65.75,communication,discuss concerns with provider,6
+S0134,65.84,assessment,Neuro check (pupils),7
+S0134,89.51,vitals,watch vitals trend,8
+S0134,105.23,communication,Call for help,9
+S0134,119.89,epic,chart vitals and head-to-toe,10
+S0134,167.3,assessment,get blood for iSTAT,11
+S0134,201.61,vitals,recheck vitals after intervention,12
+S0134,230.96,communication,listen to care plan from provider,13
+S0134,276.89,epic,update charts,14
+S0135,3.19,epic,"check orders, meds, labs",1
+S0135,9.34,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient",2
+S0135,47.07,vitals,read vitals,3
+S0135,54.89,assessment,Hands-on assessment; hand; Neuro check (pupils),4
+S0135,63.81,communication,discuss concerns with provider,5
+S0135,79.68,vitals,watch vitals trend,6
+S0135,90.38,communication,Call for help,7
+S0135,125.01,epic,chart vitals and head-to-toe,8
+S0135,148.91,assessment,get blood for iSTAT,9
+S0135,179.88,vitals,recheck vitals after intervention,10
+S0135,285.01,epic,update charts,11
+S0136,1.57,communication,patient hand-off (nursing packet),1
+S0136,6.33,epic,"check orders, meds, labs",2
+S0136,7.6,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0136,34.32,vitals,read vitals,4
+S0136,34.34,assessment,Hands-on assessment,5
+S0136,56.01,communication,discuss concerns with provider; Call for help,6
+S0136,74.45,vitals,watch vitals trend,7
+S0136,97.12,epic,chart vitals and head-to-toe,8
+S0136,137.42,assessment,get blood for iSTAT,9
+S0136,288.81,epic,update charts,10
+S0137,2.41,communication,patient hand-off (nursing packet),1
+S0137,6.6,epic,"check orders, meds, labs",2
+S0137,8.64,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",3
+S0137,39.91,vitals,read vitals; watch vitals trend,4
+S0137,110.85,epic,chart vitals and head-to-toe,5
+S0137,114.62,assessment,Position patient; get blood for iSTAT,6
+S0137,194.47,vitals,recheck vitals after intervention,7
+S0137,226.62,communication,listen to care plan from provider,8
+S0137,265.77,epic,update charts,9
+S0138,2.81,communication,patient hand-off (nursing packet),1
+S0138,3.62,epic,"check orders, meds, labs",2
+S0138,7.68,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",3
+S0138,30.06,vitals,read vitals,4
+S0138,61.92,communication,Call for help,5
+S0138,62.39,vitals,watch vitals trend,6
+S0138,82.88,epic,chart vitals and head-to-toe,7
+S0138,125.82,assessment,get blood for iSTAT,8
+S0138,164.74,vitals,recheck vitals after intervention,9
+S0138,220.77,communication,listen to care plan from provider,10
+S0138,263.89,epic,update charts,11
+S0139,1.57,communication,patient hand-off (nursing packet),1
+S0139,4.25,epic,"check orders, meds, labs",2
+S0139,10.07,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient",3
+S0139,31.95,vitals,read vitals,4
+S0139,34.42,assessment,Hands-on assessment,5
+S0139,51.08,communication,discuss concerns with provider; Call for help,6
+S0139,66.78,vitals,watch vitals trend,7
+S0139,100.48,assessment,Position patient,8
+S0139,105.65,epic,chart vitals and head-to-toe,9
+S0139,145.3,assessment,get blood for iSTAT,10
+S0139,180.87,vitals,recheck vitals after intervention,11
+S0139,211.7,communication,listen to care plan from provider,12
+S0139,255.65,epic,update charts,13
+S0140,1.5,communication,patient hand-off (nursing packet),1
+S0140,4.65,epic,"check orders, meds, labs",2
+S0140,7.09,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0140,25.76,vitals,read vitals,4
+S0140,39.72,assessment,Hands-on assessment,5
+S0140,69.11,vitals,watch vitals trend,6
+S0140,92.97,epic,chart vitals and head-to-toe,7
+S0140,161.3,vitals,recheck vitals after intervention,8
+S0140,247.37,communication,listen to care plan from provider,9
+S0140,280.34,epic,update charts,10
+S0141,2.62,communication,patient hand-off (nursing packet),1
+S0141,6.23,epic,"check orders, meds, labs",2
+S0141,8.63,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0141,28.1,vitals,read vitals,4
+S0141,36.11,assessment,Hands-on assessment,5
+S0141,43.59,communication,Call for help; discuss concerns with provider,6
+S0141,63.16,vitals,watch vitals trend,7
+S0141,136.24,assessment,get blood for iSTAT,8
+S0141,177.4,vitals,recheck vitals after intervention,9
+S0141,241.13,communication,listen to care plan from provider,10
+S0142,2.37,communication,patient hand-off (nursing packet),1
+S0142,10.53,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient",2
+S0142,44.9,comet,COMET risk score: severity of condition,3
+S0142,47.7,vitals,read vitals,4
+S0142,56.96,communication,discuss concerns with provider,5
+S0142,61.05,assessment,Hands-on assessment; Check capillary refill,6
+S0142,112.06,communication,Call for help,7
+S0142,122.25,epic,chart vitals and head-to-toe,8
+S0142,133.16,assessment,get blood for iSTAT,9
+S0142,197.11,vitals,recheck vitals after intervention,10
+S0143,3.85,epic,"check orders, meds, labs",1
+S0143,8.44,assessment,First look at patient,2
+S0143,30.36,vitals,read vitals,3
+S0143,32.81,assessment,Hands-on assessment,4
+S0143,72.79,vitals,watch vitals trend,5
+S0143,83.21,epic,chart vitals and head-to-toe,6
+S0143,162.93,vitals,recheck vitals after intervention,7
+S0143,232.36,communication,listen to care plan from provider,8
+S0143,283.64,epic,update charts,9
+S0144,11.2,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient; Hands-on assessment",1
+S0144,58.45,communication,discuss concerns with provider,2
+S0144,72.26,vitals,watch vitals trend,3
+S0144,104.74,communication,Call for help,4
+S0144,114.87,epic,chart vitals and head-to-toe,5
+S0144,127.33,assessment,Position patient; get blood for iSTAT,6
+S0144,173.7,vitals,recheck vitals after intervention,7
+S0144,227.96,communication,listen to care plan from provider,8
+S0144,268.84,epic,update charts,9
+S0145,2.76,communication,patient hand-off (nursing packet),1
+S0145,8.97,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0145,34.8,vitals,read vitals,3
+S0145,37.21,assessment,Hands-on assessment,4
+S0145,76.94,vitals,watch vitals trend,5
+S0145,92.65,epic,chart vitals and head-to-toe,6
+S0145,92.89,assessment,Position patient,7
+S0145,262.75,epic,update charts,8
+S0146,2.59,communication,patient hand-off (nursing packet),1
+S0146,4.1,epic,"check orders, meds, labs",2
+S0146,8.84,assessment,First look at patient,3
+S0146,42.85,vitals,read vitals,4
+S0146,52.52,assessment,Hands-on assessment; Check capillary refill,5
+S0146,79.07,vitals,watch vitals trend,6
+S0146,105.88,epic,chart vitals and head-to-toe,7
+S0146,151.47,assessment,get blood for iSTAT,8
+S0146,184.7,vitals,recheck vitals after intervention,9
+S0146,276.53,assessment,Reassess after bolus,10
+S0147,1.96,communication,patient hand-off (nursing packet),1
+S0147,5.32,epic,"check orders, meds, labs",2
+S0147,10.24,assessment,First look at patient,3
+S0147,48.93,vitals,read vitals,4
+S0147,59.62,assessment,Hands-on assessment,5
+S0147,60.25,communication,discuss concerns with provider,6
+S0147,65.59,assessment,hand; Neuro check (pupils),7
+S0147,90.92,vitals,watch vitals trend,8
+S0147,119.95,epic,chart vitals and head-to-toe,9
+S0147,171.28,assessment,get blood for iSTAT,10
+S0147,194.52,vitals,recheck vitals after intervention,11
+S0147,249.02,communication,listen to care plan from provider,12
+S0147,279.65,epic,update charts,13
+S0148,2.51,communication,patient hand-off (nursing packet),1
+S0148,4.45,epic,"check orders, meds, labs",2
+S0148,6.55,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0148,32.83,vitals,read vitals,4
+S0148,32.96,comet,COMET risk score: severity of condition,5
+S0148,36.22,assessment,Hands-on assessment,6
+S0148,50.13,communication,discuss concerns with provider,7
+S0148,63.59,vitals,watch vitals trend,8
+S0148,72.53,communication,Call for help,9
+S0148,89.51,epic,chart vitals and head-to-toe,10
+S0148,133.18,assessment,get blood for iSTAT,11
+S0148,183.43,vitals,recheck vitals after intervention,12
+S0148,247.89,communication,listen to care plan from provider,13
+S0148,276.89,epic,update charts,14
+S0149,2.81,communication,patient hand-off (nursing packet),1
+S0149,10.71,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",2
+S0149,41.17,comet,COMET risk score: severity of condition,3
+S0149,73.88,assessment,Reposition airway,4
+S0149,93.78,epic,chart vitals and head-to-toe,5
+S0149,165.18,assessment,hand; Neuro check (pupils),6
+S0149,185.62,vitals,recheck vitals after intervention,7
+S0149,247.44,communication,listen to care plan from provider,8
+S0149,277.63,epic,update charts,9
+S0150,6.8,epic,"check orders, meds, labs",1
+S0150,11.03,assessment,First look at patient,2
+S0150,44.52,vitals,read vitals,3
+S0150,45.61,comet,COMET risk score: severity of condition,4
+S0150,62.55,communication,discuss concerns with provider,5
+S0150,77.03,assessment,Hands-on assessment; Check capillary refill,6
+S0150,107.96,communication,Call for help,7
+S0150,117.19,epic,chart vitals and head-to-toe,8
+S0150,129.87,assessment,get blood for iSTAT,9
+S0150,271.51,communication,listen to care plan from provider,10
+S0150,312.92,epic,update charts,11
+S0151,4.39,epic,"check orders, meds, labs",1
+S0151,6.9,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0151,31.42,comet,COMET risk score: severity of condition,3
+S0151,35.99,assessment,Hands-on assessment,4
+S0151,45.31,communication,Call for help; discuss concerns with provider,5
+S0151,75.28,vitals,watch vitals trend,6
+S0151,91.5,epic,chart vitals and head-to-toe,7
+S0151,110.16,assessment,Position patient; get blood for iSTAT,8
+S0151,178.55,vitals,recheck vitals after intervention,9
+S0151,216.83,communication,listen to care plan from provider,10
+S0151,255.25,epic,update charts,11
+S0152,1.22,communication,patient hand-off (nursing packet),1
+S0152,6.9,epic,"check orders, meds, labs",2
+S0152,6.93,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",3
+S0152,33.48,vitals,read vitals,4
+S0152,48.49,communication,discuss concerns with provider; Call for help,5
+S0152,72.27,vitals,watch vitals trend,6
+S0152,90.17,epic,chart vitals and head-to-toe,7
+S0152,97.34,assessment,Position patient; get blood for iSTAT,8
+S0152,171.04,vitals,recheck vitals after intervention,9
+S0152,224.3,communication,listen to care plan from provider,10
+S0152,266.74,epic,update charts,11
+S0153,1.2,communication,patient hand-off (nursing packet),1
+S0153,5.49,epic,"check orders, meds, labs",2
+S0153,10.77,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0153,37.37,vitals,read vitals,4
+S0153,44.89,assessment,Hands-on assessment; Check capillary refill,5
+S0153,59.03,communication,Call for help; discuss concerns with provider,6
+S0153,75.55,vitals,watch vitals trend,7
+S0153,113.16,epic,chart vitals and head-to-toe,8
+S0153,180.23,vitals,recheck vitals after intervention,9
+S0153,189.88,assessment,Reassess after bolus,10
+S0153,264.5,communication,listen to care plan from provider,11
+S0153,308.86,epic,update charts,12
+S0154,1.32,communication,patient hand-off (nursing packet),1
+S0154,10.49,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0154,52.98,vitals,read vitals,3
+S0154,56.78,assessment,Hands-on assessment; Check capillary refill,4
+S0154,72.05,communication,discuss concerns with provider,5
+S0154,83.54,vitals,watch vitals trend,6
+S0154,119.98,epic,chart vitals and head-to-toe,7
+S0154,169.44,assessment,get blood for iSTAT,8
+S0154,206.92,vitals,recheck vitals after intervention,9
+S0154,275.62,communication,listen to care plan from provider,10
+S0154,317.35,epic,update charts,11
+S0155,3.4,epic,"check orders, meds, labs",1
+S0155,6.21,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0155,39.57,vitals,read vitals,3
+S0155,42.86,assessment,Hands-on assessment,4
+S0155,62.47,communication,discuss concerns with provider,5
+S0155,75.14,vitals,watch vitals trend,6
+S0155,101.46,assessment,Position patient,7
+S0155,118.42,epic,chart vitals and head-to-toe,8
+S0155,136.48,assessment,get blood for iSTAT,9
+S0155,190.69,vitals,recheck vitals after intervention,10
+S0155,218.57,communication,listen to care plan from provider,11
+S0156,2.76,communication,patient hand-off (nursing packet),1
+S0156,6.86,epic,"check orders, meds, labs",2
+S0156,9.09,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",3
+S0156,50.72,vitals,read vitals,4
+S0156,51.75,assessment,hand; Neuro check (pupils),5
+S0156,62.39,communication,discuss concerns with provider; Call for help,6
+S0156,82.33,vitals,watch vitals trend,7
+S0156,121.82,epic,chart vitals and head-to-toe,8
+S0156,154.13,assessment,get blood for iSTAT,9
+S0156,194.41,vitals,recheck vitals after intervention,10
+S0156,244.8,communication,listen to care plan from provider,11
+S0156,285.76,epic,update charts,12
+S0157,2.22,communication,patient hand-off (nursing packet),1
+S0157,6.96,epic,"check orders, meds, labs",2
+S0157,7.58,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0157,46.78,vitals,read vitals,4
+S0157,47.95,assessment,hand; Hands-on assessment; Neuro check (pupils),5
+S0157,58.9,communication,Call for help; discuss concerns with provider,6
+S0157,90.67,vitals,watch vitals trend,7
+S0157,101.99,epic,chart vitals and head-to-toe,8
+S0157,162.46,assessment,get blood for iSTAT,9
+S0157,195.24,vitals,recheck vitals after intervention,10
+S0157,250.28,communication,listen to care plan from provider,11
+S0157,275.68,epic,update charts,12
+S0158,2.99,communication,patient hand-off (nursing packet),1
+S0158,5.45,epic,"check orders, meds, labs",2
+S0158,10.19,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0158,46.95,vitals,read vitals,4
+S0158,48.46,assessment,Hands-on assessment,5
+S0158,55.98,communication,Call for help,6
+S0158,58.73,assessment,Check capillary refill,7
+S0158,66.58,communication,discuss concerns with provider,8
+S0158,83.43,vitals,watch vitals trend,9
+S0158,125.81,epic,chart vitals and head-to-toe,10
+S0158,131.77,assessment,Reassess after bolus; get blood for iSTAT,11
+S0158,189.96,vitals,recheck vitals after intervention,12
+S0158,284.51,communication,listen to care plan from provider,13
+S0158,306.12,epic,update charts,14
+S0159,1.59,communication,patient hand-off (nursing packet),1
+S0159,5.42,epic,"check orders, meds, labs",2
+S0159,9.28,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0159,35.05,vitals,read vitals,4
+S0159,35.62,assessment,Hands-on assessment,5
+S0159,43.08,communication,Call for help; discuss concerns with provider,6
+S0159,71.33,vitals,watch vitals trend,7
+S0159,94.19,epic,chart vitals and head-to-toe,8
+S0159,122.51,assessment,get blood for iSTAT,9
+S0159,177.37,vitals,recheck vitals after intervention,10
+S0159,230.24,communication,listen to care plan from provider,11
+S0159,288.48,epic,update charts,12
+S0160,2.93,communication,patient hand-off (nursing packet),1
+S0160,6.14,epic,"check orders, meds, labs",2
+S0160,6.81,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0160,52.83,vitals,read vitals,4
+S0160,56.87,assessment,Hands-on assessment,5
+S0160,57.39,comet,COMET risk score: severity of condition,6
+S0160,61.13,assessment,hand; Neuro check (pupils),7
+S0160,65.89,communication,Call for help; discuss concerns with provider,8
+S0160,89.54,vitals,watch vitals trend,9
+S0160,118.13,epic,chart vitals and head-to-toe,10
+S0160,142.39,assessment,get blood for iSTAT,11
+S0160,197.89,vitals,recheck vitals after intervention,12
+S0160,244.13,communication,listen to care plan from provider,13
+S0160,287.08,epic,update charts,14
+S0161,1.8,communication,patient hand-off (nursing packet),1
+S0161,6.32,epic,"check orders, meds, labs",2
+S0161,10.98,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp; Hands-on assessment",3
+S0161,30.91,vitals,read vitals,4
+S0161,46.96,communication,discuss concerns with provider; Call for help,5
+S0161,66.08,vitals,watch vitals trend,6
+S0161,92.97,assessment,Position patient,7
+S0161,105.19,epic,chart vitals and head-to-toe,8
+S0161,141.35,assessment,get blood for iSTAT,9
+S0161,174.45,vitals,recheck vitals after intervention,10
+S0161,219.14,communication,listen to care plan from provider,11
+S0161,267.81,epic,update charts,12
+S0162,2.81,communication,patient hand-off (nursing packet),1
+S0162,6.73,epic,"check orders, meds, labs",2
+S0162,8.03,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0162,43.2,vitals,read vitals,4
+S0162,45.92,assessment,Hands-on assessment,5
+S0162,46.15,comet,COMET risk score: severity of condition,6
+S0162,57.87,communication,discuss concerns with provider; Call for help,7
+S0162,78.03,vitals,watch vitals trend,8
+S0162,116.88,assessment,Position patient,9
+S0162,119.61,epic,chart vitals and head-to-toe,10
+S0162,130.61,assessment,get blood for iSTAT,11
+S0162,203.63,vitals,recheck vitals after intervention,12
+S0162,218.67,communication,listen to care plan from provider,13
+S0162,265.26,epic,update charts,14
+S0163,1.27,communication,patient hand-off (nursing packet),1
+S0163,4.91,epic,"check orders, meds, labs",2
+S0163,7.82,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0163,42.92,vitals,read vitals,4
+S0163,44.44,comet,COMET risk score: severity of condition,5
+S0163,50.36,assessment,Hands-on assessment,6
+S0163,63.87,communication,Call for help; discuss concerns with provider,7
+S0163,85.66,vitals,watch vitals trend,8
+S0163,102.95,epic,chart vitals and head-to-toe,9
+S0163,161.24,assessment,get blood for iSTAT,10
+S0163,183.91,vitals,recheck vitals after intervention,11
+S0163,186.74,assessment,Reassess after bolus,12
+S0163,277.33,communication,listen to care plan from provider,13
+S0163,316.13,epic,update charts,14
+S0164,2.56,communication,patient hand-off (nursing packet),1
+S0164,5.73,epic,"check orders, meds, labs",2
+S0164,6.74,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0164,45.54,vitals,read vitals,4
+S0164,63.15,communication,discuss concerns with provider; Call for help,5
+S0164,121.35,epic,chart vitals and head-to-toe,6
+S0164,160.09,assessment,get blood for iSTAT,7
+S0164,203.76,vitals,recheck vitals after intervention,8
+S0164,211.31,assessment,Position patient,9
+S0164,213.66,communication,listen to care plan from provider,10
+S0164,268.12,epic,update charts,11
+S0165,4.9,epic,"check orders, meds, labs",1
+S0165,11.47,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0165,44.5,comet,COMET risk score: severity of condition,3
+S0165,45.66,assessment,Hands-on assessment,4
+S0165,45.95,vitals,read vitals,5
+S0165,54.57,communication,Call for help; discuss concerns with provider,6
+S0165,81.2,vitals,watch vitals trend,7
+S0165,96.25,epic,chart vitals and head-to-toe,8
+S0165,97.08,assessment,Position patient; get blood for iSTAT,9
+S0165,206.14,vitals,recheck vitals after intervention,10
+S0165,228.81,communication,listen to care plan from provider,11
+S0165,255.58,epic,update charts,12
+S0166,2.35,communication,patient hand-off (nursing packet),1
+S0166,3.86,epic,"check orders, meds, labs",2
+S0166,10.2,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0166,32.04,vitals,read vitals,4
+S0166,36.9,assessment,Hands-on assessment,5
+S0166,50.72,communication,discuss concerns with provider; Call for help,6
+S0166,75.77,vitals,watch vitals trend,7
+S0166,107.48,epic,chart vitals and head-to-toe,8
+S0166,128.49,assessment,get blood for iSTAT,9
+S0166,183.61,vitals,recheck vitals after intervention,10
+S0166,244.48,communication,listen to care plan from provider,11
+S0166,281.41,epic,update charts,12
+S0167,1.25,communication,patient hand-off (nursing packet),1
+S0167,10.8,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient",2
+S0167,48.59,vitals,read vitals,3
+S0167,51.22,assessment,Hands-on assessment; hand; Neuro check (pupils),4
+S0167,68.55,communication,discuss concerns with provider; Call for help,5
+S0167,87.53,vitals,watch vitals trend,6
+S0167,107.44,epic,chart vitals and head-to-toe,7
+S0167,135.9,assessment,get blood for iSTAT,8
+S0167,186.28,vitals,recheck vitals after intervention,9
+S0167,238.02,communication,listen to care plan from provider,10
+S0168,4.82,epic,"check orders, meds, labs",1
+S0168,10.19,assessment,"physical exam: pulse, breath, cap refill, temp; First look at patient",2
+S0168,47.23,comet,COMET risk score: severity of condition,3
+S0168,54.07,assessment,Hands-on assessment,4
+S0168,82.83,vitals,watch vitals trend,5
+S0168,91.03,communication,Call for help,6
+S0168,151.79,assessment,get blood for iSTAT,7
+S0169,1.33,communication,patient hand-off (nursing packet),1
+S0169,5.17,epic,"check orders, meds, labs",2
+S0169,7.83,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",3
+S0169,38.81,vitals,read vitals,4
+S0169,43.65,assessment,Hands-on assessment,5
+S0169,50.98,communication,discuss concerns with provider; Call for help,6
+S0169,78.57,vitals,watch vitals trend,7
+S0169,131.46,assessment,get blood for iSTAT,8
+S0169,177.83,vitals,recheck vitals after intervention,9
+S0169,217.6,assessment,Reassess after bolus,10
+S0169,263.84,communication,listen to care plan from provider,11
+S0169,309.86,epic,update charts,12
+S0170,9.82,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",1
+S0170,31.54,vitals,read vitals,2
+S0170,34.35,assessment,Hands-on assessment,3
+S0170,43.87,communication,discuss concerns with provider,4
+S0170,68.26,vitals,watch vitals trend,5
+S0170,104.47,epic,chart vitals and head-to-toe,6
+S0170,124.78,assessment,get blood for iSTAT,7
+S0170,233.23,communication,listen to care plan from provider,8
+S0170,280.83,epic,update charts,9
+S0171,1.42,communication,patient hand-off (nursing packet),1
+S0171,9.18,assessment,"First look at patient; physical exam: pulse, breath, cap refill, temp",2
+S0171,39.41,vitals,read vitals,3
+S0171,45.7,assessment,Hands-on assessment,4
+S0171,59.15,communication,discuss concerns with provider; Call for help,5
+S0171,84.53,vitals,watch vitals trend,6
+S0171,128.11,assessment,get blood for iSTAT,7
+S0171,198.77,vitals,recheck vitals after intervention,8
+S0171,269.59,epic,update charts,9
+S0172,2.99,communication,patient hand-off,1
+S0172,7.98,epic,"check orders, meds, labs; review trends and notes",2
+S0172,14.39,assessment,First look at patient,3
+S0172,50.47,vitals,review vitals trend,4
+S0172,54.58,assessment,Hands-on assessment; hand; Neuro check (pupils),5
+S0172,77.84,vitals,re-read vitals,6
+S0172,92.57,communication,Call for help,7
+S0172,101.39,vitals,re-read vitals,8
+S0172,139.94,assessment,reassess response,9
+S0172,168.01,epic,new orders and labs,10
+S0173,2.99,communication,patient hand-off,1
+S0173,8.23,epic,"check orders, meds, labs",2
+S0173,15.13,assessment,First look at patient; physical exam,3
+S0173,53.14,vitals,review vitals trend,4
+S0173,57.14,assessment,Hands-on assessment; hand; Neuro check (pupils),5
+S0173,72.56,communication,discuss concerns with team; Call for help,6
+S0173,120.56,assessment,reassess response,7
+S0173,144.76,vitals,re-read vitals,8
+S0173,188.27,epic,new orders and labs,9
+S0173,282.62,communication,share care plan,10
+S0174,2.96,communication,patient hand-off,1
+S0174,6.22,epic,"check orders, meds, labs; review trends and notes",2
+S0174,17.59,assessment,First look at patient; physical exam,3
+S0174,42.44,comet,COMET risk score: severity of condition,4
+S0174,44.85,vitals,re-read vitals,5
+S0174,46.39,assessment,Hands-on assessment,6
+S0174,57.11,communication,discuss concerns with team,7
+S0174,58.55,assessment,Check capillary refill,8
+S0174,85.79,communication,Call for help,9
+S0174,110.51,vitals,re-read vitals,10
+S0174,140.64,assessment,reassess response,11
+S0174,174.36,epic,new orders and labs,12
+S0174,225.61,assessment,Reassess after bolus,13
+S0174,300.32,communication,share care plan,14
+S0175,1.13,communication,patient hand-off,1
+S0175,5.6,epic,"check orders, meds, labs",2
+S0175,14.28,assessment,First look at patient,3
+S0175,14.88,epic,review trends and notes,4
+S0175,22.31,assessment,physical exam,5
+S0175,38.71,comet,COMET risk score: severity of condition,6
+S0175,39.13,assessment,Hands-on assessment,7
+S0175,41.33,vitals,review vitals trend; re-read vitals,8
+S0175,58.01,communication,Call for help; discuss concerns with team,9
+S0175,65.25,vitals,re-read vitals,10
+S0175,129.57,assessment,reassess response,11
+S0175,179.21,epic,new orders and labs,12
+S0176,1.59,communication,patient hand-off,1
+S0176,6.56,epic,"check orders, meds, labs",2
+S0176,14.94,assessment,First look at patient; physical exam,3
+S0176,44.25,comet,COMET risk score: severity of condition,4
+S0176,52.39,vitals,review vitals trend,5
+S0176,59.22,assessment,Hands-on assessment,6
+S0176,64.52,communication,discuss concerns with team; Call for help,7
+S0176,128.11,vitals,re-read vitals,8
+S0176,258.67,assessment,Position patient,9
+S0176,259.2,communication,share care plan,10
+S0177,2.78,communication,patient hand-off,1
+S0177,10.73,epic,review trends and notes,2
+S0177,16.49,assessment,First look at patient,3
+S0177,44.69,vitals,review vitals trend,4
+S0177,46.45,assessment,Hands-on assessment; Check capillary refill,5
+S0177,53.64,communication,discuss concerns with team; Call for help,6
+S0177,108.0,vitals,re-read vitals,7
+S0177,129.43,assessment,reassess response,8
+S0177,144.06,vitals,re-read vitals,9
+S0177,170.81,epic,new orders and labs,10
+S0177,314.57,communication,share care plan,11
+S0178,1.14,communication,patient hand-off,1
+S0178,4.92,epic,"check orders, meds, labs",2
+S0178,15.35,assessment,First look at patient,3
+S0178,15.77,epic,review trends and notes,4
+S0178,21.2,assessment,physical exam,5
+S0178,41.52,comet,COMET risk score: severity of condition,6
+S0178,49.73,assessment,Hands-on assessment,7
+S0178,52.04,vitals,re-read vitals,8
+S0178,61.01,communication,discuss concerns with team; Call for help,9
+S0178,88.58,vitals,re-read vitals,10
+S0178,166.61,epic,new orders and labs,11
+S0178,276.73,communication,share care plan,12

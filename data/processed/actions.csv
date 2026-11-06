@@ -1,0 +1,1099 @@
+session_id,scenario_id,action_id,label,competency,order,weight,target_sec,t_abs,t_rel,expert_rel,ghost_delta,status,points
+REF-SC01,SC01,assess_patient,Hands-on assessment,REC,1,15,20,44.66,4.6,4.6,0.0,on_time,15.0
+REF-SC01,SC01,call_help,Call for help,COM,2,15,35,52.94,12.9,12.9,0.0,on_time,15.0
+REF-SC01,SC01,position_airway,Reposition airway,AIR,3,15,45,58.46,18.4,18.4,0.0,on_time,15.0
+REF-SC01,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,65.82,25.8,25.8,0.0,on_time,25.0
+REF-SC01,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,73.18,33.1,33.1,0.0,on_time,15.0
+REF-SC01,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,104.46,64.4,64.4,0.0,on_time,15.0
+REF-SC02,SC02,assess_patient,Hands-on assessment,REC,1,10,15,36.34,3.7,3.7,0.0,on_time,10.0
+REF-SC02,SC02,note_time,Note seizure start time,COM,2,10,25,40.02,7.4,7.4,0.0,on_time,10.0
+REF-SC02,SC02,call_help,Call for help,COM,3,15,35,43.7,11.0,11.0,0.0,on_time,15.0
+REF-SC02,SC02,apply_o2,Apply oxygen,AIR,4,15,60,54.74,22.1,22.1,0.0,on_time,15.0
+REF-SC02,SC02,suction_airway,Suction airway,AIR,5,15,90,69.46,36.8,36.8,0.0,on_time,15.0
+REF-SC02,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,101.66,69.0,69.0,0.0,on_time,35.0
+REF-SC03,SC03,assess_patient,Hands-on assessment,REC,1,10,20,38.7,5.5,5.5,0.0,on_time,10.0
+REF-SC03,SC03,cap_refill,Check capillary refill,REC,2,15,35,44.22,11.0,11.0,0.0,on_time,15.0
+REF-SC03,SC03,call_help,Call for help,COM,3,15,45,49.74,16.6,16.6,0.0,on_time,15.0
+REF-SC03,SC03,program_pump,Program IV pump,EQP,4,20,100,74.58,41.4,41.4,0.0,on_time,20.0
+REF-SC03,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,83.78,50.6,50.6,0.0,on_time,25.0
+REF-SC03,SC03,reassess,Reassess after bolus,REC,6,15,200,134.38,101.2,101.2,0.0,on_time,15.0
+REF-SC04,SC04,assess_patient,Hands-on assessment,REC,1,10,15,29.75,3.7,3.7,0.0,on_time,10.0
+REF-SC04,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,34.35,8.3,8.3,0.0,on_time,15.0
+REF-SC04,SC04,call_help,Call for help,COM,3,15,40,39.87,13.8,13.8,0.0,on_time,15.0
+REF-SC04,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,53.67,27.6,27.6,0.0,on_time,35.0
+REF-SC04,SC04,apply_o2,Apply oxygen,AIR,5,15,90,62.87,36.8,36.8,0.0,on_time,15.0
+REF-SC04,SC04,position_patient,Position patient,AIR,6,10,110,72.07,46.0,46.0,0.0,on_time,10.0
+REF-SC05,SC05,assess_patient,Hands-on assessment,REC,1,10,20,48.26,5.5,5.5,0.0,on_time,10.0
+REF-SC05,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,53.78,11.0,11.0,0.0,on_time,15.0
+REF-SC05,SC05,call_help,Call for help,COM,3,15,40,57.46,14.7,14.7,0.0,on_time,15.0
+REF-SC05,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,62.98,20.2,20.2,0.0,on_time,15.0
+REF-SC05,SC05,vent_support,Start ventilatory support,AIR,5,30,80,74.94,32.2,32.2,0.0,on_time,30.0
+REF-SC05,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,97.94,55.2,55.2,0.0,on_time,15.0
+S0001,SC01,assess_patient,Hands-on assessment,REC,1,15,20,59.41,15.8,4.6,11.2,on_time,15.0
+S0001,SC01,call_help,Call for help,COM,2,15,35,,,12.9,,missed,0.0
+S0001,SC01,position_airway,Reposition airway,AIR,3,15,45,,,18.4,,missed,0.0
+S0001,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,134.47,90.9,25.8,65.1,late,12.5
+S0001,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,108.16,64.6,33.1,31.5,on_time,15.0
+S0001,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,214.3,170.7,64.4,106.3,late,7.5
+S0002,SC01,assess_patient,Hands-on assessment,REC,1,15,20,47.97,12.6,4.6,8.0,on_time,15.0
+S0002,SC01,call_help,Call for help,COM,2,15,35,62.75,27.4,12.9,14.5,on_time,15.0
+S0002,SC01,position_airway,Reposition airway,AIR,3,15,45,77.18,41.8,18.4,23.4,on_time,15.0
+S0002,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,105.88,70.5,25.8,44.7,late,12.5
+S0002,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,135.42,100.0,33.1,66.9,late,7.5
+S0002,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,230.97,195.6,64.4,131.2,late,7.5
+S0003,SC01,assess_patient,Hands-on assessment,REC,1,15,20,40.83,10.8,4.6,6.2,on_time,15.0
+S0003,SC01,call_help,Call for help,COM,2,15,35,45.17,15.1,12.9,2.2,on_time,15.0
+S0003,SC01,position_airway,Reposition airway,AIR,3,15,45,72.36,42.3,18.4,23.9,on_time,15.0
+S0003,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,75.16,45.1,25.8,19.3,on_time,25.0
+S0003,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,69.97,39.9,33.1,6.8,on_time,15.0
+S0003,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,151.08,121.0,64.4,56.6,on_time,15.0
+S0004,SC04,assess_patient,Hands-on assessment,REC,1,10,15,45.66,11.7,3.7,8.0,on_time,10.0
+S0004,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,51.06,17.1,8.3,8.8,on_time,15.0
+S0004,SC04,call_help,Call for help,COM,3,15,40,71.55,37.6,13.8,23.8,on_time,15.0
+S0004,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,94.78,60.8,27.6,33.2,on_time,35.0
+S0004,SC04,apply_o2,Apply oxygen,AIR,5,15,90,,,36.8,,missed,0.0
+S0004,SC04,position_patient,Position patient,AIR,6,10,110,,,46.0,,missed,0.0
+S0005,SC02,assess_patient,Hands-on assessment,REC,1,10,15,28.75,7.4,3.7,3.7,on_time,10.0
+S0005,SC02,note_time,Note seizure start time,COM,2,10,25,42.16,20.8,7.4,13.4,on_time,10.0
+S0005,SC02,call_help,Call for help,COM,3,15,35,48.06,26.7,11.0,15.7,on_time,15.0
+S0005,SC02,apply_o2,Apply oxygen,AIR,4,15,60,,,22.1,,missed,0.0
+S0005,SC02,suction_airway,Suction airway,AIR,5,15,90,,,36.8,,missed,0.0
+S0005,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,254.62,233.2,69.0,164.2,late,17.5
+S0006,SC05,assess_patient,Hands-on assessment,REC,1,10,20,71.98,25.7,5.5,20.2,late,5.0
+S0006,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,117.43,71.2,11.0,60.2,late,7.5
+S0006,SC05,call_help,Call for help,COM,3,15,40,104.42,58.1,14.7,43.4,late,7.5
+S0006,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,115.28,69.0,20.2,48.8,late,7.5
+S0006,SC05,vent_support,Start ventilatory support,AIR,5,30,80,,,32.2,,missed,0.0
+S0006,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,,,55.2,,missed,0.0
+S0007,SC05,assess_patient,Hands-on assessment,REC,1,10,20,58.28,19.0,5.5,13.5,on_time,10.0
+S0007,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,71.39,32.1,11.0,21.1,on_time,15.0
+S0007,SC05,call_help,Call for help,COM,3,15,40,74.11,34.8,14.7,20.1,on_time,15.0
+S0007,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,85.06,45.8,20.2,25.6,on_time,15.0
+S0007,SC05,vent_support,Start ventilatory support,AIR,5,30,80,112.61,73.3,32.2,41.1,on_time,30.0
+S0007,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,180.36,141.1,55.2,85.9,late,7.5
+S0008,SC03,assess_patient,Hands-on assessment,REC,1,10,20,50.4,16.5,5.5,11.0,on_time,10.0
+S0008,SC03,cap_refill,Check capillary refill,REC,2,15,35,56.14,22.3,11.0,11.3,on_time,15.0
+S0008,SC03,call_help,Call for help,COM,3,15,45,71.62,37.8,16.6,21.2,on_time,15.0
+S0008,SC03,program_pump,Program IV pump,EQP,4,20,100,141.78,107.9,41.4,66.5,late,10.0
+S0008,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,130.13,96.3,50.6,45.7,on_time,25.0
+S0008,SC03,reassess,Reassess after bolus,REC,6,15,200,169.37,135.5,101.2,34.3,on_time,15.0
+S0009,SC04,assess_patient,Hands-on assessment,REC,1,10,15,44.84,10.5,3.7,6.8,on_time,10.0
+S0009,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,59.51,25.1,8.3,16.8,late,7.5
+S0009,SC04,call_help,Call for help,COM,3,15,40,63.48,29.1,13.8,15.3,on_time,15.0
+S0009,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,,,27.6,,missed,0.0
+S0009,SC04,apply_o2,Apply oxygen,AIR,5,15,90,108.76,74.4,36.8,37.6,on_time,15.0
+S0009,SC04,position_patient,Position patient,AIR,6,10,110,,,46.0,,missed,0.0
+S0010,SC05,assess_patient,Hands-on assessment,REC,1,10,20,48.05,10.8,5.5,5.3,on_time,10.0
+S0010,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,58.21,21.0,11.0,10.0,on_time,15.0
+S0010,SC05,call_help,Call for help,COM,3,15,40,62.99,25.8,14.7,11.1,on_time,15.0
+S0010,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,66.9,29.7,20.2,9.5,on_time,15.0
+S0010,SC05,vent_support,Start ventilatory support,AIR,5,30,80,95.15,57.9,32.2,25.7,on_time,30.0
+S0010,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,175.74,138.5,55.2,83.3,late,7.5
+S0011,SC04,assess_patient,Hands-on assessment,REC,1,10,15,36.04,8.8,3.7,5.1,on_time,10.0
+S0011,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,,,8.3,,missed,0.0
+S0011,SC04,call_help,Call for help,COM,3,15,40,53.55,26.3,13.8,12.5,on_time,15.0
+S0011,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,,,27.6,,missed,0.0
+S0011,SC04,apply_o2,Apply oxygen,AIR,5,15,90,132.42,105.2,36.8,68.4,late,7.5
+S0011,SC04,position_patient,Position patient,AIR,6,10,110,129.84,102.6,46.0,56.6,on_time,10.0
+S0012,SC04,assess_patient,Hands-on assessment,REC,1,10,15,42.82,6.5,3.7,2.8,on_time,10.0
+S0012,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,56.28,20.0,8.3,11.7,on_time,15.0
+S0012,SC04,call_help,Call for help,COM,3,15,40,60.21,23.9,13.8,10.1,on_time,15.0
+S0012,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,70.7,34.4,27.6,6.8,on_time,35.0
+S0012,SC04,apply_o2,Apply oxygen,AIR,5,15,90,85.31,49.0,36.8,12.2,on_time,15.0
+S0012,SC04,position_patient,Position patient,AIR,6,10,110,102.86,66.6,46.0,20.6,on_time,10.0
+S0013,SC02,assess_patient,Hands-on assessment,REC,1,10,15,41.93,9.2,3.7,5.5,on_time,10.0
+S0013,SC02,note_time,Note seizure start time,COM,2,10,25,47.73,15.0,7.4,7.6,on_time,10.0
+S0013,SC02,call_help,Call for help,COM,3,15,35,51.02,18.3,11.0,7.3,on_time,15.0
+S0013,SC02,apply_o2,Apply oxygen,AIR,4,15,60,70.4,37.7,22.1,15.6,on_time,15.0
+S0013,SC02,suction_airway,Suction airway,AIR,5,15,90,98.01,65.3,36.8,28.5,on_time,15.0
+S0013,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,184.81,152.1,69.0,83.1,late,17.5
+S0014,SC02,assess_patient,Hands-on assessment,REC,1,10,15,30.16,7.8,3.7,4.1,on_time,10.0
+S0014,SC02,note_time,Note seizure start time,COM,2,10,25,41.87,19.5,7.4,12.1,on_time,10.0
+S0014,SC02,call_help,Call for help,COM,3,15,35,45.01,22.6,11.0,11.6,on_time,15.0
+S0014,SC02,apply_o2,Apply oxygen,AIR,4,15,60,71.36,49.0,22.1,26.9,on_time,15.0
+S0014,SC02,suction_airway,Suction airway,AIR,5,15,90,,,36.8,,missed,0.0
+S0014,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,166.28,143.9,69.0,74.9,on_time,35.0
+S0015,SC02,assess_patient,Hands-on assessment,REC,1,10,15,32.23,8.2,3.7,4.5,on_time,10.0
+S0015,SC02,note_time,Note seizure start time,COM,2,10,25,34.87,10.8,7.4,3.4,on_time,10.0
+S0015,SC02,call_help,Call for help,COM,3,15,35,42.76,18.7,11.0,7.7,on_time,15.0
+S0015,SC02,apply_o2,Apply oxygen,AIR,4,15,60,63.04,39.0,22.1,16.9,on_time,15.0
+S0015,SC02,suction_airway,Suction airway,AIR,5,15,90,79.31,55.3,36.8,18.5,on_time,15.0
+S0015,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,87.56,63.5,69.0,-5.5,on_time,35.0
+S0016,SC04,assess_patient,Hands-on assessment,REC,1,10,15,32.35,5.2,3.7,1.5,on_time,10.0
+S0016,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,42.78,15.6,8.3,7.3,on_time,15.0
+S0016,SC04,call_help,Call for help,COM,3,15,40,45.22,18.0,13.8,4.2,on_time,15.0
+S0016,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,73.41,46.2,27.6,18.6,on_time,35.0
+S0016,SC04,apply_o2,Apply oxygen,AIR,5,15,90,57.23,30.0,36.8,-6.8,on_time,15.0
+S0016,SC04,position_patient,Position patient,AIR,6,10,110,95.26,68.1,46.0,22.1,on_time,10.0
+S0017,SC04,assess_patient,Hands-on assessment,REC,1,10,15,28.7,6.2,3.7,2.5,on_time,10.0
+S0017,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,39.67,17.2,8.3,8.9,on_time,15.0
+S0017,SC04,call_help,Call for help,COM,3,15,40,91.04,68.5,13.8,54.7,late,7.5
+S0017,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,79.08,56.6,27.6,29.0,on_time,35.0
+S0017,SC04,apply_o2,Apply oxygen,AIR,5,15,90,105.86,83.4,36.8,46.6,on_time,15.0
+S0017,SC04,position_patient,Position patient,AIR,6,10,110,111.81,89.3,46.0,43.3,on_time,10.0
+S0018,SC04,assess_patient,Hands-on assessment,REC,1,10,15,44.38,9.3,3.7,5.6,on_time,10.0
+S0018,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,57.41,22.4,8.3,14.1,on_time,15.0
+S0018,SC04,call_help,Call for help,COM,3,15,40,103.17,68.1,13.8,54.3,late,7.5
+S0018,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,133.81,98.8,27.6,71.2,late,17.5
+S0018,SC04,apply_o2,Apply oxygen,AIR,5,15,90,139.78,104.7,36.8,67.9,late,7.5
+S0018,SC04,position_patient,Position patient,AIR,6,10,110,136.96,101.9,46.0,55.9,on_time,10.0
+S0019,SC01,assess_patient,Hands-on assessment,REC,1,15,20,41.99,10.6,4.6,6.0,on_time,15.0
+S0019,SC01,call_help,Call for help,COM,2,15,35,86.39,55.0,12.9,42.1,late,7.5
+S0019,SC01,position_airway,Reposition airway,AIR,3,15,45,59.33,27.9,18.4,9.5,on_time,15.0
+S0019,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,68.22,36.8,25.8,11.0,on_time,25.0
+S0019,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,73.74,42.4,33.1,9.3,on_time,15.0
+S0019,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,108.45,77.1,64.4,12.7,on_time,15.0
+S0020,SC04,assess_patient,Hands-on assessment,REC,1,10,15,44.15,5.6,3.7,1.9,on_time,10.0
+S0020,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,53.45,14.9,8.3,6.6,on_time,15.0
+S0020,SC04,call_help,Call for help,COM,3,15,40,64.44,25.9,13.8,12.1,on_time,15.0
+S0020,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,69.77,31.3,27.6,3.7,on_time,35.0
+S0020,SC04,apply_o2,Apply oxygen,AIR,5,15,90,88.89,50.4,36.8,13.6,on_time,15.0
+S0020,SC04,position_patient,Position patient,AIR,6,10,110,99.87,61.4,46.0,15.4,on_time,10.0
+S0021,SC02,assess_patient,Hands-on assessment,REC,1,10,15,31.03,7.8,3.7,4.1,on_time,10.0
+S0021,SC02,note_time,Note seizure start time,COM,2,10,25,49.09,25.8,7.4,18.4,late,5.0
+S0021,SC02,call_help,Call for help,COM,3,15,35,64.23,41.0,11.0,30.0,late,7.5
+S0021,SC02,apply_o2,Apply oxygen,AIR,4,15,60,66.82,43.6,22.1,21.5,on_time,15.0
+S0021,SC02,suction_airway,Suction airway,AIR,5,15,90,112.66,89.4,36.8,52.6,on_time,15.0
+S0021,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,146.69,123.4,69.0,54.4,on_time,35.0
+S0022,SC02,assess_patient,Hands-on assessment,REC,1,10,15,31.88,5.8,3.7,2.1,on_time,10.0
+S0022,SC02,note_time,Note seizure start time,COM,2,10,25,61.77,35.7,7.4,28.3,late,5.0
+S0022,SC02,call_help,Call for help,COM,3,15,35,,,11.0,,missed,0.0
+S0022,SC02,apply_o2,Apply oxygen,AIR,4,15,60,80.07,54.0,22.1,31.9,on_time,15.0
+S0022,SC02,suction_airway,Suction airway,AIR,5,15,90,113.84,87.8,36.8,51.0,on_time,15.0
+S0022,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,189.53,163.5,69.0,94.5,late,17.5
+S0023,SC04,assess_patient,Hands-on assessment,REC,1,10,15,36.78,7.7,3.7,4.0,on_time,10.0
+S0023,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,57.75,28.6,8.3,20.3,late,7.5
+S0023,SC04,call_help,Call for help,COM,3,15,40,112.19,83.1,13.8,69.3,late,7.5
+S0023,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,93.34,64.2,27.6,36.6,on_time,35.0
+S0023,SC04,apply_o2,Apply oxygen,AIR,5,15,90,159.8,130.7,36.8,93.9,late,7.5
+S0023,SC04,position_patient,Position patient,AIR,6,10,110,198.91,169.8,46.0,123.8,late,5.0
+S0024,SC02,assess_patient,Hands-on assessment,REC,1,10,15,31.33,6.8,3.7,3.1,on_time,10.0
+S0024,SC02,note_time,Note seizure start time,COM,2,10,25,48.64,24.1,7.4,16.7,on_time,10.0
+S0024,SC02,call_help,Call for help,COM,3,15,35,45.43,20.9,11.0,9.9,on_time,15.0
+S0024,SC02,apply_o2,Apply oxygen,AIR,4,15,60,53.46,28.9,22.1,6.8,on_time,15.0
+S0024,SC02,suction_airway,Suction airway,AIR,5,15,90,66.58,42.1,36.8,5.3,on_time,15.0
+S0024,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,98.27,73.8,69.0,4.8,on_time,35.0
+S0025,SC04,assess_patient,Hands-on assessment,REC,1,10,15,42.15,5.8,3.7,2.1,on_time,10.0
+S0025,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,62.18,25.8,8.3,17.5,late,7.5
+S0025,SC04,call_help,Call for help,COM,3,15,40,68.09,31.7,13.8,17.9,on_time,15.0
+S0025,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,,,27.6,,missed,0.0
+S0025,SC04,apply_o2,Apply oxygen,AIR,5,15,90,115.75,79.4,36.8,42.6,on_time,15.0
+S0025,SC04,position_patient,Position patient,AIR,6,10,110,111.73,75.4,46.0,29.4,on_time,10.0
+S0026,SC04,assess_patient,Hands-on assessment,REC,1,10,15,45.89,9.6,3.7,5.9,on_time,10.0
+S0026,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,59.33,23.0,8.3,14.7,on_time,15.0
+S0026,SC04,call_help,Call for help,COM,3,15,40,63.31,27.0,13.8,13.2,on_time,15.0
+S0026,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,,,27.6,,missed,0.0
+S0026,SC04,apply_o2,Apply oxygen,AIR,5,15,90,,,36.8,,missed,0.0
+S0026,SC04,position_patient,Position patient,AIR,6,10,110,122.17,85.9,46.0,39.9,on_time,10.0
+S0027,SC03,assess_patient,Hands-on assessment,REC,1,10,20,45.43,10.1,5.5,4.6,on_time,10.0
+S0027,SC03,cap_refill,Check capillary refill,REC,2,15,35,51.91,16.5,11.0,5.5,on_time,15.0
+S0027,SC03,call_help,Call for help,COM,3,15,45,85.5,50.1,16.6,33.5,late,7.5
+S0027,SC03,program_pump,Program IV pump,EQP,4,20,100,,,41.4,,missed,0.0
+S0027,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,82.35,47.0,50.6,-3.6,on_time,25.0
+S0027,SC03,reassess,Reassess after bolus,REC,6,15,200,184.23,148.9,101.2,47.7,on_time,15.0
+S0028,SC03,assess_patient,Hands-on assessment,REC,1,10,20,,,5.5,,missed,0.0
+S0028,SC03,cap_refill,Check capillary refill,REC,2,15,35,67.5,19.5,11.0,8.5,on_time,15.0
+S0028,SC03,call_help,Call for help,COM,3,15,45,81.08,33.0,16.6,16.4,on_time,15.0
+S0028,SC03,program_pump,Program IV pump,EQP,4,20,100,130.86,82.8,41.4,41.4,on_time,20.0
+S0028,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,133.5,85.5,50.6,34.9,on_time,25.0
+S0028,SC03,reassess,Reassess after bolus,REC,6,15,200,243.39,195.4,101.2,94.2,on_time,15.0
+S0029,SC03,assess_patient,Hands-on assessment,REC,1,10,20,45.73,12.2,5.5,6.7,on_time,10.0
+S0029,SC03,cap_refill,Check capillary refill,REC,2,15,35,55.06,21.5,11.0,10.5,on_time,15.0
+S0029,SC03,call_help,Call for help,COM,3,15,45,73.24,39.7,16.6,23.1,on_time,15.0
+S0029,SC03,program_pump,Program IV pump,EQP,4,20,100,157.88,124.3,41.4,82.9,late,10.0
+S0029,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,116.42,82.8,50.6,32.2,on_time,25.0
+S0029,SC03,reassess,Reassess after bolus,REC,6,15,200,252.96,219.4,101.2,118.2,late,7.5
+S0030,SC01,assess_patient,Hands-on assessment,REC,1,15,20,49.23,14.5,4.6,9.9,on_time,15.0
+S0030,SC01,call_help,Call for help,COM,2,15,35,61.88,27.2,12.9,14.3,on_time,15.0
+S0030,SC01,position_airway,Reposition airway,AIR,3,15,45,81.27,46.6,18.4,28.2,late,7.5
+S0030,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,103.32,68.6,25.8,42.8,late,12.5
+S0030,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,100.18,65.5,33.1,32.4,on_time,15.0
+S0030,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,173.71,139.0,64.4,74.6,late,7.5
+S0031,SC01,assess_patient,Hands-on assessment,REC,1,15,20,42.13,13.0,4.6,8.4,on_time,15.0
+S0031,SC01,call_help,Call for help,COM,2,15,35,56.07,27.0,12.9,14.1,on_time,15.0
+S0031,SC01,position_airway,Reposition airway,AIR,3,15,45,75.55,46.4,18.4,28.0,late,7.5
+S0031,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,94.45,65.3,25.8,39.5,late,12.5
+S0031,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,97.4,68.3,33.1,35.2,on_time,15.0
+S0031,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,194.93,165.8,64.4,101.4,late,7.5
+S0032,SC04,assess_patient,Hands-on assessment,REC,1,10,15,40.49,7.1,3.7,3.4,on_time,10.0
+S0032,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,52.34,19.0,8.3,10.7,on_time,15.0
+S0032,SC04,call_help,Call for help,COM,3,15,40,,,13.8,,missed,0.0
+S0032,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,,,27.6,,missed,0.0
+S0032,SC04,apply_o2,Apply oxygen,AIR,5,15,90,143.06,109.7,36.8,72.9,late,7.5
+S0032,SC04,position_patient,Position patient,AIR,6,10,110,199.9,166.5,46.0,120.5,late,5.0
+S0033,SC02,assess_patient,Hands-on assessment,REC,1,10,15,32.97,8.5,3.7,4.8,on_time,10.0
+S0033,SC02,note_time,Note seizure start time,COM,2,10,25,42.97,18.5,7.4,11.1,on_time,10.0
+S0033,SC02,call_help,Call for help,COM,3,15,35,57.46,33.0,11.0,22.0,on_time,15.0
+S0033,SC02,apply_o2,Apply oxygen,AIR,4,15,60,,,22.1,,missed,0.0
+S0033,SC02,suction_airway,Suction airway,AIR,5,15,90,,,36.8,,missed,0.0
+S0033,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,171.86,147.4,69.0,78.4,on_time,35.0
+S0034,SC03,assess_patient,Hands-on assessment,REC,1,10,20,61.32,12.9,5.5,7.4,on_time,10.0
+S0034,SC03,cap_refill,Check capillary refill,REC,2,15,35,,,11.0,,missed,0.0
+S0034,SC03,call_help,Call for help,COM,3,15,45,87.49,39.0,16.6,22.4,on_time,15.0
+S0034,SC03,program_pump,Program IV pump,EQP,4,20,100,158.65,110.2,41.4,68.8,late,10.0
+S0034,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,187.56,139.1,50.6,88.5,late,12.5
+S0034,SC03,reassess,Reassess after bolus,REC,6,15,200,323.43,275.0,101.2,173.8,late,7.5
+S0035,SC03,assess_patient,Hands-on assessment,REC,1,10,20,48.31,12.4,5.5,6.9,on_time,10.0
+S0035,SC03,cap_refill,Check capillary refill,REC,2,15,35,65.24,29.4,11.0,18.4,on_time,15.0
+S0035,SC03,call_help,Call for help,COM,3,15,45,61.69,25.8,16.6,9.2,on_time,15.0
+S0035,SC03,program_pump,Program IV pump,EQP,4,20,100,88.71,52.8,41.4,11.4,on_time,20.0
+S0035,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,140.39,104.5,50.6,53.9,on_time,25.0
+S0035,SC03,reassess,Reassess after bolus,REC,6,15,200,,,101.2,,missed,0.0
+S0036,SC04,assess_patient,Hands-on assessment,REC,1,10,15,,,3.7,,missed,0.0
+S0036,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,,,8.3,,missed,0.0
+S0036,SC04,call_help,Call for help,COM,3,15,40,,,13.8,,missed,0.0
+S0036,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,124.11,103.4,27.6,75.8,late,17.5
+S0036,SC04,apply_o2,Apply oxygen,AIR,5,15,90,114.66,93.9,36.8,57.1,late,7.5
+S0036,SC04,position_patient,Position patient,AIR,6,10,110,146.89,126.1,46.0,80.1,late,5.0
+S0037,SC01,assess_patient,Hands-on assessment,REC,1,15,20,56.52,12.2,4.6,7.6,on_time,15.0
+S0037,SC01,call_help,Call for help,COM,2,15,35,79.31,35.0,12.9,22.1,on_time,15.0
+S0037,SC01,position_airway,Reposition airway,AIR,3,15,45,,,18.4,,missed,0.0
+S0037,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,130.76,86.4,25.8,60.6,late,12.5
+S0037,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,136.8,92.5,33.1,59.4,late,7.5
+S0037,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,225.99,181.7,64.4,117.3,late,7.5
+S0038,SC04,assess_patient,Hands-on assessment,REC,1,10,15,32.09,6.6,3.7,2.9,on_time,10.0
+S0038,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,37.87,12.4,8.3,4.1,on_time,15.0
+S0038,SC04,call_help,Call for help,COM,3,15,40,44.74,19.2,13.8,5.4,on_time,15.0
+S0038,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,90.62,65.1,27.6,37.5,on_time,35.0
+S0038,SC04,apply_o2,Apply oxygen,AIR,5,15,90,107.57,82.1,36.8,45.3,on_time,15.0
+S0038,SC04,position_patient,Position patient,AIR,6,10,110,135.24,109.7,46.0,63.7,on_time,10.0
+S0039,SC02,assess_patient,Hands-on assessment,REC,1,10,15,35.08,8.8,3.7,5.1,on_time,10.0
+S0039,SC02,note_time,Note seizure start time,COM,2,10,25,54.76,28.5,7.4,21.1,late,5.0
+S0039,SC02,call_help,Call for help,COM,3,15,35,58.77,32.5,11.0,21.5,on_time,15.0
+S0039,SC02,apply_o2,Apply oxygen,AIR,4,15,60,100.08,73.8,22.1,51.7,late,7.5
+S0039,SC02,suction_airway,Suction airway,AIR,5,15,90,170.76,144.5,36.8,107.7,late,7.5
+S0039,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,212.94,186.6,69.0,117.6,late,17.5
+S0040,SC04,assess_patient,Hands-on assessment,REC,1,10,15,42.76,12.1,3.7,8.4,on_time,10.0
+S0040,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,,,8.3,,missed,0.0
+S0040,SC04,call_help,Call for help,COM,3,15,40,78.1,47.4,13.8,33.6,late,7.5
+S0040,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,135.91,105.2,27.6,77.6,late,17.5
+S0040,SC04,apply_o2,Apply oxygen,AIR,5,15,90,,,36.8,,missed,0.0
+S0040,SC04,position_patient,Position patient,AIR,6,10,110,183.27,152.6,46.0,106.6,late,5.0
+S0041,SC04,assess_patient,Hands-on assessment,REC,1,10,15,35.07,7.6,3.7,3.9,on_time,10.0
+S0041,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,51.99,24.5,8.3,16.2,on_time,15.0
+S0041,SC04,call_help,Call for help,COM,3,15,40,58.6,31.1,13.8,17.3,on_time,15.0
+S0041,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,63.65,36.1,27.6,8.5,on_time,35.0
+S0041,SC04,apply_o2,Apply oxygen,AIR,5,15,90,135.67,108.2,36.8,71.4,late,7.5
+S0041,SC04,position_patient,Position patient,AIR,6,10,110,,,46.0,,missed,0.0
+S0042,SC05,assess_patient,Hands-on assessment,REC,1,10,20,59.69,18.2,5.5,12.7,on_time,10.0
+S0042,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,67.31,25.8,11.0,14.8,on_time,15.0
+S0042,SC05,call_help,Call for help,COM,3,15,40,71.58,30.1,14.7,15.4,on_time,15.0
+S0042,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,77.91,36.4,20.2,16.2,on_time,15.0
+S0042,SC05,vent_support,Start ventilatory support,AIR,5,30,80,134.31,92.8,32.2,60.6,late,15.0
+S0042,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,197.67,156.2,55.2,101.0,late,7.5
+S0043,SC05,assess_patient,Hands-on assessment,REC,1,10,20,48.95,13.7,5.5,8.2,on_time,10.0
+S0043,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,59.96,24.7,11.0,13.7,on_time,15.0
+S0043,SC05,call_help,Call for help,COM,3,15,40,56.02,20.8,14.7,6.1,on_time,15.0
+S0043,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,90.85,55.6,20.2,35.4,late,7.5
+S0043,SC05,vent_support,Start ventilatory support,AIR,5,30,80,198.7,163.5,32.2,131.3,late,15.0
+S0043,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,141.43,106.2,55.2,51.0,on_time,15.0
+S0044,SC03,assess_patient,Hands-on assessment,REC,1,10,20,53.87,8.9,5.5,3.4,on_time,10.0
+S0044,SC03,cap_refill,Check capillary refill,REC,2,15,35,63.94,19.0,11.0,8.0,on_time,15.0
+S0044,SC03,call_help,Call for help,COM,3,15,45,74.95,30.0,16.6,13.4,on_time,15.0
+S0044,SC03,program_pump,Program IV pump,EQP,4,20,100,122.64,77.7,41.4,36.3,on_time,20.0
+S0044,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,155.31,110.4,50.6,59.8,on_time,25.0
+S0044,SC03,reassess,Reassess after bolus,REC,6,15,200,,,101.2,,missed,0.0
+S0045,SC02,assess_patient,Hands-on assessment,REC,1,10,15,37.66,6.3,3.7,2.6,on_time,10.0
+S0045,SC02,note_time,Note seizure start time,COM,2,10,25,71.58,40.2,7.4,32.8,late,5.0
+S0045,SC02,call_help,Call for help,COM,3,15,35,82.59,51.2,11.0,40.2,late,7.5
+S0045,SC02,apply_o2,Apply oxygen,AIR,4,15,60,64.9,33.5,22.1,11.4,on_time,15.0
+S0045,SC02,suction_airway,Suction airway,AIR,5,15,90,95.06,63.7,36.8,26.9,on_time,15.0
+S0045,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,,,69.0,,missed,0.0
+S0046,SC02,assess_patient,Hands-on assessment,REC,1,10,15,40.03,6.9,3.7,3.2,on_time,10.0
+S0046,SC02,note_time,Note seizure start time,COM,2,10,25,49.03,15.9,7.4,8.5,on_time,10.0
+S0046,SC02,call_help,Call for help,COM,3,15,35,75.44,42.3,11.0,31.3,late,7.5
+S0046,SC02,apply_o2,Apply oxygen,AIR,4,15,60,108.78,75.7,22.1,53.6,late,7.5
+S0046,SC02,suction_airway,Suction airway,AIR,5,15,90,72.97,39.8,36.8,3.0,on_time,15.0
+S0046,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,147.57,114.4,69.0,45.4,on_time,35.0
+S0047,SC03,assess_patient,Hands-on assessment,REC,1,10,20,41.09,7.7,5.5,2.2,on_time,10.0
+S0047,SC03,cap_refill,Check capillary refill,REC,2,15,35,,,11.0,,missed,0.0
+S0047,SC03,call_help,Call for help,COM,3,15,45,82.38,49.0,16.6,32.4,late,7.5
+S0047,SC03,program_pump,Program IV pump,EQP,4,20,100,120.51,87.1,41.4,45.7,on_time,20.0
+S0047,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,100.81,67.4,50.6,16.8,on_time,25.0
+S0047,SC03,reassess,Reassess after bolus,REC,6,15,200,276.79,243.4,101.2,142.2,late,7.5
+S0048,SC05,assess_patient,Hands-on assessment,REC,1,10,20,42.86,7.2,5.5,1.7,on_time,10.0
+S0048,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,59.43,23.8,11.0,12.8,on_time,15.0
+S0048,SC05,call_help,Call for help,COM,3,15,40,89.73,54.1,14.7,39.4,late,7.5
+S0048,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,,,20.2,,missed,0.0
+S0048,SC05,vent_support,Start ventilatory support,AIR,5,30,80,84.48,48.8,32.2,16.6,on_time,30.0
+S0048,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,,,55.2,,missed,0.0
+S0049,SC02,assess_patient,Hands-on assessment,REC,1,10,15,40.7,17.9,3.7,14.2,late,5.0
+S0049,SC02,note_time,Note seizure start time,COM,2,10,25,63.65,40.9,7.4,33.5,late,5.0
+S0049,SC02,call_help,Call for help,COM,3,15,35,66.55,43.8,11.0,32.8,late,7.5
+S0049,SC02,apply_o2,Apply oxygen,AIR,4,15,60,172.43,149.7,22.1,127.6,late,7.5
+S0049,SC02,suction_airway,Suction airway,AIR,5,15,90,,,36.8,,missed,0.0
+S0049,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,,,69.0,,missed,0.0
+S0050,SC02,assess_patient,Hands-on assessment,REC,1,10,15,36.67,11.6,3.7,7.9,on_time,10.0
+S0050,SC02,note_time,Note seizure start time,COM,2,10,25,34.5,9.5,7.4,2.1,on_time,10.0
+S0050,SC02,call_help,Call for help,COM,3,15,35,44.94,19.9,11.0,8.9,on_time,15.0
+S0050,SC02,apply_o2,Apply oxygen,AIR,4,15,60,72.95,47.9,22.1,25.8,on_time,15.0
+S0050,SC02,suction_airway,Suction airway,AIR,5,15,90,115.9,90.9,36.8,54.1,late,7.5
+S0050,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,134.91,109.9,69.0,40.9,on_time,35.0
+S0051,SC04,assess_patient,Hands-on assessment,REC,1,10,15,35.85,8.8,3.7,5.1,on_time,10.0
+S0051,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,,,8.3,,missed,0.0
+S0051,SC04,call_help,Call for help,COM,3,15,40,76.95,49.9,13.8,36.1,late,7.5
+S0051,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,117.37,90.3,27.6,62.7,late,17.5
+S0051,SC04,apply_o2,Apply oxygen,AIR,5,15,90,200.18,173.1,36.8,136.3,late,7.5
+S0051,SC04,position_patient,Position patient,AIR,6,10,110,154.65,127.6,46.0,81.6,late,5.0
+S0052,SC02,assess_patient,Hands-on assessment,REC,1,10,15,27.93,5.4,3.7,1.7,on_time,10.0
+S0052,SC02,note_time,Note seizure start time,COM,2,10,25,35.68,13.1,7.4,5.7,on_time,10.0
+S0052,SC02,call_help,Call for help,COM,3,15,35,42.97,20.4,11.0,9.4,on_time,15.0
+S0052,SC02,apply_o2,Apply oxygen,AIR,4,15,60,65.23,42.7,22.1,20.6,on_time,15.0
+S0052,SC02,suction_airway,Suction airway,AIR,5,15,90,87.1,64.5,36.8,27.7,on_time,15.0
+S0052,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,166.14,143.6,69.0,74.6,on_time,35.0
+S0053,SC02,assess_patient,Hands-on assessment,REC,1,10,15,43.9,12.5,3.7,8.8,on_time,10.0
+S0053,SC02,note_time,Note seizure start time,COM,2,10,25,48.15,16.8,7.4,9.4,on_time,10.0
+S0053,SC02,call_help,Call for help,COM,3,15,35,55.24,23.9,11.0,12.9,on_time,15.0
+S0053,SC02,apply_o2,Apply oxygen,AIR,4,15,60,,,22.1,,missed,0.0
+S0053,SC02,suction_airway,Suction airway,AIR,5,15,90,,,36.8,,missed,0.0
+S0053,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,188.14,156.8,69.0,87.8,late,17.5
+S0054,SC02,assess_patient,Hands-on assessment,REC,1,10,15,36.19,6.4,3.7,2.7,on_time,10.0
+S0054,SC02,note_time,Note seizure start time,COM,2,10,25,43.32,13.6,7.4,6.2,on_time,10.0
+S0054,SC02,call_help,Call for help,COM,3,15,35,46.69,16.9,11.0,5.9,on_time,15.0
+S0054,SC02,apply_o2,Apply oxygen,AIR,4,15,60,88.94,59.2,22.1,37.1,on_time,15.0
+S0054,SC02,suction_airway,Suction airway,AIR,5,15,90,164.19,134.4,36.8,97.6,late,7.5
+S0054,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,282.58,252.8,69.0,183.8,late,17.5
+S0055,SC04,assess_patient,Hands-on assessment,REC,1,10,15,37.38,11.3,3.7,7.6,on_time,10.0
+S0055,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,60.54,34.5,8.3,26.2,late,7.5
+S0055,SC04,call_help,Call for help,COM,3,15,40,63.97,37.9,13.8,24.1,on_time,15.0
+S0055,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,112.5,86.4,27.6,58.8,late,17.5
+S0055,SC04,apply_o2,Apply oxygen,AIR,5,15,90,82.51,56.4,36.8,19.6,on_time,15.0
+S0055,SC04,position_patient,Position patient,AIR,6,10,110,134.93,108.8,46.0,62.8,on_time,10.0
+S0056,SC01,assess_patient,Hands-on assessment,REC,1,15,20,53.88,15.1,4.6,10.5,on_time,15.0
+S0056,SC01,call_help,Call for help,COM,2,15,35,95.03,56.2,12.9,43.3,late,7.5
+S0056,SC01,position_airway,Reposition airway,AIR,3,15,45,101.36,62.6,18.4,44.2,late,7.5
+S0056,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,126.09,87.3,25.8,61.5,late,12.5
+S0056,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,98.73,60.0,33.1,26.9,on_time,15.0
+S0056,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,,,64.4,,missed,0.0
+S0057,SC01,assess_patient,Hands-on assessment,REC,1,15,20,36.98,7.6,4.6,3.0,on_time,15.0
+S0057,SC01,call_help,Call for help,COM,2,15,35,49.48,20.1,12.9,7.2,on_time,15.0
+S0057,SC01,position_airway,Reposition airway,AIR,3,15,45,69.0,39.6,18.4,21.2,on_time,15.0
+S0057,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,66.79,37.4,25.8,11.6,on_time,25.0
+S0057,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,101.58,72.2,33.1,39.1,on_time,15.0
+S0057,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,149.03,119.6,64.4,55.2,on_time,15.0
+S0058,SC01,assess_patient,Hands-on assessment,REC,1,15,20,46.35,5.4,4.6,0.8,on_time,15.0
+S0058,SC01,call_help,Call for help,COM,2,15,35,58.9,17.9,12.9,5.0,on_time,15.0
+S0058,SC01,position_airway,Reposition airway,AIR,3,15,45,,,18.4,,missed,0.0
+S0058,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,79.63,38.7,25.8,12.9,on_time,25.0
+S0058,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,120.08,79.1,33.1,46.0,late,7.5
+S0058,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,198.79,157.8,64.4,93.4,late,7.5
+S0059,SC02,assess_patient,Hands-on assessment,REC,1,10,15,41.28,9.1,3.7,5.4,on_time,10.0
+S0059,SC02,note_time,Note seizure start time,COM,2,10,25,48.2,16.0,7.4,8.6,on_time,10.0
+S0059,SC02,call_help,Call for help,COM,3,15,35,54.04,21.9,11.0,10.9,on_time,15.0
+S0059,SC02,apply_o2,Apply oxygen,AIR,4,15,60,83.77,51.6,22.1,29.5,on_time,15.0
+S0059,SC02,suction_airway,Suction airway,AIR,5,15,90,106.51,74.4,36.8,37.6,on_time,15.0
+S0059,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,,,69.0,,missed,0.0
+S0060,SC04,assess_patient,Hands-on assessment,REC,1,10,15,32.53,11.5,3.7,7.8,on_time,10.0
+S0060,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,45.65,24.6,8.3,16.3,on_time,15.0
+S0060,SC04,call_help,Call for help,COM,3,15,40,,,13.8,,missed,0.0
+S0060,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,86.15,65.2,27.6,37.6,on_time,35.0
+S0060,SC04,apply_o2,Apply oxygen,AIR,5,15,90,157.33,136.3,36.8,99.5,late,7.5
+S0060,SC04,position_patient,Position patient,AIR,6,10,110,108.38,87.4,46.0,41.4,on_time,10.0
+S0061,SC04,assess_patient,Hands-on assessment,REC,1,10,15,33.83,7.5,3.7,3.8,on_time,10.0
+S0061,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,40.73,14.4,8.3,6.1,on_time,15.0
+S0061,SC04,call_help,Call for help,COM,3,15,40,42.97,16.7,13.8,2.9,on_time,15.0
+S0061,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,74.82,48.5,27.6,20.9,on_time,35.0
+S0061,SC04,apply_o2,Apply oxygen,AIR,5,15,90,102.72,76.4,36.8,39.6,on_time,15.0
+S0061,SC04,position_patient,Position patient,AIR,6,10,110,132.17,105.9,46.0,59.9,on_time,10.0
+S0062,SC04,assess_patient,Hands-on assessment,REC,1,10,15,28.16,7.9,3.7,4.2,on_time,10.0
+S0062,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,31.11,10.9,8.3,2.6,on_time,15.0
+S0062,SC04,call_help,Call for help,COM,3,15,40,49.44,29.2,13.8,15.4,on_time,15.0
+S0062,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,47.31,27.1,27.6,-0.5,on_time,35.0
+S0062,SC04,apply_o2,Apply oxygen,AIR,5,15,90,68.42,48.2,36.8,11.4,on_time,15.0
+S0062,SC04,position_patient,Position patient,AIR,6,10,110,95.96,75.7,46.0,29.7,on_time,10.0
+S0063,SC01,assess_patient,Hands-on assessment,REC,1,15,20,45.32,9.2,4.6,4.6,on_time,15.0
+S0063,SC01,call_help,Call for help,COM,2,15,35,63.02,26.9,12.9,14.0,on_time,15.0
+S0063,SC01,position_airway,Reposition airway,AIR,3,15,45,67.23,31.1,18.4,12.7,on_time,15.0
+S0063,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,83.5,47.4,25.8,21.6,on_time,25.0
+S0063,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,95.11,59.0,33.1,25.9,on_time,15.0
+S0063,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,125.4,89.3,64.4,24.9,on_time,15.0
+S0064,SC04,assess_patient,Hands-on assessment,REC,1,10,15,37.79,5.6,3.7,1.9,on_time,10.0
+S0064,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,41.08,8.9,8.3,0.6,on_time,15.0
+S0064,SC04,call_help,Call for help,COM,3,15,40,53.12,20.9,13.8,7.1,on_time,15.0
+S0064,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,57.42,25.2,27.6,-2.4,on_time,35.0
+S0064,SC04,apply_o2,Apply oxygen,AIR,5,15,90,72.67,40.5,36.8,3.7,on_time,15.0
+S0064,SC04,position_patient,Position patient,AIR,6,10,110,69.84,37.7,46.0,-8.3,on_time,10.0
+S0065,SC04,assess_patient,Hands-on assessment,REC,1,10,15,29.93,3.1,3.7,-0.6,on_time,10.0
+S0065,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,39.14,12.3,8.3,4.0,on_time,15.0
+S0065,SC04,call_help,Call for help,COM,3,15,40,42.92,16.1,13.8,2.3,on_time,15.0
+S0065,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,56.87,30.0,27.6,2.4,on_time,35.0
+S0065,SC04,apply_o2,Apply oxygen,AIR,5,15,90,62.04,35.2,36.8,-1.6,on_time,15.0
+S0065,SC04,position_patient,Position patient,AIR,6,10,110,69.97,43.1,46.0,-2.9,on_time,10.0
+S0066,SC02,assess_patient,Hands-on assessment,REC,1,10,15,30.32,4.7,3.7,1.0,on_time,10.0
+S0066,SC02,note_time,Note seizure start time,COM,2,10,25,36.52,10.9,7.4,3.5,on_time,10.0
+S0066,SC02,call_help,Call for help,COM,3,15,35,40.35,14.7,11.0,3.7,on_time,15.0
+S0066,SC02,apply_o2,Apply oxygen,AIR,4,15,60,64.41,38.8,22.1,16.7,on_time,15.0
+S0066,SC02,suction_airway,Suction airway,AIR,5,15,90,88.4,62.8,36.8,26.0,on_time,15.0
+S0066,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,109.48,83.8,69.0,14.8,on_time,35.0
+S0067,SC05,assess_patient,Hands-on assessment,REC,1,10,20,53.7,7.0,5.5,1.5,on_time,10.0
+S0067,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,60.02,13.3,11.0,2.3,on_time,15.0
+S0067,SC05,call_help,Call for help,COM,3,15,40,63.92,17.2,14.7,2.5,on_time,15.0
+S0067,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,68.58,21.8,20.2,1.6,on_time,15.0
+S0067,SC05,vent_support,Start ventilatory support,AIR,5,30,80,81.27,34.5,32.2,2.3,on_time,30.0
+S0067,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,101.68,54.9,55.2,-0.3,on_time,15.0
+S0068,SC02,assess_patient,Hands-on assessment,REC,1,10,15,32.18,3.1,3.7,-0.6,on_time,10.0
+S0068,SC02,note_time,Note seizure start time,COM,2,10,25,38.15,9.0,7.4,1.6,on_time,10.0
+S0068,SC02,call_help,Call for help,COM,3,15,35,42.32,13.2,11.0,2.2,on_time,15.0
+S0068,SC02,apply_o2,Apply oxygen,AIR,4,15,60,49.8,20.7,22.1,-1.4,on_time,15.0
+S0068,SC02,suction_airway,Suction airway,AIR,5,15,90,66.57,37.5,36.8,0.7,on_time,15.0
+S0068,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,101.02,71.9,69.0,2.9,on_time,35.0
+S0069,SC05,assess_patient,Hands-on assessment,REC,1,10,20,46.04,7.0,5.5,1.5,on_time,10.0
+S0069,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,50.87,11.8,11.0,0.8,on_time,15.0
+S0069,SC05,call_help,Call for help,COM,3,15,40,58.66,19.6,14.7,4.9,on_time,15.0
+S0069,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,61.65,22.6,20.2,2.4,on_time,15.0
+S0069,SC05,vent_support,Start ventilatory support,AIR,5,30,80,93.58,54.5,32.2,22.3,on_time,30.0
+S0069,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,90.23,51.2,55.2,-4.0,on_time,15.0
+S0070,SC05,assess_patient,Hands-on assessment,REC,1,10,20,39.94,8.9,5.5,3.4,on_time,10.0
+S0070,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,59.69,28.6,11.0,17.6,on_time,15.0
+S0070,SC05,call_help,Call for help,COM,3,15,40,53.22,22.2,14.7,7.5,on_time,15.0
+S0070,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,185.63,154.6,20.2,134.4,late,7.5
+S0070,SC05,vent_support,Start ventilatory support,AIR,5,30,80,74.32,43.3,32.2,11.1,on_time,30.0
+S0070,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,100.92,69.9,55.2,14.7,on_time,15.0
+S0071,SC05,assess_patient,Hands-on assessment,REC,1,10,20,53.1,7.1,5.5,1.6,on_time,10.0
+S0071,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,60.83,14.9,11.0,3.9,on_time,15.0
+S0071,SC05,call_help,Call for help,COM,3,15,40,71.0,25.0,14.7,10.3,on_time,15.0
+S0071,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,101.53,55.6,20.2,35.4,late,7.5
+S0071,SC05,vent_support,Start ventilatory support,AIR,5,30,80,95.17,49.2,32.2,17.0,on_time,30.0
+S0071,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,104.69,58.7,55.2,3.5,on_time,15.0
+S0072,SC04,assess_patient,Hands-on assessment,REC,1,10,15,37.51,5.3,3.7,1.6,on_time,10.0
+S0072,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,54.46,22.2,8.3,13.9,on_time,15.0
+S0072,SC04,call_help,Call for help,COM,3,15,40,62.53,30.3,13.8,16.5,on_time,15.0
+S0072,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,80.79,48.6,27.6,21.0,on_time,35.0
+S0072,SC04,apply_o2,Apply oxygen,AIR,5,15,90,89.14,56.9,36.8,20.1,on_time,15.0
+S0072,SC04,position_patient,Position patient,AIR,6,10,110,123.33,91.1,46.0,45.1,on_time,10.0
+S0073,SC03,assess_patient,Hands-on assessment,REC,1,10,20,45.19,13.0,5.5,7.5,on_time,10.0
+S0073,SC03,cap_refill,Check capillary refill,REC,2,15,35,54.24,22.1,11.0,11.1,on_time,15.0
+S0073,SC03,call_help,Call for help,COM,3,15,45,,,16.6,,missed,0.0
+S0073,SC03,program_pump,Program IV pump,EQP,4,20,100,154.39,122.2,41.4,80.8,late,10.0
+S0073,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,113.93,81.8,50.6,31.2,on_time,25.0
+S0073,SC03,reassess,Reassess after bolus,REC,6,15,200,111.3,79.2,101.2,-22.0,on_time,15.0
+S0074,SC01,assess_patient,Hands-on assessment,REC,1,15,20,42.0,14.8,4.6,10.2,on_time,15.0
+S0074,SC01,call_help,Call for help,COM,2,15,35,,,12.9,,missed,0.0
+S0074,SC01,position_airway,Reposition airway,AIR,3,15,45,85.3,58.1,18.4,39.7,late,7.5
+S0074,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,99.48,72.2,25.8,46.4,late,12.5
+S0074,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,,,33.1,,missed,0.0
+S0074,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,,,64.4,,missed,0.0
+S0075,SC05,assess_patient,Hands-on assessment,REC,1,10,20,39.78,7.5,5.5,2.0,on_time,10.0
+S0075,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,48.65,16.4,11.0,5.4,on_time,15.0
+S0075,SC05,call_help,Call for help,COM,3,15,40,74.58,42.3,14.7,27.6,late,7.5
+S0075,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,91.1,58.9,20.2,38.7,late,7.5
+S0075,SC05,vent_support,Start ventilatory support,AIR,5,30,80,79.11,46.9,32.2,14.7,on_time,30.0
+S0075,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,94.31,62.1,55.2,6.9,on_time,15.0
+S0076,SC05,assess_patient,Hands-on assessment,REC,1,10,20,59.72,19.5,5.5,14.0,on_time,10.0
+S0076,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,75.26,35.0,11.0,24.0,on_time,15.0
+S0076,SC05,call_help,Call for help,COM,3,15,40,82.78,42.5,14.7,27.8,late,7.5
+S0076,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,,,20.2,,missed,0.0
+S0076,SC05,vent_support,Start ventilatory support,AIR,5,30,80,,,32.2,,missed,0.0
+S0076,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,,,55.2,,missed,0.0
+S0077,SC05,assess_patient,Hands-on assessment,REC,1,10,20,70.48,25.6,5.5,20.1,late,5.0
+S0077,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,78.8,33.9,11.0,22.9,on_time,15.0
+S0077,SC05,call_help,Call for help,COM,3,15,40,89.5,44.6,14.7,29.9,late,7.5
+S0077,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,119.59,74.7,20.2,54.5,late,7.5
+S0077,SC05,vent_support,Start ventilatory support,AIR,5,30,80,173.54,128.7,32.2,96.5,late,15.0
+S0077,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,195.27,150.4,55.2,95.2,late,7.5
+S0078,SC03,assess_patient,Hands-on assessment,REC,1,10,20,50.9,19.5,5.5,14.0,on_time,10.0
+S0078,SC03,cap_refill,Check capillary refill,REC,2,15,35,,,11.0,,missed,0.0
+S0078,SC03,call_help,Call for help,COM,3,15,45,86.84,55.5,16.6,38.9,late,7.5
+S0078,SC03,program_pump,Program IV pump,EQP,4,20,100,106.34,75.0,41.4,33.6,on_time,20.0
+S0078,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,185.84,154.5,50.6,103.9,late,12.5
+S0078,SC03,reassess,Reassess after bolus,REC,6,15,200,218.95,187.6,101.2,86.4,on_time,15.0
+S0079,SC03,assess_patient,Hands-on assessment,REC,1,10,20,46.58,9.9,5.5,4.4,on_time,10.0
+S0079,SC03,cap_refill,Check capillary refill,REC,2,15,35,,,11.0,,missed,0.0
+S0079,SC03,call_help,Call for help,COM,3,15,45,72.46,35.7,16.6,19.1,on_time,15.0
+S0079,SC03,program_pump,Program IV pump,EQP,4,20,100,91.04,54.3,41.4,12.9,on_time,20.0
+S0079,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,124.05,87.3,50.6,36.7,on_time,25.0
+S0079,SC03,reassess,Reassess after bolus,REC,6,15,200,274.68,238.0,101.2,136.8,late,7.5
+S0080,SC05,assess_patient,Hands-on assessment,REC,1,10,20,52.32,9.1,5.5,3.6,on_time,10.0
+S0080,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,65.12,21.9,11.0,10.9,on_time,15.0
+S0080,SC05,call_help,Call for help,COM,3,15,40,68.23,25.0,14.7,10.3,on_time,15.0
+S0080,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,,,20.2,,missed,0.0
+S0080,SC05,vent_support,Start ventilatory support,AIR,5,30,80,,,32.2,,missed,0.0
+S0080,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,109.49,66.3,55.2,11.1,on_time,15.0
+S0081,SC01,assess_patient,Hands-on assessment,REC,1,15,20,47.5,9.1,4.6,4.5,on_time,15.0
+S0081,SC01,call_help,Call for help,COM,2,15,35,70.25,31.9,12.9,19.0,on_time,15.0
+S0081,SC01,position_airway,Reposition airway,AIR,3,15,45,118.21,79.8,18.4,61.4,late,7.5
+S0081,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,121.01,82.7,25.8,56.9,late,12.5
+S0081,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,156.04,117.7,33.1,84.6,late,7.5
+S0081,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,202.49,164.1,64.4,99.7,late,7.5
+S0082,SC01,assess_patient,Hands-on assessment,REC,1,15,20,49.95,7.9,4.6,3.3,on_time,15.0
+S0082,SC01,call_help,Call for help,COM,2,15,35,71.62,29.5,12.9,16.6,on_time,15.0
+S0082,SC01,position_airway,Reposition airway,AIR,3,15,45,,,18.4,,missed,0.0
+S0082,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,135.02,92.9,25.8,67.1,late,12.5
+S0082,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,85.29,43.2,33.1,10.1,on_time,15.0
+S0082,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,185.28,143.2,64.4,78.8,late,7.5
+S0083,SC04,assess_patient,Hands-on assessment,REC,1,10,15,44.84,9.6,3.7,5.9,on_time,10.0
+S0083,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,55.94,20.7,8.3,12.4,on_time,15.0
+S0083,SC04,call_help,Call for help,COM,3,15,40,68.26,33.0,13.8,19.2,on_time,15.0
+S0083,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,,,27.6,,missed,0.0
+S0083,SC04,apply_o2,Apply oxygen,AIR,5,15,90,,,36.8,,missed,0.0
+S0083,SC04,position_patient,Position patient,AIR,6,10,110,,,46.0,,missed,0.0
+S0084,SC04,assess_patient,Hands-on assessment,REC,1,10,15,47.85,16.2,3.7,12.5,late,5.0
+S0084,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,59.52,27.8,8.3,19.5,late,7.5
+S0084,SC04,call_help,Call for help,COM,3,15,40,,,13.8,,missed,0.0
+S0084,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,179.62,147.9,27.6,120.3,late,17.5
+S0084,SC04,apply_o2,Apply oxygen,AIR,5,15,90,146.07,114.4,36.8,77.6,late,7.5
+S0084,SC04,position_patient,Position patient,AIR,6,10,110,,,46.0,,missed,0.0
+S0085,SC02,assess_patient,Hands-on assessment,REC,1,10,15,44.29,9.8,3.7,6.1,on_time,10.0
+S0085,SC02,note_time,Note seizure start time,COM,2,10,25,,,7.4,,missed,0.0
+S0085,SC02,call_help,Call for help,COM,3,15,35,74.36,39.9,11.0,28.9,late,7.5
+S0085,SC02,apply_o2,Apply oxygen,AIR,4,15,60,102.71,68.2,22.1,46.1,late,7.5
+S0085,SC02,suction_airway,Suction airway,AIR,5,15,90,204.93,170.5,36.8,133.7,late,7.5
+S0085,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,215.38,180.9,69.0,111.9,late,17.5
+S0086,SC01,assess_patient,Hands-on assessment,REC,1,15,20,38.02,5.4,4.6,0.8,on_time,15.0
+S0086,SC01,call_help,Call for help,COM,2,15,35,58.18,25.5,12.9,12.6,on_time,15.0
+S0086,SC01,position_airway,Reposition airway,AIR,3,15,45,,,18.4,,missed,0.0
+S0086,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,93.8,61.1,25.8,35.3,late,12.5
+S0086,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,90.48,57.8,33.1,24.7,on_time,15.0
+S0086,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,148.5,115.8,64.4,51.4,on_time,15.0
+S0087,SC01,assess_patient,Hands-on assessment,REC,1,15,20,33.45,7.6,4.6,3.0,on_time,15.0
+S0087,SC01,call_help,Call for help,COM,2,15,35,84.56,58.7,12.9,45.8,late,7.5
+S0087,SC01,position_airway,Reposition airway,AIR,3,15,45,49.1,23.3,18.4,4.9,on_time,15.0
+S0087,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,75.65,49.8,25.8,24.0,on_time,25.0
+S0087,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,87.52,61.7,33.1,28.6,on_time,15.0
+S0087,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,146.75,120.9,64.4,56.5,on_time,15.0
+S0088,SC01,assess_patient,Hands-on assessment,REC,1,15,20,46.8,7.7,4.6,3.1,on_time,15.0
+S0088,SC01,call_help,Call for help,COM,2,15,35,93.06,54.0,12.9,41.1,late,7.5
+S0088,SC01,position_airway,Reposition airway,AIR,3,15,45,72.76,33.7,18.4,15.3,on_time,15.0
+S0088,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,90.43,51.3,25.8,25.5,on_time,25.0
+S0088,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,87.55,48.5,33.1,15.4,on_time,15.0
+S0088,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,156.75,117.7,64.4,53.3,on_time,15.0
+S0089,SC05,assess_patient,Hands-on assessment,REC,1,10,20,51.38,12.9,5.5,7.4,on_time,10.0
+S0089,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,55.52,17.0,11.0,6.0,on_time,15.0
+S0089,SC05,call_help,Call for help,COM,3,15,40,125.66,87.2,14.7,72.5,late,7.5
+S0089,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,66.77,28.3,20.2,8.1,on_time,15.0
+S0089,SC05,vent_support,Start ventilatory support,AIR,5,30,80,82.0,43.5,32.2,11.3,on_time,30.0
+S0089,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,108.65,70.2,55.2,15.0,on_time,15.0
+S0090,SC03,assess_patient,Hands-on assessment,REC,1,10,20,49.05,13.1,5.5,7.6,on_time,10.0
+S0090,SC03,cap_refill,Check capillary refill,REC,2,15,35,52.46,16.6,11.0,5.6,on_time,15.0
+S0090,SC03,call_help,Call for help,COM,3,15,45,107.78,71.9,16.6,55.3,late,7.5
+S0090,SC03,program_pump,Program IV pump,EQP,4,20,100,101.69,65.8,41.4,24.4,on_time,20.0
+S0090,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,145.88,110.0,50.6,59.4,on_time,25.0
+S0090,SC03,reassess,Reassess after bolus,REC,6,15,200,286.1,250.2,101.2,149.0,late,7.5
+S0091,SC03,assess_patient,Hands-on assessment,REC,1,10,20,42.23,9.6,5.5,4.1,on_time,10.0
+S0091,SC03,cap_refill,Check capillary refill,REC,2,15,35,48.48,15.9,11.0,4.9,on_time,15.0
+S0091,SC03,call_help,Call for help,COM,3,15,45,91.96,59.4,16.6,42.8,late,7.5
+S0091,SC03,program_pump,Program IV pump,EQP,4,20,100,114.47,81.9,41.4,40.5,on_time,20.0
+S0091,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,176.78,144.2,50.6,93.6,late,12.5
+S0091,SC03,reassess,Reassess after bolus,REC,6,15,200,164.52,131.9,101.2,30.7,on_time,15.0
+S0092,SC05,assess_patient,Hands-on assessment,REC,1,10,20,47.22,15.8,5.5,10.3,on_time,10.0
+S0092,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,62.65,31.2,11.0,20.2,on_time,15.0
+S0092,SC05,call_help,Call for help,COM,3,15,40,91.22,59.8,14.7,45.1,late,7.5
+S0092,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,67.5,36.1,20.2,15.9,on_time,15.0
+S0092,SC05,vent_support,Start ventilatory support,AIR,5,30,80,103.56,72.2,32.2,40.0,on_time,30.0
+S0092,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,138.29,106.9,55.2,51.7,on_time,15.0
+S0093,SC01,assess_patient,Hands-on assessment,REC,1,15,20,32.91,7.6,4.6,3.0,on_time,15.0
+S0093,SC01,call_help,Call for help,COM,2,15,35,,,12.9,,missed,0.0
+S0093,SC01,position_airway,Reposition airway,AIR,3,15,45,57.22,31.9,18.4,13.5,on_time,15.0
+S0093,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,75.22,49.9,25.8,24.1,on_time,25.0
+S0093,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,103.24,77.9,33.1,44.8,late,7.5
+S0093,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,100.31,75.0,64.4,10.6,on_time,15.0
+S0094,SC03,assess_patient,Hands-on assessment,REC,1,10,20,53.77,17.0,5.5,11.5,on_time,10.0
+S0094,SC03,cap_refill,Check capillary refill,REC,2,15,35,,,11.0,,missed,0.0
+S0094,SC03,call_help,Call for help,COM,3,15,45,88.7,51.9,16.6,35.3,late,7.5
+S0094,SC03,program_pump,Program IV pump,EQP,4,20,100,,,41.4,,missed,0.0
+S0094,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,193.29,156.5,50.6,105.9,late,12.5
+S0094,SC03,reassess,Reassess after bolus,REC,6,15,200,,,101.2,,missed,0.0
+S0095,SC03,assess_patient,Hands-on assessment,REC,1,10,20,58.66,10.3,5.5,4.8,on_time,10.0
+S0095,SC03,cap_refill,Check capillary refill,REC,2,15,35,,,11.0,,missed,0.0
+S0095,SC03,call_help,Call for help,COM,3,15,45,,,16.6,,missed,0.0
+S0095,SC03,program_pump,Program IV pump,EQP,4,20,100,111.6,63.2,41.4,21.8,on_time,20.0
+S0095,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,130.7,82.3,50.6,31.7,on_time,25.0
+S0095,SC03,reassess,Reassess after bolus,REC,6,15,200,230.51,182.1,101.2,80.9,on_time,15.0
+S0096,SC04,assess_patient,Hands-on assessment,REC,1,10,15,46.53,10.6,3.7,6.9,on_time,10.0
+S0096,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,59.25,23.3,8.3,15.0,on_time,15.0
+S0096,SC04,call_help,Call for help,COM,3,15,40,66.22,30.3,13.8,16.5,on_time,15.0
+S0096,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,80.72,44.8,27.6,17.2,on_time,35.0
+S0096,SC04,apply_o2,Apply oxygen,AIR,5,15,90,164.27,128.3,36.8,91.5,late,7.5
+S0096,SC04,position_patient,Position patient,AIR,6,10,110,184.91,148.9,46.0,102.9,late,5.0
+S0097,SC01,assess_patient,Hands-on assessment,REC,1,15,20,56.12,14.2,4.6,9.6,on_time,15.0
+S0097,SC01,call_help,Call for help,COM,2,15,35,105.57,63.6,12.9,50.7,late,7.5
+S0097,SC01,position_airway,Reposition airway,AIR,3,15,45,,,18.4,,missed,0.0
+S0097,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,,,25.8,,missed,0.0
+S0097,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,139.94,98.0,33.1,64.9,late,7.5
+S0097,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,,,64.4,,missed,0.0
+S0098,SC03,assess_patient,Hands-on assessment,REC,1,10,20,39.16,7.1,5.5,1.6,on_time,10.0
+S0098,SC03,cap_refill,Check capillary refill,REC,2,15,35,56.37,24.3,11.0,13.3,on_time,15.0
+S0098,SC03,call_help,Call for help,COM,3,15,45,63.38,31.3,16.6,14.7,on_time,15.0
+S0098,SC03,program_pump,Program IV pump,EQP,4,20,100,100.48,68.4,41.4,27.0,on_time,20.0
+S0098,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,109.37,77.3,50.6,26.7,on_time,25.0
+S0098,SC03,reassess,Reassess after bolus,REC,6,15,200,178.63,146.6,101.2,45.4,on_time,15.0
+S0099,SC02,assess_patient,Hands-on assessment,REC,1,10,15,37.92,9.0,3.7,5.3,on_time,10.0
+S0099,SC02,note_time,Note seizure start time,COM,2,10,25,40.91,11.9,7.4,4.5,on_time,10.0
+S0099,SC02,call_help,Call for help,COM,3,15,35,58.17,29.2,11.0,18.2,on_time,15.0
+S0099,SC02,apply_o2,Apply oxygen,AIR,4,15,60,78.76,49.8,22.1,27.7,on_time,15.0
+S0099,SC02,suction_airway,Suction airway,AIR,5,15,90,89.75,60.8,36.8,24.0,on_time,15.0
+S0099,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,182.27,153.3,69.0,84.3,late,17.5
+S0100,SC02,assess_patient,Hands-on assessment,REC,1,10,15,39.34,6.0,3.7,2.3,on_time,10.0
+S0100,SC02,note_time,Note seizure start time,COM,2,10,25,44.17,10.9,7.4,3.5,on_time,10.0
+S0100,SC02,call_help,Call for help,COM,3,15,35,51.31,18.0,11.0,7.0,on_time,15.0
+S0100,SC02,apply_o2,Apply oxygen,AIR,4,15,60,67.78,34.5,22.1,12.4,on_time,15.0
+S0100,SC02,suction_airway,Suction airway,AIR,5,15,90,65.68,32.4,36.8,-4.4,on_time,15.0
+S0100,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,117.58,84.3,69.0,15.3,on_time,35.0
+S0101,SC05,assess_patient,Hands-on assessment,REC,1,10,20,57.21,8.5,5.5,3.0,on_time,10.0
+S0101,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,66.61,17.9,11.0,6.9,on_time,15.0
+S0101,SC05,call_help,Call for help,COM,3,15,40,79.44,30.7,14.7,16.0,on_time,15.0
+S0101,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,,,20.2,,missed,0.0
+S0101,SC05,vent_support,Start ventilatory support,AIR,5,30,80,104.81,56.1,32.2,23.9,on_time,30.0
+S0101,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,131.9,83.2,55.2,28.0,on_time,15.0
+S0102,SC04,assess_patient,Hands-on assessment,REC,1,10,15,32.68,10.6,3.7,6.9,on_time,10.0
+S0102,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,48.02,25.9,8.3,17.6,late,7.5
+S0102,SC04,call_help,Call for help,COM,3,15,40,43.88,21.8,13.8,8.0,on_time,15.0
+S0102,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,59.98,37.8,27.6,10.2,on_time,35.0
+S0102,SC04,apply_o2,Apply oxygen,AIR,5,15,90,70.45,48.3,36.8,11.5,on_time,15.0
+S0102,SC04,position_patient,Position patient,AIR,6,10,110,95.13,73.0,46.0,27.0,on_time,10.0
+S0103,SC01,assess_patient,Hands-on assessment,REC,1,15,20,54.41,10.2,4.6,5.6,on_time,15.0
+S0103,SC01,call_help,Call for help,COM,2,15,35,68.22,24.0,12.9,11.1,on_time,15.0
+S0103,SC01,position_airway,Reposition airway,AIR,3,15,45,90.92,46.7,18.4,28.3,late,7.5
+S0103,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,,,25.8,,missed,0.0
+S0103,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,146.79,102.5,33.1,69.4,late,7.5
+S0103,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,183.17,138.9,64.4,74.5,late,7.5
+S0104,SC02,assess_patient,Hands-on assessment,REC,1,10,15,39.23,7.5,3.7,3.8,on_time,10.0
+S0104,SC02,note_time,Note seizure start time,COM,2,10,25,43.28,11.6,7.4,4.2,on_time,10.0
+S0104,SC02,call_help,Call for help,COM,3,15,35,50.37,18.6,11.0,7.6,on_time,15.0
+S0104,SC02,apply_o2,Apply oxygen,AIR,4,15,60,91.71,60.0,22.1,37.9,on_time,15.0
+S0104,SC02,suction_airway,Suction airway,AIR,5,15,90,82.13,50.4,36.8,13.6,on_time,15.0
+S0104,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,113.0,81.3,69.0,12.3,on_time,35.0
+S0105,SC01,assess_patient,Hands-on assessment,REC,1,15,20,38.61,9.8,4.6,5.2,on_time,15.0
+S0105,SC01,call_help,Call for help,COM,2,15,35,53.88,25.1,12.9,12.2,on_time,15.0
+S0105,SC01,position_airway,Reposition airway,AIR,3,15,45,59.91,31.1,18.4,12.7,on_time,15.0
+S0105,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,,,25.8,,missed,0.0
+S0105,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,108.33,79.6,33.1,46.5,late,7.5
+S0105,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,138.12,109.4,64.4,45.0,on_time,15.0
+S0106,SC01,assess_patient,Hands-on assessment,REC,1,15,20,45.98,4.3,4.6,-0.3,on_time,15.0
+S0106,SC01,call_help,Call for help,COM,2,15,35,59.88,18.2,12.9,5.3,on_time,15.0
+S0106,SC01,position_airway,Reposition airway,AIR,3,15,45,80.91,39.3,18.4,20.9,on_time,15.0
+S0106,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,75.69,34.1,25.8,8.3,on_time,25.0
+S0106,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,139.65,98.0,33.1,64.9,late,7.5
+S0106,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,128.87,87.2,64.4,22.8,on_time,15.0
+S0107,SC04,assess_patient,Hands-on assessment,REC,1,10,15,43.33,6.9,3.7,3.2,on_time,10.0
+S0107,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,64.75,28.3,8.3,20.0,late,7.5
+S0107,SC04,call_help,Call for help,COM,3,15,40,70.53,34.1,13.8,20.3,on_time,15.0
+S0107,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,68.06,31.7,27.6,4.1,on_time,35.0
+S0107,SC04,apply_o2,Apply oxygen,AIR,5,15,90,105.37,69.0,36.8,32.2,on_time,15.0
+S0107,SC04,position_patient,Position patient,AIR,6,10,110,121.29,84.9,46.0,38.9,on_time,10.0
+S0108,SC02,assess_patient,Hands-on assessment,REC,1,10,15,40.53,9.7,3.7,6.0,on_time,10.0
+S0108,SC02,note_time,Note seizure start time,COM,2,10,25,45.8,14.9,7.4,7.5,on_time,10.0
+S0108,SC02,call_help,Call for help,COM,3,15,35,59.67,28.8,11.0,17.8,on_time,15.0
+S0108,SC02,apply_o2,Apply oxygen,AIR,4,15,60,63.39,32.5,22.1,10.4,on_time,15.0
+S0108,SC02,suction_airway,Suction airway,AIR,5,15,90,88.78,57.9,36.8,21.1,on_time,15.0
+S0108,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,142.93,112.1,69.0,43.1,on_time,35.0
+S0109,SC01,assess_patient,Hands-on assessment,REC,1,15,20,47.27,5.6,4.6,1.0,on_time,15.0
+S0109,SC01,call_help,Call for help,COM,2,15,35,61.83,20.1,12.9,7.2,on_time,15.0
+S0109,SC01,position_airway,Reposition airway,AIR,3,15,45,80.56,38.9,18.4,20.5,on_time,15.0
+S0109,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,97.88,56.2,25.8,30.4,on_time,25.0
+S0109,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,83.32,41.6,33.1,8.5,on_time,15.0
+S0109,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,,,64.4,,missed,0.0
+S0110,SC01,assess_patient,Hands-on assessment,REC,1,15,20,43.06,8.8,4.6,4.2,on_time,15.0
+S0110,SC01,call_help,Call for help,COM,2,15,35,54.1,19.8,12.9,6.9,on_time,15.0
+S0110,SC01,position_airway,Reposition airway,AIR,3,15,45,64.92,30.6,18.4,12.2,on_time,15.0
+S0110,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,,,25.8,,missed,0.0
+S0110,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,75.04,40.7,33.1,7.6,on_time,15.0
+S0110,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,137.11,102.8,64.4,38.4,on_time,15.0
+S0111,SC02,assess_patient,Hands-on assessment,REC,1,10,15,33.74,7.9,3.7,4.2,on_time,10.0
+S0111,SC02,note_time,Note seizure start time,COM,2,10,25,,,7.4,,missed,0.0
+S0111,SC02,call_help,Call for help,COM,3,15,35,42.36,16.5,11.0,5.5,on_time,15.0
+S0111,SC02,apply_o2,Apply oxygen,AIR,4,15,60,74.2,48.4,22.1,26.3,on_time,15.0
+S0111,SC02,suction_airway,Suction airway,AIR,5,15,90,93.16,67.3,36.8,30.5,on_time,15.0
+S0111,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,214.29,188.4,69.0,119.4,late,17.5
+S0112,SC03,assess_patient,Hands-on assessment,REC,1,10,20,61.19,22.8,5.5,17.3,late,5.0
+S0112,SC03,cap_refill,Check capillary refill,REC,2,15,35,65.63,27.3,11.0,16.3,on_time,15.0
+S0112,SC03,call_help,Call for help,COM,3,15,45,92.07,53.7,16.6,37.1,late,7.5
+S0112,SC03,program_pump,Program IV pump,EQP,4,20,100,145.95,107.6,41.4,66.2,late,10.0
+S0112,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,224.17,185.8,50.6,135.2,late,12.5
+S0112,SC03,reassess,Reassess after bolus,REC,6,15,200,,,101.2,,missed,0.0
+S0113,SC02,assess_patient,Hands-on assessment,REC,1,10,15,32.61,8.1,3.7,4.4,on_time,10.0
+S0113,SC02,note_time,Note seizure start time,COM,2,10,25,39.75,15.2,7.4,7.8,on_time,10.0
+S0113,SC02,call_help,Call for help,COM,3,15,35,61.93,37.4,11.0,26.4,late,7.5
+S0113,SC02,apply_o2,Apply oxygen,AIR,4,15,60,83.83,59.3,22.1,37.2,on_time,15.0
+S0113,SC02,suction_airway,Suction airway,AIR,5,15,90,94.12,69.6,36.8,32.8,on_time,15.0
+S0113,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,152.24,127.7,69.0,58.7,on_time,35.0
+S0114,SC03,assess_patient,Hands-on assessment,REC,1,10,20,48.05,11.0,5.5,5.5,on_time,10.0
+S0114,SC03,cap_refill,Check capillary refill,REC,2,15,35,54.71,17.7,11.0,6.7,on_time,15.0
+S0114,SC03,call_help,Call for help,COM,3,15,45,69.82,32.8,16.6,16.2,on_time,15.0
+S0114,SC03,program_pump,Program IV pump,EQP,4,20,100,78.94,41.9,41.4,0.5,on_time,20.0
+S0114,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,,,50.6,,missed,0.0
+S0114,SC03,reassess,Reassess after bolus,REC,6,15,200,215.61,178.6,101.2,77.4,on_time,15.0
+S0115,SC01,assess_patient,Hands-on assessment,REC,1,15,20,34.88,8.6,4.6,4.0,on_time,15.0
+S0115,SC01,call_help,Call for help,COM,2,15,35,42.33,16.1,12.9,3.2,on_time,15.0
+S0115,SC01,position_airway,Reposition airway,AIR,3,15,45,56.12,29.9,18.4,11.5,on_time,15.0
+S0115,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,68.45,42.2,25.8,16.4,on_time,25.0
+S0115,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,116.1,89.9,33.1,56.8,late,7.5
+S0115,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,128.38,102.1,64.4,37.7,on_time,15.0
+S0116,SC05,assess_patient,Hands-on assessment,REC,1,10,20,60.76,10.8,5.5,5.3,on_time,10.0
+S0116,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,66.53,16.5,11.0,5.5,on_time,15.0
+S0116,SC05,call_help,Call for help,COM,3,15,40,76.85,26.9,14.7,12.2,on_time,15.0
+S0116,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,,,20.2,,missed,0.0
+S0116,SC05,vent_support,Start ventilatory support,AIR,5,30,80,88.68,38.7,32.2,6.5,on_time,30.0
+S0116,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,,,55.2,,missed,0.0
+S0117,SC05,assess_patient,Hands-on assessment,REC,1,10,20,43.59,8.9,5.5,3.4,on_time,10.0
+S0117,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,54.53,19.9,11.0,8.9,on_time,15.0
+S0117,SC05,call_help,Call for help,COM,3,15,40,61.34,26.7,14.7,12.0,on_time,15.0
+S0117,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,63.47,28.8,20.2,8.6,on_time,15.0
+S0117,SC05,vent_support,Start ventilatory support,AIR,5,30,80,85.15,50.5,32.2,18.3,on_time,30.0
+S0117,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,109.09,74.4,55.2,19.2,on_time,15.0
+S0118,SC03,assess_patient,Hands-on assessment,REC,1,10,20,47.44,8.2,5.5,2.7,on_time,10.0
+S0118,SC03,cap_refill,Check capillary refill,REC,2,15,35,62.01,22.8,11.0,11.8,on_time,15.0
+S0118,SC03,call_help,Call for help,COM,3,15,45,67.15,28.0,16.6,11.4,on_time,15.0
+S0118,SC03,program_pump,Program IV pump,EQP,4,20,100,96.32,57.1,41.4,15.7,on_time,20.0
+S0118,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,,,50.6,,missed,0.0
+S0118,SC03,reassess,Reassess after bolus,REC,6,15,200,268.38,229.2,101.2,128.0,late,7.5
+S0119,SC02,assess_patient,Hands-on assessment,REC,1,10,15,35.63,8.3,3.7,4.6,on_time,10.0
+S0119,SC02,note_time,Note seizure start time,COM,2,10,25,40.31,13.0,7.4,5.6,on_time,10.0
+S0119,SC02,call_help,Call for help,COM,3,15,35,47.7,20.4,11.0,9.4,on_time,15.0
+S0119,SC02,apply_o2,Apply oxygen,AIR,4,15,60,61.15,33.8,22.1,11.7,on_time,15.0
+S0119,SC02,suction_airway,Suction airway,AIR,5,15,90,93.13,65.8,36.8,29.0,on_time,15.0
+S0119,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,140.82,113.5,69.0,44.5,on_time,35.0
+S0120,SC02,assess_patient,Hands-on assessment,REC,1,10,15,27.62,7.6,3.7,3.9,on_time,10.0
+S0120,SC02,note_time,Note seizure start time,COM,2,10,25,34.38,14.3,7.4,6.9,on_time,10.0
+S0120,SC02,call_help,Call for help,COM,3,15,35,32.21,12.1,11.0,1.1,on_time,15.0
+S0120,SC02,apply_o2,Apply oxygen,AIR,4,15,60,49.5,29.4,22.1,7.3,on_time,15.0
+S0120,SC02,suction_airway,Suction airway,AIR,5,15,90,88.07,68.0,36.8,31.2,on_time,15.0
+S0120,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,131.91,111.8,69.0,42.8,on_time,35.0
+S0121,SC05,assess_patient,Hands-on assessment,REC,1,10,20,59.99,11.8,5.5,6.3,on_time,10.0
+S0121,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,69.19,21.0,11.0,10.0,on_time,15.0
+S0121,SC05,call_help,Call for help,COM,3,15,40,82.19,34.0,14.7,19.3,on_time,15.0
+S0121,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,90.28,42.1,20.2,21.9,on_time,15.0
+S0121,SC05,vent_support,Start ventilatory support,AIR,5,30,80,133.34,85.2,32.2,53.0,late,15.0
+S0121,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,136.85,88.7,55.2,33.5,on_time,15.0
+S0122,SC03,assess_patient,Hands-on assessment,REC,1,10,20,59.83,11.6,5.5,6.1,on_time,10.0
+S0122,SC03,cap_refill,Check capillary refill,REC,2,15,35,67.06,18.9,11.0,7.9,on_time,15.0
+S0122,SC03,call_help,Call for help,COM,3,15,45,76.35,28.2,16.6,11.6,on_time,15.0
+S0122,SC03,program_pump,Program IV pump,EQP,4,20,100,,,41.4,,missed,0.0
+S0122,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,138.5,90.3,50.6,39.7,on_time,25.0
+S0122,SC03,reassess,Reassess after bolus,REC,6,15,200,214.58,166.4,101.2,65.2,on_time,15.0
+S0123,SC03,assess_patient,Hands-on assessment,REC,1,10,20,56.24,10.1,5.5,4.6,on_time,10.0
+S0123,SC03,cap_refill,Check capillary refill,REC,2,15,35,61.69,15.6,11.0,4.6,on_time,15.0
+S0123,SC03,call_help,Call for help,COM,3,15,45,66.32,20.2,16.6,3.6,on_time,15.0
+S0123,SC03,program_pump,Program IV pump,EQP,4,20,100,148.02,101.9,41.4,60.5,late,10.0
+S0123,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,132.98,86.9,50.6,36.3,on_time,25.0
+S0123,SC03,reassess,Reassess after bolus,REC,6,15,200,172.94,126.8,101.2,25.6,on_time,15.0
+S0124,SC02,assess_patient,Hands-on assessment,REC,1,10,15,36.42,4.8,3.7,1.1,on_time,10.0
+S0124,SC02,note_time,Note seizure start time,COM,2,10,25,41.56,9.9,7.4,2.5,on_time,10.0
+S0124,SC02,call_help,Call for help,COM,3,15,35,50.26,18.6,11.0,7.6,on_time,15.0
+S0124,SC02,apply_o2,Apply oxygen,AIR,4,15,60,58.43,26.8,22.1,4.7,on_time,15.0
+S0124,SC02,suction_airway,Suction airway,AIR,5,15,90,,,36.8,,missed,0.0
+S0124,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,135.39,103.8,69.0,34.8,on_time,35.0
+S0125,SC02,assess_patient,Hands-on assessment,REC,1,10,15,34.22,6.7,3.7,3.0,on_time,10.0
+S0125,SC02,note_time,Note seizure start time,COM,2,10,25,60.77,33.2,7.4,25.8,late,5.0
+S0125,SC02,call_help,Call for help,COM,3,15,35,108.95,81.4,11.0,70.4,late,7.5
+S0125,SC02,apply_o2,Apply oxygen,AIR,4,15,60,73.27,45.7,22.1,23.6,on_time,15.0
+S0125,SC02,suction_airway,Suction airway,AIR,5,15,90,121.84,94.3,36.8,57.5,late,7.5
+S0125,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,,,69.0,,missed,0.0
+S0126,SC02,assess_patient,Hands-on assessment,REC,1,10,15,31.18,6.1,3.7,2.4,on_time,10.0
+S0126,SC02,note_time,Note seizure start time,COM,2,10,25,45.81,20.7,7.4,13.3,on_time,10.0
+S0126,SC02,call_help,Call for help,COM,3,15,35,,,11.0,,missed,0.0
+S0126,SC02,apply_o2,Apply oxygen,AIR,4,15,60,56.74,31.7,22.1,9.6,on_time,15.0
+S0126,SC02,suction_airway,Suction airway,AIR,5,15,90,66.95,41.9,36.8,5.1,on_time,15.0
+S0126,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,,,69.0,,missed,0.0
+S0127,SC01,assess_patient,Hands-on assessment,REC,1,15,20,36.59,9.7,4.6,5.1,on_time,15.0
+S0127,SC01,call_help,Call for help,COM,2,15,35,,,12.9,,missed,0.0
+S0127,SC01,position_airway,Reposition airway,AIR,3,15,45,56.46,29.6,18.4,11.2,on_time,15.0
+S0127,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,53.74,26.9,25.8,1.1,on_time,25.0
+S0127,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,76.13,49.3,33.1,16.2,on_time,15.0
+S0127,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,,,64.4,,missed,0.0
+S0128,SC05,assess_patient,Hands-on assessment,REC,1,10,20,46.65,11.5,5.5,6.0,on_time,10.0
+S0128,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,67.92,32.8,11.0,21.8,on_time,15.0
+S0128,SC05,call_help,Call for help,COM,3,15,40,138.36,103.3,14.7,88.6,late,7.5
+S0128,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,70.48,35.4,20.2,15.2,on_time,15.0
+S0128,SC05,vent_support,Start ventilatory support,AIR,5,30,80,152.59,117.5,32.2,85.3,late,15.0
+S0128,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,149.37,114.3,55.2,59.1,on_time,15.0
+S0129,SC02,assess_patient,Hands-on assessment,REC,1,10,15,32.08,6.1,3.7,2.4,on_time,10.0
+S0129,SC02,note_time,Note seizure start time,COM,2,10,25,45.38,19.4,7.4,12.0,on_time,10.0
+S0129,SC02,call_help,Call for help,COM,3,15,35,47.95,22.0,11.0,11.0,on_time,15.0
+S0129,SC02,apply_o2,Apply oxygen,AIR,4,15,60,73.35,47.4,22.1,25.3,on_time,15.0
+S0129,SC02,suction_airway,Suction airway,AIR,5,15,90,70.71,44.7,36.8,7.9,on_time,15.0
+S0129,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,110.02,84.1,69.0,15.1,on_time,35.0
+S0130,SC04,assess_patient,Hands-on assessment,REC,1,10,15,41.98,8.0,3.7,4.3,on_time,10.0
+S0130,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,53.37,19.3,8.3,11.0,on_time,15.0
+S0130,SC04,call_help,Call for help,COM,3,15,40,56.55,22.5,13.8,8.7,on_time,15.0
+S0130,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,114.33,80.3,27.6,52.7,late,17.5
+S0130,SC04,apply_o2,Apply oxygen,AIR,5,15,90,117.24,83.2,36.8,46.4,on_time,15.0
+S0130,SC04,position_patient,Position patient,AIR,6,10,110,163.42,129.4,46.0,83.4,late,5.0
+S0131,SC04,assess_patient,Hands-on assessment,REC,1,10,15,41.63,5.8,3.7,2.1,on_time,10.0
+S0131,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,48.33,12.5,8.3,4.2,on_time,15.0
+S0131,SC04,call_help,Call for help,COM,3,15,40,73.31,37.5,13.8,23.7,on_time,15.0
+S0131,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,103.21,67.4,27.6,39.8,on_time,35.0
+S0131,SC04,apply_o2,Apply oxygen,AIR,5,15,90,100.77,64.9,36.8,28.1,on_time,15.0
+S0131,SC04,position_patient,Position patient,AIR,6,10,110,78.57,42.7,46.0,-3.3,on_time,10.0
+S0132,SC05,assess_patient,Hands-on assessment,REC,1,10,20,47.19,16.3,5.5,10.8,on_time,10.0
+S0132,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,57.1,26.2,11.0,15.2,on_time,15.0
+S0132,SC05,call_help,Call for help,COM,3,15,40,53.78,22.9,14.7,8.2,on_time,15.0
+S0132,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,85.14,54.2,20.2,34.0,on_time,15.0
+S0132,SC05,vent_support,Start ventilatory support,AIR,5,30,80,115.82,84.9,32.2,52.7,late,15.0
+S0132,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,170.28,139.3,55.2,84.1,late,7.5
+S0133,SC01,assess_patient,Hands-on assessment,REC,1,15,20,48.2,8.9,4.6,4.3,on_time,15.0
+S0133,SC01,call_help,Call for help,COM,2,15,35,,,12.9,,missed,0.0
+S0133,SC01,position_airway,Reposition airway,AIR,3,15,45,72.98,33.7,18.4,15.3,on_time,15.0
+S0133,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,,,25.8,,missed,0.0
+S0133,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,83.49,44.2,33.1,11.1,on_time,15.0
+S0133,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,155.69,116.4,64.4,52.0,on_time,15.0
+S0134,SC05,assess_patient,Hands-on assessment,REC,1,10,20,56.25,12.8,5.5,7.3,on_time,10.0
+S0134,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,65.84,22.4,11.0,11.4,on_time,15.0
+S0134,SC05,call_help,Call for help,COM,3,15,40,105.23,61.8,14.7,47.1,late,7.5
+S0134,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,73.72,30.3,20.2,10.1,on_time,15.0
+S0134,SC05,vent_support,Start ventilatory support,AIR,5,30,80,,,32.2,,missed,0.0
+S0134,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,119.99,76.5,55.2,21.3,on_time,15.0
+S0135,SC05,assess_patient,Hands-on assessment,REC,1,10,20,54.89,12.2,5.5,6.7,on_time,10.0
+S0135,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,57.63,14.9,11.0,3.9,on_time,15.0
+S0135,SC05,call_help,Call for help,COM,3,15,40,90.38,47.7,14.7,33.0,late,7.5
+S0135,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,93.48,50.8,20.2,30.6,on_time,15.0
+S0135,SC05,vent_support,Start ventilatory support,AIR,5,30,80,77.83,35.1,32.2,2.9,on_time,30.0
+S0135,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,126.43,83.7,55.2,28.5,on_time,15.0
+S0136,SC02,assess_patient,Hands-on assessment,REC,1,10,15,34.34,7.8,3.7,4.1,on_time,10.0
+S0136,SC02,note_time,Note seizure start time,COM,2,10,25,72.98,46.5,7.4,39.1,late,5.0
+S0136,SC02,call_help,Call for help,COM,3,15,35,67.4,40.9,11.0,29.9,late,7.5
+S0136,SC02,apply_o2,Apply oxygen,AIR,4,15,60,83.25,56.7,22.1,34.6,on_time,15.0
+S0136,SC02,suction_airway,Suction airway,AIR,5,15,90,113.05,86.5,36.8,49.7,on_time,15.0
+S0136,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,157.43,130.9,69.0,61.9,on_time,35.0
+S0137,SC04,assess_patient,Hands-on assessment,REC,1,10,15,39.27,7.3,3.7,3.6,on_time,10.0
+S0137,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,42.72,10.8,8.3,2.5,on_time,15.0
+S0137,SC04,call_help,Call for help,COM,3,15,40,,,13.8,,missed,0.0
+S0137,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,79.32,47.4,27.6,19.8,on_time,35.0
+S0137,SC04,apply_o2,Apply oxygen,AIR,5,15,90,102.78,70.8,36.8,34.0,on_time,15.0
+S0137,SC04,position_patient,Position patient,AIR,6,10,110,114.62,82.7,46.0,36.7,on_time,10.0
+S0138,SC04,assess_patient,Hands-on assessment,REC,1,10,15,29.19,6.5,3.7,2.8,on_time,10.0
+S0138,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,41.86,19.2,8.3,10.9,on_time,15.0
+S0138,SC04,call_help,Call for help,COM,3,15,40,61.92,39.2,13.8,25.4,on_time,15.0
+S0138,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,79.01,56.3,27.6,28.7,on_time,35.0
+S0138,SC04,apply_o2,Apply oxygen,AIR,5,15,90,99.02,76.3,36.8,39.5,on_time,15.0
+S0138,SC04,position_patient,Position patient,AIR,6,10,110,,,46.0,,missed,0.0
+S0139,SC04,assess_patient,Hands-on assessment,REC,1,10,15,34.42,9.1,3.7,5.4,on_time,10.0
+S0139,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,37.74,12.4,8.3,4.1,on_time,15.0
+S0139,SC04,call_help,Call for help,COM,3,15,40,62.42,37.1,13.8,23.3,on_time,15.0
+S0139,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,66.35,41.0,27.6,13.4,on_time,35.0
+S0139,SC04,apply_o2,Apply oxygen,AIR,5,15,90,88.18,62.9,36.8,26.1,on_time,15.0
+S0139,SC04,position_patient,Position patient,AIR,6,10,110,100.48,75.2,46.0,29.2,on_time,10.0
+S0140,SC02,assess_patient,Hands-on assessment,REC,1,10,15,39.72,18.0,3.7,14.3,late,5.0
+S0140,SC02,note_time,Note seizure start time,COM,2,10,25,58.16,36.4,7.4,29.0,late,5.0
+S0140,SC02,call_help,Call for help,COM,3,15,35,,,11.0,,missed,0.0
+S0140,SC02,apply_o2,Apply oxygen,AIR,4,15,60,,,22.1,,missed,0.0
+S0140,SC02,suction_airway,Suction airway,AIR,5,15,90,,,36.8,,missed,0.0
+S0140,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,,,69.0,,missed,0.0
+S0141,SC02,assess_patient,Hands-on assessment,REC,1,10,15,36.11,11.2,3.7,7.5,on_time,10.0
+S0141,SC02,note_time,Note seizure start time,COM,2,10,25,33.22,8.4,7.4,1.0,on_time,10.0
+S0141,SC02,call_help,Call for help,COM,3,15,35,43.59,18.7,11.0,7.7,on_time,15.0
+S0141,SC02,apply_o2,Apply oxygen,AIR,4,15,60,94.22,69.4,22.1,47.3,late,7.5
+S0141,SC02,suction_airway,Suction airway,AIR,5,15,90,154.62,129.8,36.8,93.0,late,7.5
+S0141,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,163.64,138.8,69.0,69.8,on_time,35.0
+S0142,SC03,assess_patient,Hands-on assessment,REC,1,10,20,61.05,21.2,5.5,15.7,late,5.0
+S0142,SC03,cap_refill,Check capillary refill,REC,2,15,35,80.87,41.0,11.0,30.0,late,7.5
+S0142,SC03,call_help,Call for help,COM,3,15,45,112.06,72.2,16.6,55.6,late,7.5
+S0142,SC03,program_pump,Program IV pump,EQP,4,20,100,258.83,218.9,41.4,177.5,late,10.0
+S0142,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,,,50.6,,missed,0.0
+S0142,SC03,reassess,Reassess after bolus,REC,6,15,200,,,101.2,,missed,0.0
+S0143,SC02,assess_patient,Hands-on assessment,REC,1,10,15,32.81,9.5,3.7,5.8,on_time,10.0
+S0143,SC02,note_time,Note seizure start time,COM,2,10,25,36.0,12.7,7.4,5.3,on_time,10.0
+S0143,SC02,call_help,Call for help,COM,3,15,35,,,11.0,,missed,0.0
+S0143,SC02,apply_o2,Apply oxygen,AIR,4,15,60,,,22.1,,missed,0.0
+S0143,SC02,suction_airway,Suction airway,AIR,5,15,90,,,36.8,,missed,0.0
+S0143,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,134.58,111.3,69.0,42.3,on_time,35.0
+S0144,SC04,assess_patient,Hands-on assessment,REC,1,10,15,39.49,7.6,3.7,3.9,on_time,10.0
+S0144,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,51.61,19.7,8.3,11.4,on_time,15.0
+S0144,SC04,call_help,Call for help,COM,3,15,40,104.74,72.9,13.8,59.1,late,7.5
+S0144,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,96.95,65.1,27.6,37.5,on_time,35.0
+S0144,SC04,apply_o2,Apply oxygen,AIR,5,15,90,138.29,106.4,36.8,69.6,late,7.5
+S0144,SC04,position_patient,Position patient,AIR,6,10,110,127.33,95.5,46.0,49.5,on_time,10.0
+S0145,SC04,assess_patient,Hands-on assessment,REC,1,10,15,37.21,6.2,3.7,2.5,on_time,10.0
+S0145,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,44.22,13.2,8.3,4.9,on_time,15.0
+S0145,SC04,call_help,Call for help,COM,3,15,40,,,13.8,,missed,0.0
+S0145,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,96.12,65.1,27.6,37.5,on_time,35.0
+S0145,SC04,apply_o2,Apply oxygen,AIR,5,15,90,99.88,68.9,36.8,32.1,on_time,15.0
+S0145,SC04,position_patient,Position patient,AIR,6,10,110,92.89,61.9,46.0,15.9,on_time,10.0
+S0146,SC03,assess_patient,Hands-on assessment,REC,1,10,20,52.52,13.1,5.5,7.6,on_time,10.0
+S0146,SC03,cap_refill,Check capillary refill,REC,2,15,35,65.08,25.7,11.0,14.7,on_time,15.0
+S0146,SC03,call_help,Call for help,COM,3,15,45,,,16.6,,missed,0.0
+S0146,SC03,program_pump,Program IV pump,EQP,4,20,100,108.79,69.4,41.4,28.0,on_time,20.0
+S0146,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,144.5,105.1,50.6,54.5,on_time,25.0
+S0146,SC03,reassess,Reassess after bolus,REC,6,15,200,276.53,237.1,101.2,135.9,late,7.5
+S0147,SC05,assess_patient,Hands-on assessment,REC,1,10,20,59.62,16.2,5.5,10.7,on_time,10.0
+S0147,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,69.36,26.0,11.0,15.0,on_time,15.0
+S0147,SC05,call_help,Call for help,COM,3,15,40,,,14.7,,missed,0.0
+S0147,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,72.88,29.5,20.2,9.3,on_time,15.0
+S0147,SC05,vent_support,Start ventilatory support,AIR,5,30,80,82.29,38.9,32.2,6.7,on_time,30.0
+S0147,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,177.93,134.6,55.2,79.4,late,7.5
+S0148,SC01,assess_patient,Hands-on assessment,REC,1,15,20,36.22,11.2,4.6,6.6,on_time,15.0
+S0148,SC01,call_help,Call for help,COM,2,15,35,72.53,47.5,12.9,34.6,late,7.5
+S0148,SC01,position_airway,Reposition airway,AIR,3,15,45,,,18.4,,missed,0.0
+S0148,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,87.02,62.0,25.8,36.2,late,12.5
+S0148,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,101.55,76.5,33.1,43.4,late,7.5
+S0148,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,,,64.4,,missed,0.0
+S0149,SC01,assess_patient,Hands-on assessment,REC,1,15,20,40.69,7.1,4.6,2.5,on_time,15.0
+S0149,SC01,call_help,Call for help,COM,2,15,35,,,12.9,,missed,0.0
+S0149,SC01,position_airway,Reposition airway,AIR,3,15,45,73.88,40.3,18.4,21.9,on_time,15.0
+S0149,SC01,start_bvm,Start bag-mask ventilation,AIR,4,25,60,,,25.8,,missed,0.0
+S0149,SC01,connect_o2,Connect O2 to BVM,EQP,5,15,75,103.93,70.4,33.1,37.3,on_time,15.0
+S0149,SC01,check_pupils,Neuro check (pupils),REC,6,15,130,168.11,134.6,64.4,70.2,late,7.5
+S0150,SC03,assess_patient,Hands-on assessment,REC,1,10,20,77.03,37.5,5.5,32.0,late,5.0
+S0150,SC03,cap_refill,Check capillary refill,REC,2,15,35,82.19,42.6,11.0,31.6,late,7.5
+S0150,SC03,call_help,Call for help,COM,3,15,45,107.96,68.4,16.6,51.8,late,7.5
+S0150,SC03,program_pump,Program IV pump,EQP,4,20,100,,,41.4,,missed,0.0
+S0150,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,,,50.6,,missed,0.0
+S0150,SC03,reassess,Reassess after bolus,REC,6,15,200,,,101.2,,missed,0.0
+S0151,SC04,assess_patient,Hands-on assessment,REC,1,10,15,35.99,9.0,3.7,5.3,on_time,10.0
+S0151,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,38.42,11.5,8.3,3.2,on_time,15.0
+S0151,SC04,call_help,Call for help,COM,3,15,40,45.31,18.4,13.8,4.6,on_time,15.0
+S0151,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,73.63,46.7,27.6,19.1,on_time,35.0
+S0151,SC04,apply_o2,Apply oxygen,AIR,5,15,90,89.16,62.2,36.8,25.4,on_time,15.0
+S0151,SC04,position_patient,Position patient,AIR,6,10,110,110.16,83.2,46.0,37.2,on_time,10.0
+S0152,SC04,assess_patient,Hands-on assessment,REC,1,10,15,31.2,4.9,3.7,1.2,on_time,10.0
+S0152,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,40.81,14.5,8.3,6.2,on_time,15.0
+S0152,SC04,call_help,Call for help,COM,3,15,40,54.94,28.6,13.8,14.8,on_time,15.0
+S0152,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,77.57,51.2,27.6,23.6,on_time,35.0
+S0152,SC04,apply_o2,Apply oxygen,AIR,5,15,90,100.73,74.4,36.8,37.6,on_time,15.0
+S0152,SC04,position_patient,Position patient,AIR,6,10,110,97.34,71.0,46.0,25.0,on_time,10.0
+S0153,SC03,assess_patient,Hands-on assessment,REC,1,10,20,44.89,12.6,5.5,7.1,on_time,10.0
+S0153,SC03,cap_refill,Check capillary refill,REC,2,15,35,54.05,21.8,11.0,10.8,on_time,15.0
+S0153,SC03,call_help,Call for help,COM,3,15,45,59.03,26.7,16.6,10.1,on_time,15.0
+S0153,SC03,program_pump,Program IV pump,EQP,4,20,100,114.5,82.2,41.4,40.8,on_time,20.0
+S0153,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,142.87,110.6,50.6,60.0,on_time,25.0
+S0153,SC03,reassess,Reassess after bolus,REC,6,15,200,189.88,157.6,101.2,56.4,on_time,15.0
+S0154,SC03,assess_patient,Hands-on assessment,REC,1,10,20,56.78,11.1,5.5,5.6,on_time,10.0
+S0154,SC03,cap_refill,Check capillary refill,REC,2,15,35,69.94,24.3,11.0,13.3,on_time,15.0
+S0154,SC03,call_help,Call for help,COM,3,15,45,,,16.6,,missed,0.0
+S0154,SC03,program_pump,Program IV pump,EQP,4,20,100,152.02,106.4,41.4,65.0,late,10.0
+S0154,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,192.06,146.4,50.6,95.8,late,12.5
+S0154,SC03,reassess,Reassess after bolus,REC,6,15,200,,,101.2,,missed,0.0
+S0155,SC04,assess_patient,Hands-on assessment,REC,1,10,15,42.86,7.4,3.7,3.7,on_time,10.0
+S0155,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,50.47,15.0,8.3,6.7,on_time,15.0
+S0155,SC04,call_help,Call for help,COM,3,15,40,,,13.8,,missed,0.0
+S0155,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,86.7,51.2,27.6,23.6,on_time,35.0
+S0155,SC04,apply_o2,Apply oxygen,AIR,5,15,90,89.37,53.9,36.8,17.1,on_time,15.0
+S0155,SC04,position_patient,Position patient,AIR,6,10,110,101.46,66.0,46.0,20.0,on_time,10.0
+S0156,SC05,assess_patient,Hands-on assessment,REC,1,10,20,46.79,3.6,5.5,-1.9,on_time,10.0
+S0156,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,54.64,11.4,11.0,0.4,on_time,15.0
+S0156,SC05,call_help,Call for help,COM,3,15,40,63.04,19.8,14.7,5.1,on_time,15.0
+S0156,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,65.91,22.7,20.2,2.5,on_time,15.0
+S0156,SC05,vent_support,Start ventilatory support,AIR,5,30,80,69.33,26.1,32.2,-6.1,on_time,30.0
+S0156,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,93.05,49.8,55.2,-5.4,on_time,15.0
+S0157,SC05,assess_patient,Hands-on assessment,REC,1,10,20,48.36,7.1,5.5,1.6,on_time,10.0
+S0157,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,51.8,10.6,11.0,-0.4,on_time,15.0
+S0157,SC05,call_help,Call for help,COM,3,15,40,58.9,17.7,14.7,3.0,on_time,15.0
+S0157,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,68.75,27.5,20.2,7.3,on_time,15.0
+S0157,SC05,vent_support,Start ventilatory support,AIR,5,30,80,64.6,23.4,32.2,-8.8,on_time,30.0
+S0157,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,88.86,47.6,55.2,-7.6,on_time,15.0
+S0158,SC03,assess_patient,Hands-on assessment,REC,1,10,20,48.46,6.3,5.5,0.8,on_time,10.0
+S0158,SC03,cap_refill,Check capillary refill,REC,2,15,35,58.73,16.5,11.0,5.5,on_time,15.0
+S0158,SC03,call_help,Call for help,COM,3,15,45,55.98,13.8,16.6,-2.8,on_time,15.0
+S0158,SC03,program_pump,Program IV pump,EQP,4,20,100,105.95,63.8,41.4,22.4,on_time,20.0
+S0158,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,83.25,41.0,50.6,-9.6,on_time,25.0
+S0158,SC03,reassess,Reassess after bolus,REC,6,15,200,131.77,89.6,101.2,-11.6,on_time,15.0
+S0159,SC02,assess_patient,Hands-on assessment,REC,1,10,15,35.62,3.9,3.7,0.2,on_time,10.0
+S0159,SC02,note_time,Note seizure start time,COM,2,10,25,40.45,8.7,7.4,1.3,on_time,10.0
+S0159,SC02,call_help,Call for help,COM,3,15,35,43.08,11.4,11.0,0.4,on_time,15.0
+S0159,SC02,apply_o2,Apply oxygen,AIR,4,15,60,49.34,17.6,22.1,-4.5,on_time,15.0
+S0159,SC02,suction_airway,Suction airway,AIR,5,15,90,69.37,37.7,36.8,0.9,on_time,15.0
+S0159,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,91.54,59.8,69.0,-9.2,on_time,35.0
+S0160,SC05,assess_patient,Hands-on assessment,REC,1,10,20,56.87,8.0,5.5,2.5,on_time,10.0
+S0160,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,62.77,13.9,11.0,2.9,on_time,15.0
+S0160,SC05,call_help,Call for help,COM,3,15,40,65.89,17.0,14.7,2.3,on_time,15.0
+S0160,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,68.33,19.4,20.2,-0.8,on_time,15.0
+S0160,SC05,vent_support,Start ventilatory support,AIR,5,30,80,82.63,33.7,32.2,1.5,on_time,30.0
+S0160,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,95.82,46.9,55.2,-8.3,on_time,15.0
+S0161,SC04,assess_patient,Hands-on assessment,REC,1,10,15,29.95,6.8,3.7,3.1,on_time,10.0
+S0161,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,37.02,13.8,8.3,5.5,on_time,15.0
+S0161,SC04,call_help,Call for help,COM,3,15,40,59.4,36.2,13.8,22.4,on_time,15.0
+S0161,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,81.41,58.2,27.6,30.6,on_time,35.0
+S0161,SC04,apply_o2,Apply oxygen,AIR,5,15,90,102.18,79.0,36.8,42.2,on_time,15.0
+S0161,SC04,position_patient,Position patient,AIR,6,10,110,92.97,69.8,46.0,23.8,on_time,10.0
+S0162,SC04,assess_patient,Hands-on assessment,REC,1,10,15,45.92,6.4,3.7,2.7,on_time,10.0
+S0162,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,50.14,10.6,8.3,2.3,on_time,15.0
+S0162,SC04,call_help,Call for help,COM,3,15,40,60.42,20.9,13.8,7.1,on_time,15.0
+S0162,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,77.81,38.2,27.6,10.6,on_time,35.0
+S0162,SC04,apply_o2,Apply oxygen,AIR,5,15,90,89.33,49.8,36.8,13.0,on_time,15.0
+S0162,SC04,position_patient,Position patient,AIR,6,10,110,116.88,77.3,46.0,31.3,on_time,10.0
+S0163,SC03,assess_patient,Hands-on assessment,REC,1,10,20,50.36,10.9,5.5,5.4,on_time,10.0
+S0163,SC03,cap_refill,Check capillary refill,REC,2,15,35,,,11.0,,missed,0.0
+S0163,SC03,call_help,Call for help,COM,3,15,45,63.87,24.4,16.6,7.8,on_time,15.0
+S0163,SC03,program_pump,Program IV pump,EQP,4,20,100,115.31,75.8,41.4,34.4,on_time,20.0
+S0163,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,113.23,73.8,50.6,23.2,on_time,25.0
+S0163,SC03,reassess,Reassess after bolus,REC,6,15,200,186.74,147.3,101.2,46.1,on_time,15.0
+S0164,SC04,assess_patient,Hands-on assessment,REC,1,10,15,,,3.7,,missed,0.0
+S0164,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,107.42,67.6,8.3,59.3,late,7.5
+S0164,SC04,call_help,Call for help,COM,3,15,40,69.04,29.2,13.8,15.4,on_time,15.0
+S0164,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,79.1,39.3,27.6,11.7,on_time,35.0
+S0164,SC04,apply_o2,Apply oxygen,AIR,5,15,90,84.26,44.5,36.8,7.7,on_time,15.0
+S0164,SC04,position_patient,Position patient,AIR,6,10,110,211.31,171.5,46.0,125.5,late,5.0
+S0165,SC04,assess_patient,Hands-on assessment,REC,1,10,15,45.66,7.1,3.7,3.4,on_time,10.0
+S0165,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,57.93,19.3,8.3,11.0,on_time,15.0
+S0165,SC04,call_help,Call for help,COM,3,15,40,54.57,16.0,13.8,2.2,on_time,15.0
+S0165,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,81.13,42.5,27.6,14.9,on_time,35.0
+S0165,SC04,apply_o2,Apply oxygen,AIR,5,15,90,100.16,61.6,36.8,24.8,on_time,15.0
+S0165,SC04,position_patient,Position patient,AIR,6,10,110,97.08,58.5,46.0,12.5,on_time,10.0
+S0166,SC02,assess_patient,Hands-on assessment,REC,1,10,15,36.9,10.0,3.7,6.3,on_time,10.0
+S0166,SC02,note_time,Note seizure start time,COM,2,10,25,46.3,19.4,7.4,12.0,on_time,10.0
+S0166,SC02,call_help,Call for help,COM,3,15,35,74.78,47.9,11.0,36.9,late,7.5
+S0166,SC02,apply_o2,Apply oxygen,AIR,4,15,60,77.28,50.4,22.1,28.3,on_time,15.0
+S0166,SC02,suction_airway,Suction airway,AIR,5,15,90,110.91,84.1,36.8,47.3,on_time,15.0
+S0166,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,148.59,121.7,69.0,52.7,on_time,35.0
+S0167,SC05,assess_patient,Hands-on assessment,REC,1,10,20,51.22,9.5,5.5,4.0,on_time,10.0
+S0167,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,65.08,23.3,11.0,12.3,on_time,15.0
+S0167,SC05,call_help,Call for help,COM,3,15,40,72.98,31.2,14.7,16.5,on_time,15.0
+S0167,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,125.66,83.9,20.2,63.7,late,7.5
+S0167,SC05,vent_support,Start ventilatory support,AIR,5,30,80,95.05,53.3,32.2,21.1,on_time,30.0
+S0167,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,141.73,100.0,55.2,44.8,on_time,15.0
+S0168,SC03,assess_patient,Hands-on assessment,REC,1,10,20,54.07,13.0,5.5,7.5,on_time,10.0
+S0168,SC03,cap_refill,Check capillary refill,REC,2,15,35,,,11.0,,missed,0.0
+S0168,SC03,call_help,Call for help,COM,3,15,45,91.03,50.0,16.6,33.4,late,7.5
+S0168,SC03,program_pump,Program IV pump,EQP,4,20,100,142.95,101.9,41.4,60.5,late,10.0
+S0168,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,260.55,219.5,50.6,168.9,late,12.5
+S0168,SC03,reassess,Reassess after bolus,REC,6,15,200,,,101.2,,missed,0.0
+S0169,SC03,assess_patient,Hands-on assessment,REC,1,10,20,43.65,12.0,5.5,6.5,on_time,10.0
+S0169,SC03,cap_refill,Check capillary refill,REC,2,15,35,,,11.0,,missed,0.0
+S0169,SC03,call_help,Call for help,COM,3,15,45,59.35,27.7,16.6,11.1,on_time,15.0
+S0169,SC03,program_pump,Program IV pump,EQP,4,20,100,186.32,154.6,41.4,113.2,late,10.0
+S0169,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,128.29,96.6,50.6,46.0,on_time,25.0
+S0169,SC03,reassess,Reassess after bolus,REC,6,15,200,217.6,185.9,101.2,84.7,on_time,15.0
+S0170,SC02,assess_patient,Hands-on assessment,REC,1,10,15,34.35,10.3,3.7,6.6,on_time,10.0
+S0170,SC02,note_time,Note seizure start time,COM,2,10,25,59.65,35.6,7.4,28.2,late,5.0
+S0170,SC02,call_help,Call for help,COM,3,15,35,,,11.0,,missed,0.0
+S0170,SC02,apply_o2,Apply oxygen,AIR,4,15,60,,,22.1,,missed,0.0
+S0170,SC02,suction_airway,Suction airway,AIR,5,15,90,,,36.8,,missed,0.0
+S0170,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,217.33,193.3,69.0,124.3,late,17.5
+S0171,SC04,assess_patient,Hands-on assessment,REC,1,10,15,45.7,11.2,3.7,7.5,on_time,10.0
+S0171,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,75.64,41.1,8.3,32.8,late,7.5
+S0171,SC04,call_help,Call for help,COM,3,15,40,72.79,38.2,13.8,24.4,on_time,15.0
+S0171,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,130.32,95.8,27.6,68.2,late,17.5
+S0171,SC04,apply_o2,Apply oxygen,AIR,5,15,90,,,36.8,,missed,0.0
+S0171,SC04,position_patient,Position patient,AIR,6,10,110,,,46.0,,missed,0.0
+S0172,SC05,assess_patient,Hands-on assessment,REC,1,10,20,54.58,18.1,5.5,12.6,on_time,10.0
+S0172,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,76.98,40.5,11.0,29.5,late,7.5
+S0172,SC05,call_help,Call for help,COM,3,15,40,92.57,56.1,14.7,41.4,late,7.5
+S0172,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,134.32,97.8,20.2,77.6,late,7.5
+S0172,SC05,vent_support,Start ventilatory support,AIR,5,30,80,,,32.2,,missed,0.0
+S0172,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,,,55.2,,missed,0.0
+S0173,SC05,assess_patient,Hands-on assessment,REC,1,10,20,57.14,13.2,5.5,7.7,on_time,10.0
+S0173,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,68.03,24.1,11.0,13.1,on_time,15.0
+S0173,SC05,call_help,Call for help,COM,3,15,40,73.27,29.3,14.7,14.6,on_time,15.0
+S0173,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,104.37,60.4,20.2,40.2,late,7.5
+S0173,SC05,vent_support,Start ventilatory support,AIR,5,30,80,,,32.2,,missed,0.0
+S0173,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,211.01,167.1,55.2,111.9,late,7.5
+S0174,SC03,assess_patient,Hands-on assessment,REC,1,10,20,46.39,9.7,5.5,4.2,on_time,10.0
+S0174,SC03,cap_refill,Check capillary refill,REC,2,15,35,58.55,21.8,11.0,10.8,on_time,15.0
+S0174,SC03,call_help,Call for help,COM,3,15,45,85.79,49.1,16.6,32.5,late,7.5
+S0174,SC03,program_pump,Program IV pump,EQP,4,20,100,113.99,77.3,41.4,35.9,on_time,20.0
+S0174,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,116.96,80.2,50.6,29.6,on_time,25.0
+S0174,SC03,reassess,Reassess after bolus,REC,6,15,200,225.61,188.9,101.2,87.7,on_time,15.0
+S0175,SC02,assess_patient,Hands-on assessment,REC,1,10,15,39.13,8.4,3.7,4.7,on_time,10.0
+S0175,SC02,note_time,Note seizure start time,COM,2,10,25,49.26,18.6,7.4,11.2,on_time,10.0
+S0175,SC02,call_help,Call for help,COM,3,15,35,58.01,27.3,11.0,16.3,on_time,15.0
+S0175,SC02,apply_o2,Apply oxygen,AIR,4,15,60,94.02,63.3,22.1,41.2,late,7.5
+S0175,SC02,suction_airway,Suction airway,AIR,5,15,90,217.35,186.7,36.8,149.9,late,7.5
+S0175,SC02,give_benzo,First-line anticonvulsant,CIR,6,35,150,165.54,134.8,69.0,65.8,on_time,35.0
+S0176,SC04,assess_patient,Hands-on assessment,REC,1,10,15,59.22,19.4,3.7,15.7,late,5.0
+S0176,SC04,stop_infusion,Stop antibiotic infusion,EQP,2,15,25,69.44,29.6,8.3,21.3,late,7.5
+S0176,SC04,call_help,Call for help,COM,3,15,40,103.8,64.0,13.8,50.2,late,7.5
+S0176,SC04,give_epi,Give IM epinephrine,CIR,4,35,75,146.75,107.0,27.6,79.4,late,17.5
+S0176,SC04,apply_o2,Apply oxygen,AIR,5,15,90,,,36.8,,missed,0.0
+S0176,SC04,position_patient,Position patient,AIR,6,10,110,258.67,218.9,46.0,172.9,late,5.0
+S0177,SC03,assess_patient,Hands-on assessment,REC,1,10,20,46.45,15.5,5.5,10.0,on_time,10.0
+S0177,SC03,cap_refill,Check capillary refill,REC,2,15,35,51.93,21.0,11.0,10.0,on_time,15.0
+S0177,SC03,call_help,Call for help,COM,3,15,45,72.05,41.1,16.6,24.5,on_time,15.0
+S0177,SC03,program_pump,Program IV pump,EQP,4,20,100,98.69,67.8,41.4,26.4,on_time,20.0
+S0177,SC03,fluid_bolus,Start fluid bolus,CIR,5,25,120,135.86,104.9,50.6,54.3,on_time,25.0
+S0177,SC03,reassess,Reassess after bolus,REC,6,15,200,,,101.2,,missed,0.0
+S0178,SC05,assess_patient,Hands-on assessment,REC,1,10,20,49.73,13.0,5.5,7.5,on_time,10.0
+S0178,SC05,check_pupils,Neuro check (pupils),REC,2,15,35,,,11.0,,missed,0.0
+S0178,SC05,call_help,Call for help,COM,3,15,40,73.48,36.8,14.7,22.1,on_time,15.0
+S0178,SC05,stop_opioid,Pause opioid infusion,EQP,4,15,55,61.86,25.1,20.2,4.9,on_time,15.0
+S0178,SC05,vent_support,Start ventilatory support,AIR,5,30,80,93.19,56.5,32.2,24.3,on_time,30.0
+S0178,SC05,reversal_agent,Prepare reversal agent,CIR,6,15,130,169.15,132.4,55.2,77.2,late,7.5
